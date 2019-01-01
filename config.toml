@@ -4,7 +4,7 @@ title = "Easy There Entropy"
 
 theme = "hyde-hyde"
 
-disqusShortname = "ebuchman"
+disqusShortname = "ebuchman-blog"
 
 [params]
   author = "ebuchman"
