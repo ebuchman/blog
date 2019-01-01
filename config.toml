@@ -4,6 +4,8 @@ title = "Easy There Entropy"
 
 theme = "hyde-hyde"
 
+disqusShortname = "ebuchman"
+
 [params]
   author = "ebuchman"
   #authorimage = "img/ebuchman-epicenter.png"
@@ -35,4 +37,5 @@ theme = "hyde-hyde"
   twitter = "buchmanster"
   github = "ebuchman"
   linkedin = "ethan-buchman-10b34944"
+  keybase = "ebuchman"
 
