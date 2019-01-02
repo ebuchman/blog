@@ -9,6 +9,7 @@ disqusShortname = "ebuchman-blog"
 [params]
   author = "ebuchman"
   #authorimage = "img/ebuchman-epicenter.png"
+  authorimage = "img/zhuang-actin.png"
 
   copyright = "ebuchman"
   license = "CC BY-SA 4.0"
