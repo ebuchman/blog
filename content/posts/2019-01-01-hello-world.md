@@ -15,7 +15,7 @@ while letting [Hugo](https://gohugo.io) do the hard work of beautifying,
 unless you can convince me of something better.
 
 I'd like to post at least once a week, even if it's short. 
-If I don't, please bother me on [twitter](https://twitter.com/ebuchman).
+If I don't, please bother me on [twitter](https://twitter.com/buchmanster).
 
 What do I plan to write about? More or less what ever I'm wrestling with at the
 time. In some sense, trying to crystallize the things I think about when
