@@ -31,6 +31,12 @@ disqusShortname = "ebuchman-blog"
   weight = 900
   url = "/about/"
 
+[[menu.main]]
+  name = "Recordings"
+  identifier = "recordings"
+  weight = 200
+  url = "/recordings/"
+
       
 
 
