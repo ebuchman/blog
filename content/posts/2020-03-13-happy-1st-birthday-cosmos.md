@@ -128,7 +128,19 @@ alternative
 environments. Bitcoin and Ethereum pegs are under active development, and we may
 see them deployed later this year. I suspect this will unlock tremendous value
 for these platforms, and for Cosmos. I hope to see pegs built to many other
-    blockchains as well, like ZCash and Tezos.
+blockchains as well, like ZCash and Tezos.
+
+For more on the Bitcoin Pegs, see:
+
+- [Summa One's Golang
+  work](https://github.com/summa-tx/bitcoin-spv/tree/master/golang)
+- [Nomic's Typescript work](https://github.com/nomic-io/bitcoin-peg)
+- [Nomic's Rust work](https://github.com/nomic-io/nomic)
+
+For more on the Ethereum Pegs, see:
+
+- [Peggy](https://github.com/cosmos/peggy)
+
 
 ## Virtual Machines
 
