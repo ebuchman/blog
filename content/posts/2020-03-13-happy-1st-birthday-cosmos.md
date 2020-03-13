@@ -50,7 +50,7 @@ Bits](https://medium.com/@interchain_io/sustainability-of-the-cosmos-network-a-s
 (ie. Tendermint Inc) has demonstrated what we already knew - governance and
 accountability matter. But onwards and upwards! We're working hard on decentralizing functionality that used to
 reside at All in Bits into new entities, and it couldn't be going better. Many
-of the engineers that left All in Bits are hard at work on Tendermint and IBC
+of the engineers that left All in Bits are hard at work on Tendermint Core and IBC
 through a new subsidiary of the [Interchain Foundation
 (ICF)](https://interchain.io/) in Berlin:
 [Interchain
@@ -195,8 +195,8 @@ like polynomial commitments and aggregate signatures, but we're also exploring
 non-cryptographic improvements by reassessing data structures and protocol
 flows.
 
-The Tendermint team, under the [new GmbH](https://interchain.berlin/), is taking stock of the entire codebase
-and evaluating opportunities to improve the architecture, optimize protocols,
+At the [new GmbH](https://interchain.berlin/), the team is evaluating 
+opportunities in the Tendermint Core codebase to improve the architecture, optimize protocols,
 and with the help of the [Informal team](https://informal.systems/), make them more verifiable.
 While this work has already been mostly completed for the fast sync protocol,
 attention will likely turn to the consensus and mempool protocols next.
