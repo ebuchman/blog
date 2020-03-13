@@ -47,8 +47,8 @@ of open-source and of public economic networks. And this is only the beginning.
 
 Of course, we've had some stumbling blocks. The [recent drama with All in
 Bits](https://medium.com/@interchain_io/sustainability-of-the-cosmos-network-a-statement-from-the-interchain-foundation-c96ef0975f5)
-(ie. Tendermint Inc) has demonstrated what we already knew - governance 
-matters, and CEOs needs to be accountable to their employees. But onwards and upwards! We're working hard on decentralizing functionality that used to
+(ie. Tendermint Inc) has demonstrated what we already knew - governance and
+accountability matter. But onwards and upwards! We're working hard on decentralizing functionality that used to
 reside at All in Bits into new entities, and it couldn't be going better. Many
 of the engineers that left All in Bits are hard at work on Tendermint and IBC
 through a new subsidiary of the [Interchain Foundation
@@ -130,7 +130,7 @@ see them deployed later this year. I suspect this will unlock tremendous value
 for these platforms, and for Cosmos. I hope to see pegs built to many other
 blockchains as well, like ZCash and Tezos.
 
-For more on the Bitcoin Pegs, see:
+For more on the Bitcoin Pegs (which are all heavily under development!), see:
 
 - [Summa One's Golang
   work](https://github.com/summa-tx/bitcoin-spv/tree/master/golang)
