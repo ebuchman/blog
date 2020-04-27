@@ -183,10 +183,12 @@ military effectiveness than real casualties. That said, entire cities were massa
 
 Genghis Khan returned to Mongolia, to wage more war against other Northern
 Chinese states that had betrayed or wronged him. He would ultimately die 
-there in his mid 60s. At this point his empire stretched from North Eastern China all
-the way across the Eurasian steppe to the Caspian Sea and Persia.
+there in 1227, in his mid 60s. At this point his empire stretched from North Eastern China all
+the way across the Eurasian steppe to the Caspian Sea and Persia. It is
+estimated that his direct descendandts, almost 800 years later, number around 16
+million.
 
-Genghis Khan's sons and grandsons would go on to expand the empire, to cover all
+Genghis Khan's heirs, his sons and grandsons, would go on to expand the empire, to cover all
 of China, southern and western Russia, the Caucasus and eastern Europe, and
 Mesopotamia. The only thing that seemed capable of stopping the advance of the Mongolian army
 was heat and humidity, which weakened their bows and caused them and their
@@ -205,8 +207,8 @@ destroyed, especially in Persia and Mesopotamia.
 Huge swaths of irrigation were taken out, likely causing massive famines. 
 Entire cities were decimated, either out of retribution or to optimize the flow of goods 
 across the Silk Road by eliminating less important and more inaccessible cities. 
-So much urban landscape was returned to nature that some [suggest a net positive
-effect on the climate](#paper-genghis-climate).
+So much urban landscape was returned to nature that some [suggest a net
+reduction in atmospheric carbon dioxide](#paper-genghis-climate).
 
 At the same time, much of the technological and professional experience of the
 conquered societies was integrated into and distributed throughout the Mongolian empire.
@@ -268,8 +270,9 @@ the evolution of culture. Driven by humanist and universalist ideals, the Mongol
 the era of self-sufficient city states and established globalized
 trade in a hyper-connected world of rich information flow across robust communication infrastructure.
 But this infrastructure was was ultimately the conduit for its own downfall at the hands of 
-invisible enemy, an infectious parasite. Sound familiar? Is there no end to the
-cycles of history?
+invisible enemy, an infectious parasite. Sound familiar? 
+
+And the cycles of history play on repeat.
 
 [wiki-achaemenid]: https://en.wikipedia.org/wiki/Achaemenid_Empire
 [wiki-alexander]: https://en.wikipedia.org/wiki/Alexander_the_Great
@@ -293,6 +296,7 @@ cycles of history?
 [video-empires]: https://www.youtube.com/watch?v=ymI5Uv5cGU4
 [book-genghis]: https://www.diplomacy.edu/resources/books/reviews/genghis-khan-and-making-modern-world
 [img-empire]: /img/mongol_empire.gif
+[paper-genghis-climate]: https://journals.sagepub.com/doi/abs/10.1177/0959683610386981
 
 
 ---------------------------------------
