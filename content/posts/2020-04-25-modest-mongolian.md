@@ -208,7 +208,7 @@ Huge swaths of irrigation were taken out, likely causing massive famines.
 Entire cities were decimated, either out of retribution or to optimize the flow of goods 
 across the Silk Road by eliminating less important and more inaccessible cities. 
 So much urban landscape was returned to nature that some [suggest a net
-reduction in atmospheric carbon dioxide](#paper-genghis-climate).
+reduction in atmospheric carbon dioxide][paper-genghis-climate].
 
 At the same time, much of the technological and professional experience of the
 conquered societies was integrated into and distributed throughout the Mongolian empire.
