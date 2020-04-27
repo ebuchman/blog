@@ -194,7 +194,10 @@ horses to struggle and fall ill. Hence the topography and climate of Eurasia
 would come to mark the southern and western boundaries of the empire, preventing it from expanding
 into South Asia, Southeast Asia, the Mediterranean, and the rest of Europe.
 
-The Mongolian conquests would go done as one of the [most
+![Mongolian Empire][img-empire]
+*Growth of the Mongolian Empire. Genghis Khan died in 1227.*
+
+The Mongolian conquests would go down as one of the [most
 destructive][wiki-mongol-destruction]
 and transformative events in the history of civilization. Centuries, if not
 millennia, of cultural artifacts and technological infrastructure were
@@ -289,6 +292,7 @@ cycles of history?
 
 [video-empires]: https://www.youtube.com/watch?v=ymI5Uv5cGU4
 [book-genghis]: https://www.diplomacy.edu/resources/books/reviews/genghis-khan-and-making-modern-world
+[img-empire]: /img/mongol_empire.gif
 
 
 ---------------------------------------
