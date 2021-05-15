@@ -4,6 +4,8 @@ title: "About"
 
 I work in software, research, education, and the garden.
 
+[CV](https://github.com/ebuchman/resume/blob/master/resume.pdf)
+
 The following more or less sum me up:
 
 ---
