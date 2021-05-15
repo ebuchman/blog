@@ -1,4 +1,9 @@
 
+---
+title: "Critique of MMT from a Monetary Localist"
+date: 2021-05-15
+draft: true
+---
 
 
 
