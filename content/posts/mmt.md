@@ -13,10 +13,10 @@ licence to crank the printer to 11. And indeed, the current form of
 MMT is probably dangerous and incomplete. But even if somewhat misguided, MMT seems to be trying to
 refocus economics on an important set of ideas.
 
-MMT was first brought seriously to my attention by George Selgin on Bob Murphy's
-podcast. I've been mostly fascinated by Selgin's work on Free Banking
+MMT was first brought seriously to my attention by [George Selgin on Bob Murphy's
+podcast][podcast]. I've been mostly fascinated by Selgin's work on Free Banking
 (which inspired my talk on the role of cryptocurrency in the history of central banking,
-Free as in Banking),
+[Free as in Banking]),
 and the podcast episode included a debate between Selgin and Murphy on if/how free
 banking (which includes fractional reserves) fits in an Austrian economic
 context. But the episode also included a discussion critiqing MMT, which Selgin
@@ -27,7 +27,7 @@ especially in so far as I'm engaged in the rise of cryptocurrency (an early
 stage monetary revolution), I took this seriously.
 I guess despite being highly critical of them, Selgin is actually a great MMT spokesperson ;=).
 
-Fortuitously, for my birthday, my partner bought me Stephanie Kelton's book The Deficit Myth - the
+Fortuitously, for my birthday, my partner bought me Stephanie Kelton's book [The Deficit Myth] - the
 latest popularization of MMT and a great introduction to its ideas.
 Aside from being a primarily descriptive theory of how monetary institutions
 actually work (a kind of external validity that is otherwise apparently rare in economics),
@@ -67,7 +67,7 @@ to peg their currency, printing only in proportion to some amount of reserves.
 
 In the book, monetary sovereignty itself seems to be largely taken for granted;
 it does not seem to question how monetary sovereignty is acquired or lost.
-As Bob Murphy's scathing critique of The Deficit Myth points out, the prescriptions of MMT money-printing
+As Bob Murphy's [scathing critique of The Deficit Myth][Murphy Review] points out, the prescriptions of MMT money-printing
 are a surefire way to betray the trust that monetary sovereignty
 implies, and perhaps to lose it altogether (eg. when inflation ultimately forces you to borrow
 in someone else's money to afford imports).
@@ -202,9 +202,9 @@ an accurate description of the current system (as MMT does), since the current
 system appears far from sustainable - far from sufficiently able to represent
 its environment in the structure of its institutions.
 We would instead have to draw heavily from the theory of organisms and ecosystems, to concentrate
-on the sustainability of organizational forms. There is precidence in the work
+on the sustainability of organizational forms. There is precedence in the work
 of ecological economists, like E.F Shumacher, Jane Jacobs, and Elinor Ostrom.
-I tried to sketch what this might look like in this talk. 
+I tried to sketch what this might look like in my talk, [Stakeholders and Statemachines].
 But MMT does not seem to account for this kind of ecological economics. At some level, it seems even opposed to
 it, for instance in the way it emphasizes the value of a trade deficit and
 dismisses concern with dependency on imports. In contrast, ecological economics
@@ -223,9 +223,20 @@ the US monetary system. MMT fails to take the critical next step of considering 
 communities could be ready for some form of monetary sovereignty themselves, and
 that such localism, embedded in a fractal hierarchy that bridges the gap from
 local to global and back, is the actual path towards a sustainable monetary
-system.
+system. Indeed, as I detail in a [thread], this is the very essence of the [Cosmos] project, 
+to build a sustainable global economy out of sovereign, interoperable, local
+communities.
 
 ## Conclusion
 
 MMT is obviously not yet the ecologically sound theory of money we're yearning
 for. But it does seem to be barking up the right trees. 
+
+
+[podcast]: https://www.youtube.com/watch?v=JR7NJohZo-k
+[Free as in Banking]: https://www.youtube.com/watch?v=TS6VAkJ5Zik
+[The Deficit Myth]: https://stephaniekelton.com/book/
+[Murphy Review]: https://mises.org/library/deficit-myth-modern-monetary-theory-and-birth-peoples-economy
+[Stakeholders and Statemachines]: https://www.youtube.com/watch?v=Luh7m7YHRts
+[thread]: https://twitter.com/buchmanster/status/1330600004419989518
+[Cosmos]: https://cosmos.network/
