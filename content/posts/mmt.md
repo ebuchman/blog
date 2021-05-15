@@ -1,8 +1,12 @@
+---
+title: "Critique of MMT from a Monetary Localist"
+date: 2021-05-15
+draft: false
+---
 
+# MMT 
 
-# MMT
-
-So it turns out, quite to my delight, there's some pretty good stuff in Modern Monetary Theory (MMT).
+So it turns out, quite to my delight, there's some interesting stuff in Modern Monetary Theory (MMT).
 For someone who believes that abuse of the money printer is the source of so
 much ill in society, this was somewhat surprising, if not terrifying, since MMT appears to be a
 licence to crank the printer to 11. And indeed, the current form of
@@ -10,378 +14,218 @@ MMT is probably dangerous and incomplete. But even if somewhat misguided, MMT se
 refocus economics on an important set of ideas.
 
 MMT was first brought seriously to my attention by George Selgin on Bob Murphy's
-podcast. I've been mostly fascinated by Selgin's work on Free Banking,
+podcast. I've been mostly fascinated by Selgin's work on Free Banking
+(which inspired my talk on the role of cryptocurrency in the history of central banking,
+Free as in Banking),
 and the podcast episode included a debate between Selgin and Murphy on if/how free
 banking (which includes fractional reserves) fits in an Austrian economic
 context. But the episode also included a discussion critiqing MMT, which Selgin
 qualified by expressing his admiration for the depth of knowledge among MMT
 proponents about the institutional details of modern monetary systems. 
-So despite being highly critical of them, Selgin is actually a great recruiter for MMT ;=).
+Since I'm also trying to understand the institutional structure of money,
+especially in so far as I'm engaged in the rise of cryptocurrency (an early
+stage monetary revolution), I took this seriously.
+I guess despite being highly critical of them, Selgin is actually a great MMT spokesperson ;=).
 
-Depth of institutional knowledge has become increasingly impressive to me, so I
-took this seriously. I'm also trying to understand the institutional structure
-of money, especially in so far as I'm engaged in the rise of cryptocurrency,
-which is likely the early stage of a monetary revolution.
-Fortuitously, my partner bought me Stephanie Kelton's book The Deficit Myth - the
-latest popularization of MMT - for my birthday, which I've just completed. 
-
-The book is a great introduction to the ideas of MMT.
+Fortuitously, for my birthday, my partner bought me Stephanie Kelton's book The Deficit Myth - the
+latest popularization of MMT and a great introduction to its ideas.
 Aside from being a primarily descriptive theory of how monetary institutions
 actually work (a kind of external validity that is otherwise apparently rare in economics),
-there are three things I think are important about MMT: it's focus on monetary sovereignty, 
+there are three things I think are important about MMT: its focus on monetary sovereignty, 
 its recognition of real resource limits as the fundamental constraint on government spending, 
 and its prescription of a decentralized and community-oriented universal basic jobs program.
 
 None of this is particularly new, and the MMT treatment does not seem to be
-complete, but I thought I'd summarize my thoughts, the relation between MMT and
-cryptocurrency, some of the issues I found in the book, and the direction I
+complete, but having just finished The Deficit Myth I thought I'd summarize my thoughts, 
+the relation between MMT and cryptocurrency, some of the issues I found in the book, and the direction I
 think MMT should go.
 
 ## Monetary Sovereignty
 
 At the heart of MMT is Monetary Sovereignty - 
 the unrestricted ability to create the currency your debts are denominated in.
-Unlike a typical currency user, which has to balance its budget to avoid
+Unlike a typical currency user, who has to balance her budget to avoid
 bankruptcy, currency issuers with monetary sovereignty can print money to pay
 for any debt or desire. The world kind of stumbled into Monetary Sovereignty with the collapse of
-Bretton Woods some 50 years ago, though economists, led by Keynes and Lerner, seem to have largely
-seen it coming much sooner. Prior to that, currency issuers were disciplined
+Bretton Woods some 50 years ago, though economists, led by Keynes and Aba Lerner, seem to have largely
+seen it coming much sooner, and the US more or less acted like it had it in the
+60s (arguably one reason Bretton Woods collapsed). Prior to that, currency issuers were disciplined
 by a notional promise to redeem currency for metal ("real money"). But a monetary sovereign has
 to conjure its own source of discipline.
 
-MMT aims to weild the power of monetary sovereignty to address rampant economic inequality in the US. 
-But ironically, that inequality seems to have largely emerged only after (and possibly as a consequence of!) the US
+MMT aims to wield the power of monetary sovereignty to address rampant economic inequality in the US. 
+Ironically, that inequality seems to have largely emerged only after (and possibly as a consequence of!) the US
 acquiring its monetary sovereignty in the first place, when Nixon closed the
-gold window in the early 70s. The book does not seem to acknowledge the strong
-and equitable economic growth in the US prior to this time, and is somewhat
-sloppy in talking about the monetary sovereignty of the US prior to 1971.
+gold window in the early 70s. The book doesn't seem to address this, or to be
+particularly clear in talking about monetary sovereignty before and after 1971.
 
-Of course not all countries with a central bank today are monetary
+Not all countries with a central bank today are monetary
 sovereigns. Countries might give up their sovereingty to a super-national entity
 (like the European Central Bank). Or they may need to borrow heavily in the
 currency of another country (like many developing nations). Or they may decide
 to peg their currency, printing only in proportion to some amount of reserves.
 
-Nonetheless, monetary sovereignty seems to be largely
-taken for granted, even by MMT, which does not seem to question how monetary sovereignty is acquired or lost.
+In the book, monetary sovereignty itself seems to be largely taken for granted;
+it does not seem to question how monetary sovereignty is acquired or lost.
 As Bob Murphy's scathing critique of The Deficit Myth points out, the prescriptions of MMT money-printing
-appear to be a sure fireway to betray the trust that monetary sovereignty
+are a surefire way to betray the trust that monetary sovereignty
 implies, and perhaps to lose it altogether (eg. when inflation ultimately forces you to borrow
 in someone else's money to afford imports).
 
 Monetary sovereignty, then, seems to reflect some kind of trust - 
 trust in the currency issuer to responsibly steward the
 currency. The world's monetary sovereigns don't seem to have done a
-particularly good job of honoring that trust to date. And as the rise in cryptocurrencies makes clear, there are other ways
+particularly good job of honoring that trust to date: world currencies have
+neither been able to store value nor to be distributed in some sense equitably -
+especially over the last 50 years. And as the rise in cryptocurrencies makes clear, there are other ways
 to source and enforce that responsibility than the largely unaccountable
 mechanisms of modern federal governments. Namely, open-source, transparent,
-distributed networks. Cryptocurrencies are in some sense non-nation state
-monetary sovereigns in their own right.
+distributed networks. Not that crypto doesn't have its own problems with inequality right now. But cryptocurrencies are in o
+some limitted sense non-nation state monetary sovereigns in their own right.
 
 MMT is largely a modernization of Aba Lerner's Functional Finance from the 1940s, which draws heavily 
 on the chartalist view that money is a creature of the state (as opposed to the
-metalist view that money is a commodity). MMT seems to take
-this further, arguing (based on Wynne Godley's Sectoral Balances framework) that the source of all wealth is actually government
-spending. This is a dangerous notion, misled by an accounting tautology, that mistakes US dollars for wealth
-and excludes the actual sources of wealth, namely, raw natural and human
+metalist view that money is a commodity) - hence the possibility of a monetary
+sovereign. But MMT seems to take this further, arguing that the source of all wealth is actually government
+spending. This is a dangerous notion, misled by an accounting tautology 
+(Wynne Godley's Sectoral Balances framework), that seems to mistake
+US dollars for wealth, and defocuses the actual sources of wealth itself, namely, ecosystems of natural and human
 capital. Cryptocurrencies also provide an important counterpoint, as non-state
-issued money (or wannabe money, depending on your definitions). But
-cryptocurrencies are in some sense also a demonstration of the synthesis of the chartalist and
+issued "money". But cryptocurrencies are in some sense also a demonstration of the synthesis of the chartalist and
 metalist natures of money; chartalist in so far as the community which upholds
-the network is a kind of State that with social consensus can upgrade it, and
-metalist in so far as the underlying algorithms are tamperproof and transparent.
+the network is a kind of State that blesses it with legitimacy, 
+and metalist in so far as the underlying algorithms are tamperproof and transparent.
+Chartalism and metalism seem to map more or less to legitimacy and
+verifiability.
 
-So while MMT (or at least the book), provides a largely incomplete story of
-monetary sovereignty, the emergence of cryptocurrencies and their promise of
-monetary revolution force us to reckon with the true nature of this mysterious
-power. What is it, and what does a real theory of it look like?
+The legacy of the chartalist/metalist divide is reflected in our institutions
+today in the largely ceremonial separation between the Treasury and the Central
+Bank - between fiscal policy and monetary policy. MMT encourages us to pierce
+the corporate veil of the central banks, which get their powers entirely from the
+state and don't otherwise have an externally enforced discipline (like they
+did with gold). If that's the case, they argue, we ought to move the printing press from the
+federal reserve to congress. We've been misled into focusing on monetary policy
+(lending) as the means to build a healthy economy when what we actually need to focus on is fiscal policy (spending). 
 
+So where is the discipline supposed to come from?
 
 ## Resource Constraints
 
-MMT itself actually provides some hints here in its understanding of the limits
-of monetary sovereignty: the real productive capacity of society. The book makes
-abundantly clear that MMT is not some kind of free lunch - there are real
-limits, and when govenments spend beyond those limits, we'll get inflation.
+MMT itself is quite clear about the limits of monetary sovereignty:
+the real productive capacity of society. 
+The book emphasizes abundantly that MMT is not some kind of free lunch - there are real
+limits, and when governments spend beyond those limits, we'll get inflation, and
+that's very bad.
 Of course this isn't really news, but the point MMT is trying to make is that
 the constraint on government spending isn't the budget, it's inflation.
 
-- fix inflation with taxes. but this contradicts experience from the 70s
+That said, MMT seems to be pretty cavalier about inflation. The book pays a lot of lip service to
+it as a real limit that must be reckoned with, but otherwise mostly
+carries on without concern for the reckoning. It seems to take for granted that,
+so long as there is unemployment, there is slack in the economy and room for
+spending without inflation. And besides, if there is inflation, MMT seems to
+think it has the tools to address it - largely it seems by raising taxes. According
+to MMT tautologies, this all checks out. But it also seems to miss that, if
+we've hit our resource limits, we may need to invest in increasing our
+productive capacity, and higher taxes are not a particularly conducive means to achieve that. 
+Not to mention the way out of the inflation of the 70s seemed to be low taxes and tight monetary policy.
 
+This apparent recklessness about the prospect of inflation and confidence in
+their ability to respond to it is somewhat frightening. Economies are highly complex
+systems and any intervention has unpredictable and delayed impact. While the
+recognition of inflation as the fundamental limit is of course critical, the
+seeming ignorance of the complex systems nature of the problem is disappointing.
+Not to mention what appears to be an alarming oversimplification of any amount
+of "slack" in an economy as forever and always a symptom of insufficient aggregate demand,
+without any regard for previous misallocations of resources. Economies are
+living, breathing entities that need time to respond and adapt. They're not
+debilitating addicts that need to be chronically amped up on stimulants.
+For all their emphasis on real productive resources, MMT doesn't seem to
+acknowledge the actual dynamic processes that animate those resources in the
+first place, and which can't be distilled to a crude measure of unemployment. 
 
-## Universal Basic Jobs
+There's a further irony here which strikes to the heart of what I understand
+sound money to be. Sound money to me is an efficient means to represent the productive capacity of a society at a given
+spatio-temporal scale in order to support its sustainability. Sustainable
+societies must understand their capacities in order to evolve them in response
+to a changing world. Money plays an increasingly important role in representing this understanding. 
+For a long time, at an international scale, gold was
+about the best low-dimensional approximation of productive capacity we had. On
+more local spatial scales, other commodities can work well too. But in the
+digital networking age, we have entirely new potential to leverage our monetary
+system to represent our productive capacity. Of course instead we've got a
+system designed primarily to support speculation on financial derivatives.
+Talk about unsustainable. Bitcoin is a statement in this
+regard, grounded in computational energy instead of precious metals or the
+animal spirits of the financial system.
 
-# 
-
-
-
-
-*Monetary Sovereignty* - at the heart of MMT is the idea of monetary sovereignty
-- the unrestricted ability to create the currency your debts are denominated in. Monetary
-sovereignty is something the world kind of stumbled into with the collapse of
-Bretton Woods some 50 years ago. But its something that's also taken on
-heightened importance with the recent rise of cryptocurrencies,
-each a non-nation-state monetary sovereign in its own right. While MMT focuses
-on the sovereignty of currency issuing nation states today, cryptocurrencies lead us
-towards the sovereignty of values-based communities tomorrow.
-
-*Resource Constraints* - MMT concludes that monetary sovereigns need not balance
-their budgets, since they can print money to cover any deficit. The only
-constraint on spending by a monetary sovereign is the actual availability of
-real productive resources in the economy. Beyond this limit, spending causes
-inflation. Grounding our monetary institutions in the constraints of real productive resources
-appears fundamental in many ways to a more sustainable society.
-
-*Universal Basic Jobs* - MMT promotes a job 
-
-
-
-
-
-
-
-I have recently become fascinated by a strange breed of economics called Modern Monetary
-Theory (MMT). 
-
-On the one hand, there is something deeply suspicious about it's
-ideas. On the other, it seems to hold some deep promise and truths. 
-
-There's a lot of things I actually really like about MMT: it's descriptive
-approach, it's focus on monetary sovereignty, its recognition of real resource
-limits as the fundamental constraint on government spending, and its prescription
-of a decentralized and community-oriented universal basic jobs program.
-
-But there's also a number things that concern me: the obsessively chartalist
-view of money; the cavalier attitude towards government budgetary discipline; 
-the lip-service paid to inflationary risks; the confidence that inflation 
-can be easily managed through taxation. To name a few.
-
-
-Issues
-- Chartalism - ignores role of of nature/labour and real saving/investing in creating wealth. 
-    - also seemingly at odds with thinking about the resource constraint!
-    - money must be a reflection of real resource use, not just some state fiat
-- promoting imports compromises self sufficiency 
-- monetary sovereignty should probably be pushed down
-- no indication of how we know when we hit the resource constraint other than
-  0%. pay lip service and proceed as if not there.
-- much of the inequality it tries to address only emerged after US got monetary
-  sovereignty
-- increasing taxes during inflation super dangerous - Robert Mundell
-- how to organize a proper UBJ ?
-
-
-## Background
-
-## Monetary Sovereignty
-
-## The Resource Constraint
+MMT gets that the limit of monetary sovereignty is our real productive capacity.
+But it doesn't seem to fully make the connection that the money itself should be 
+a representation of that productive capacity. 
+For MMT, the representation sits within the institution of the State, of which the money is
+purely an agent to be manipulated intelligently by its master. But flows of
+money carry information. And the feedback loop between the federal government
+and the set of statistics it calls the economy has nowhere near enough bandwidth to 
+responsibly manage the amount of information carried in those flows. The money
+itself has to participate in that management by being more than just the whim of
+politicians - it's creation should be disciplined by a meaningful relationship
+with access to real productive resources. Of course enforcing such a discipline might appear to
+subjugate the power of monetary sovereignty to some external constraints.
+But this is to honestly do what MMT proposes monetary sovereigns do anyways
+through the more insiduous inflate-then-tax. 
 
 ## Universal Basic Jobs
 
-I'll take these up in turn.
-
-*Descriptive Approach* - MMT is primarily descriptive. It aims to describe how
-the monetary system actually works. In this regard it is incredibly valuable.
-Proponents of MMT seem to have deep institutional understanding of the current
-monetary system. Apparently, this kind of external validity is otherwise rare in economics.
-Go figure. 
-
-*Monetary Sovereignty* - at the heart of MMT is the idea of monetary sovereignty
-- the unrestricted ability to create the currency your debts are denominated in. Monetary
-sovereignty is something the world kind of stumbled into with the collapse of
-Bretton Woods some 50 years ago. But its something that's also taken on
-heightened importance with the recent rise of cryptocurrencies,
-each a non-nation-state monetary sovereign in its own right. While MMT focuses
-on the sovereignty of currency issuing nation states today, cryptocurrencies lead us
-towards the sovereignty of values-based communities tomorrow.
-
-*Resource Constraints* - MMT concludes that monetary sovereigns need not balance
-their budgets, since they can print money to cover any deficit. The only
-constraint on spending by a monetary sovereign is the actual availability of
-real productive resources in the economy. Beyond this limit, spending causes
-inflation. Grounding our monetary institutions in the constraints of real productive resources
-appears fundamental in many ways to a more sustainable society.
-
-*Universal Basic Jobs* - MMT promotes a job 
-
-
-
-mythbusting
-
-
-
-Intro
-- fed has lending power, not spending power. need congress help
-- currency issuer finances itself - not the taxpayer
-- abba lerner, functional finance
-- internal speed limit - availability of real productive resources
-- spending is a political decision. shouldnt be constrained by "budget"
-- more fiscal responsibility, not less. but need to be clear about what that
-  menas responsibly  
-
-Dont Think of a Household
-- (TAB)S vs S(TAB)
-- Mossler. Ideas found in Smith and Keynes. Mosler is Father of MMT
-- taxes create demand for gov currency
-- chartalism - taxes allowed ancient rulers to introduce money, which later
-  became MoE
-- reasons for taxation: 
-    - taxes allow gov to provision themselves without force
-    - inflation
-    - wealth distribution
-    - incentive/disincentive
-- gov doesnt need to borrow. yellow dollars and green dollars.
-- MMT about distinguishing real limits from self imposed constraints
-
-Inflation
-- NAIRU - non accelerating inflationary rate of unemployment
-- fed defines max employment as level of unemployment necessary to hit inflation
-  target
-- Keynes - there's always slack in the economy (insufficent aggregate demand to
-  employ everyoen)
-- too much focus on central banks. monetary policy is limited
-
-
-A high level caricature of MMT is as follows. 
-
-are unlike
-currency user
-
-At the heart of MMT is monetary sovereignty, the super power
-that distinguishes fundamentally between currency 
-users and currency issuers. Those with monetary sovereignty can create the
-money thier debts are denominated in. Currency users like you or I do not have
-this ability, so we have to balance our budgets. But currency issuers, like the
-US and Canadian governments, do have this ability. Thus, concludes MMT, they do
-not have to actually balance their budgets, since they can always print money to
-cover any deficit. Hence the book title, The Deficit Myth.
-
-
-
-This is of course true. 
-
-denominated in. 
-As currency users, you or I do not have this ability, so we have
-to balance our budgets. But currency issuers like the US and Canadian
-governments do have this ability. 
-
-and thus don't need to balance their budgets!
-
-My 
-debts are denominated largely in Canadian dollars, and I do not have the right to print dollars.
-But the Canadian government is fundamentally different - it does have this
-ability, and regularly uses it. 
-
-
-But currency issuers like the US, Canada, UK, etc. do have this ability.
-
-
-
-that currency are fundamentally
-different from currency issuers. Currency users, like you or I, incur debts
-denominated a currency we cannot create. But currency issuers 
-
-The difference is the idea of monetary
-sovereignty - the ability to print the money your debts are denominated in. 
-You are I, as currency users, don't have this luxury - our debts are denominated 
-largely in terms of money we cannot create ourselves. But currency issuers like
-Uncle Sam are different 
-
-
-Currency users, like you or I, have to balance our
-budgets, because we can't print money (at least not that we can count on anyone
-to accept). But currency issuers like Uncle Sam are different - they have
-monetary sovereignty, the ability to print the money their debts are denominated
-in. Of course lots of countries use mon
-
-they like Uncle Sam, don't - they can print money to
-cover any debts. 
-
-
-This is the heart of monetary sovereignty - an entity whose
-debts are denominated primarily in a currency that it issues.
-
-
-Such currency issuers - which can print their own money and b
-
-Hence the book title, the "Deficit Myth".
-
-But MMT is quick to point out that there is a limit to how much money the
-government can print. That limit is inflation. And while it 
-
-(or any other monetary sovereign, ie.
-
-
-nation that issues its own currency and borrows primarily in that currency).
-
-
-
-
-the towards inflation-risks 
-
-the propensity to spend, then tax; the spend-then-tax attitude, and the cavalier approach to general 
-
-the confidence in our ability to measure and respond effectively
-to high inflation, the dependence on 
-
-In contrast to a good deal of economics, MMT actually cares to have external
-validity - it aims to describe how the current monetary system actually works,
-and to make its prescriptions from there. 
-
-
-But there also seems to be 
-
-
-
-
-
-For one thing, it is largely descriptive - it aims to describe how the current
-monetary system actually works. In this regard it focuses on the power of
-monetary sovereignty - 
-
-
-You'd think external validity would be important
-for mainstream economics, but apparently it's not. Maybe this has changed a bit
-since the 2008
-
-relevance to reality 
-
-
-This is a refreshing approach to 
-
-At the heart of MMT is recognition of the power of monetary sovereignty - 
-the
-
-
-abilit
-
-MMT is modern incarnation of chartalism - the idea that money is primarily a creature of the state,
-
-
-## Background
-
-- functional finance
-- chartalism
-- mosler
-
-## The Deficit Myth
-
-- currency user vs issuer
-- green/yellow dollars
-- govt as source of wealth
-
-
-
-
-
-
-- dont think of a houehold
-- inflation
-- national debt
-- their red ink is our black ink
-- trade
-- entitlements
-- deficits that matter
-
-
+For me, inspired by Bitcoin and the cryptocurrency movement, the regular issuance of
+the currency must be tied to the performance of some kind of work that is useful to
+the community the currency serves. In this way the currency comes to represent
+the value inherent in that activity. In the case of Bitcoin, that's literal Proof
+of Work hashing. If clean Bitcoin mining power were uniformly distributed
+across humanity (humor me), Bitcoin would provide a kind of perfect Universal Basic Job. 
+In the case of Proof of Stake, it's validation activity; for many DeFi projects, its liquidity
+provisioning, etc. We can imagine the evolution of our crypto systems stepping progressively 
+from global, objective, cryptographic proof of work to increasingly local, subjective forms of work
+(access to which ultimately are more uniformly distributed),
+reaching eventually the labour that actually sustains us: farming, care, education,
+etc. That is, towards a monetary system grounded in a sustainable framework of Universal 
+Basic Jobs. Farming, care, education, etc. are the real well-spring of our society, 
+and ought to be represented as such in the monetary system, lest we chronically undervalue them, 
+as we seem to have done. 
+
+To my delight, MMT seems to have hit on an almost identical conclusion of a
+Universal Basic Jobs program to support a care-economy, but from an entirely different angle, and 
+seemingly as an after thought, a mere policy implication of their larger
+theory. Conversely, I would expect an ecologically sound theory of money 
+to account more directly for the relationship between the performance of valuable, 
+society sustaining work, and the issuance of exchange media. Of course, such a theory couldn't claim to be
+an accurate description of the current system (as MMT does), since the current
+system appears far from sustainable - far from sufficiently able to represent
+its environment in the structure of its institutions.
+We would instead have to draw heavily from the theory of organisms and ecosystems, to concentrate
+on the sustainability of organizational forms. There is precidence in the work
+of ecological economists, like E.F Shumacher, Jane Jacobs, and Elinor Ostrom.
+I tried to sketch what this might look like in this talk. 
+But MMT does not seem to account for this kind of ecological economics. At some level, it seems even opposed to
+it, for instance in the way it emphasizes the value of a trade deficit and
+dismisses concern with dependency on imports. In contrast, ecological economics
+advocates for "import replacement" (ie. the replacement of imports with locally
+produced replacements) as a means towards sustainability. 
+
+Unfortunately, the book spends only a few pages on the concept of Universal Basic Jobs. 
+Notably, it highlights the importance of the program being highly decentralized,
+acknowledging that the Federal government cannot understand what local
+communities need nearly as effectively as those communities themselves. 
+This I resolutely agree with, and I'd probably applaud an attempt by the Federal
+government to roll out a highly decentralized, community-oriented, Universal Basic
+Jobs program. But I'm skeptical that this can actually be done sustainably at the level of
+the US, given the heterogeneity across communities and the scale of operations of
+the US monetary system. MMT fails to take the critical next step of considering that those 
+communities could be ready for some form of monetary sovereignty themselves, and
+that such localism, embedded in a fractal hierarchy that bridges the gap from
+local to global and back, is the actual path towards a sustainable monetary
+system.
+
+## Conclusion
+
+MMT is obviously not yet the ecologically sound theory of money we're yearning
+for. But it does seem to be barking up the right trees. 
