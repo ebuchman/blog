@@ -4,6 +4,10 @@ title: "About"
 
 I work in software, research, education, and the garden.
 
+I co-founded the [Cosmos] and [Tendermint] projects.
+
+I'm currently CEO of [Informal Systems]
+
 [CV](https://github.com/ebuchman/resume/blob/master/resume.pdf)
 
 The following more or less sum me up:
@@ -41,3 +45,8 @@ replaced by something even more bizarre and inexplicable.
 
 The avatar is a super-resolution image of actin filaments in a kidney
 cell (*Xu et al. Nature Methods 9: 185-188 (2012)*).
+
+[Cosmos]: https://cosmos.network
+[Tendermint]: https://github.com/tendermint/tendermint
+[Interchain Foundation]: https://interchain.io/
+[Informal Systems]: https://informal.systems/
