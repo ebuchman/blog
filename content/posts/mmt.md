@@ -146,7 +146,7 @@ systems and any intervention has unpredictable and delayed impact. By the time
 you can measure that impact, in many important cases, you're too late. So while 
 the recognition of inflation as the fundamental limit is of course critical, the
 seeming ignorance of the complex systems nature of the problem is disappointing.
-There's a mostly unrelated line in the book (about America's failing infrastructure) 
+In the book, there's a mostly unrelated quip about America's failing infrastructure
 that really hammered this home for me: "How many of us get stuck in traffic
 daily because the highways we drive on have too few lanes?". By now, urban
 planners widely agree that more lanes actually cause traffic 
@@ -159,7 +159,7 @@ MMT, not unlike other Keynesian schools, seems to alarmingly oversimplify any am
 of "slack" in the economy as a symptom of insufficient aggregate demand,
 without any regard for previous misallocation of resources. 
 Economies are living, breathing entities that need time to respond and adapt. They're not
-debilitating addicts that need to be chronically amped up on stimulants.
+debilitated creatures that need to be chronically amped up on stimulants.
 For all their emphasis on real productive resources, MMT doesn't seem to
 acknowledge the actual dynamic processes that animate those resources in the
 first place, and which can't be distilled to a crude measure of unemployment. 
@@ -192,17 +192,17 @@ politicians - its creation should be disciplined by a meaningful relationship
 with access to real productive resources. Of course enforcing such a discipline might appear to
 subjugate the power of monetary sovereignty to some external constraints.
 But this is to honestly do what MMT proposes monetary sovereigns do anyways
-through the more insidious route of inflation followed by taxation.
+through the more insidious route of inflation-then-taxation.
 
 ## Local Basic Jobs
 
 For me, a Monetary Localist, inspired by Bitcoin and the cryptocurrency movement, the regular issuance of
-the currency must be tied to the performance of some kind of work that is useful to
+the currency ought to be tied to the performance of some kind of work that is useful to
 the community the currency serves. In this way the currency comes to represent
 the value inherent in that activity. In the case of Bitcoin, that's literal Proof
 of Work hashing. If (humour me here) clean Bitcoin mining power were uniformly distributed
 across humanity, Bitcoin would provide a kind of perfect Universal Basic Job. 
-In the case of Proof of Stake, it's validation activity; for many DeFi projects, its liquidity
+In the case of Proof of Stake, the "useful work" is validation activity; for many DeFi projects, it's liquidity
 provisioning, etc. We can imagine the evolution of our crypto systems stepping progressively 
 from global, objective, cryptographic proof of work to increasingly local, subjective forms of work
 (access to which ultimately are more uniformly distributed),
@@ -229,7 +229,7 @@ But MMT does not seem to account for this kind of ecological economics. At some 
 it, for instance in the way it emphasizes the value of a trade deficit and
 dismisses concern with dependency on imports. In contrast, ecological economics
 advocates for "import replacement" (i.e. the replacement of imports with locally
-produced replacements) as a means towards sustainability. 
+produced goods and services) as a means towards sustainability. 
 
 Unfortunately, the book spends only a few pages on its concept of Universal Basic Jobs. 
 Notably, it highlights the importance of the program being highly decentralized,
@@ -265,7 +265,7 @@ MMT from a Monetary Localist.
 [Free as in Banking]: https://www.youtube.com/watch?v=TS6VAkJ5Zik
 [The Deficit Myth]: https://stephaniekelton.com/book/
 [Murphy Review]: https://mises.org/library/deficit-myth-modern-monetary-theory-and-birth-peoples-economy
-[Stakeholders and Statemachines]: https://www.youtube.com/watch?v=Luh7m7YHRts
+[Stakeholders and State Machines]: https://www.youtube.com/watch?v=Luh7m7YHRts
 [twitter thread]: https://twitter.com/buchmanster/status/1330600004419989518
 [Cosmos]: https://cosmos.network/
 [Braess's Paradox]: https://en.wikipedia.org/wiki/Braess%27s_paradox
