@@ -23,7 +23,7 @@ context. But the episode also included a discussion critiquing MMT, which Selgin
 qualified by expressing his admiration for the depth of knowledge among MMT
 proponents about the institutional details of modern monetary systems. 
 Since I'm also trying to understand the institutional structure of money,
-especially in so far as I'm engaged in the rise of cryptocurrency (an early
+especially insofar as I'm engaged in the rise of cryptocurrency (an early
 stage monetary revolution), I took this seriously.
 
 Fortuitously, for my birthday, my partner bought me Stephanie Kelton's book [The Deficit Myth] - the
@@ -149,7 +149,7 @@ seeming ignorance of the complex systems nature of the problem is disappointing.
 There's a mostly unrelated line in the book (about America's failing infrastructure) 
 that really hammered this home for me: "How many of us get stuck in traffic
 daily because the highways we drive on have too few lanes?". By now, urban
-planners widely agree the more lanes actually cause traffic 
+planners widely agree that more lanes actually cause traffic 
 (see also [Braess's paradox]), 
 and our problems are much deeper than the width of our roads. This is the exact
 kind of mistake I'm afraid MMT is making about its relationship with the
@@ -194,7 +194,7 @@ subjugate the power of monetary sovereignty to some external constraints.
 But this is to honestly do what MMT proposes monetary sovereigns do anyways
 through the more insidious route of inflation followed by taxation.
 
-## Universal Basic Jobs
+## Local Basic Jobs
 
 For me, a Monetary Localist, inspired by Bitcoin and the cryptocurrency movement, the regular issuance of
 the currency must be tied to the performance of some kind of work that is useful to
@@ -249,9 +249,17 @@ communities.
 
 ## Conclusion
 
-MMT is obviously not yet the ecologically sound theory of money we're yearning
-for. But it does seem to be barking up the right trees. 
-
+MMT is not yet the ecologically and socially sound theory of money we so
+desperately need. While it does seem to be barking up the right monetary trees (of
+sovereignty, the resource constraint, and basic jobs),
+it still falls prey to the brazen arrogance of modernism 
+in its presumption that the federal government can competently 
+manage large scale interventions into the complex beast that is the economy.
+In short, MMT is [Seeing like a State].
+Instead, it should seek to ground itself in a more localist model of economics, 
+to draw on the insights of the ecological economists, and to focus on the real
+meaning of sustainability in complex systems. That is, at least, the critique of
+MMT from a Monetary Localist.
 
 [podcast]: https://www.youtube.com/watch?v=JR7NJohZo-k
 [Free as in Banking]: https://www.youtube.com/watch?v=TS6VAkJ5Zik
@@ -261,3 +269,4 @@ for. But it does seem to be barking up the right trees.
 [twitter thread]: https://twitter.com/buchmanster/status/1330600004419989518
 [Cosmos]: https://cosmos.network/
 [Braess's Paradox]: https://en.wikipedia.org/wiki/Braess%27s_paradox
+[Seeing like a State]: https://en.wikipedia.org/wiki/Seeing_Like_a_State
