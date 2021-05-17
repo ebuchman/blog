@@ -17,7 +17,7 @@ MMT was first brought seriously to my attention by [George Selgin on Bob Murphy'
 podcast][podcast]. I've been mostly fascinated by Selgin's work on Free Banking
 (which inspired my talk, [Free as in Banking],
 on the role of cryptocurrency in the history of central banking),
-and the podcast episode included a debate between Selgin and Murphy on if/how free
+and the podcast episode included a debate on if/how free
 banking (which includes fractional reserves) fits in an Austrian economic
 context. But the episode also included a discussion critiquing MMT, which Selgin
 qualified by expressing his admiration for the depth of knowledge among MMT
@@ -39,7 +39,7 @@ jobs - are core as well to my own brand of economics, what I've started calling
 Monetary Localism. But somehow MMT does not seem to follow through enough - it's
 shining light in the right places, but for some reason wearing sunglasses.
 
-While MMT is gaining increasing popularity (thanks largely to Stephanie becoming
+While MMT is gaining increasing popularity (thanks largely to Kelton becoming
 an economic advisor for Bernie Sanders, and AOC's subsequent championing of MMT's
 ideas), none of the ideas are particularly new (with precursors largely in the work of Aba Lerner
 and Hyman Minsky), and the MMT treatment does not seem to be
