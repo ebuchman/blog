@@ -4,7 +4,11 @@ date: 2021-05-15
 draft: false
 ---
 
-# MMT 
+Disclaimer: This critique is based almost entirely on a reading of Stephanie
+Kelton's popularization of MMT, The Deficit Myth. I have yet to really
+dive into the MMT academic literature.
+
+## MMT 
 
 So it turns out, quite to my delight, there's some interesting stuff in Modern Monetary Theory (MMT).
 For someone who believes that abuse of the money printer is the source of so
