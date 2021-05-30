@@ -4,6 +4,15 @@ title: "Media"
 
 ## Podcasts
 
+2021-05: **Real Vision Crypto** - [Envisioning a Proof of Stake Alternative with
+Ethan Buchman, co-founder of
+Cosmos](https://www.youtube.com/watch?v=HL_QR5SPEqY)
+
+2021-02: **The Pomp Podcast** - [Ethan Buchman on Standardization And Interoperability](https://podcasts.apple.com/us/podcast/506-ethan-buchman-on-standardization-interoperability/id1434060078?i=1000511717899)
+
+2021-02: **CMCC Global** - [Interview with Ethan Buchman, Co-founder of
+Cosmos](https://www.youtube.com/watch?v=KuVHBg7emNY)
+
 2020-10: **Untold Stories** - [Reinventing Governance & Crypto Social Experiments](https://www.youtube.com/watch?v=CQbOauMMcf8)
 
 2020-09: **Fintech Impact** - [Cosmos with Ethan Buchman](https://www.listennotes.com/podcasts/fintech-impact/cosmos-with-ethan-buchman-e138-gzLI2K4CfHX/)
@@ -13,6 +22,10 @@ Buchman](http://thebitcoinpodcast.com/hashing-it-out-87/)
 
 2020-06: **Citizen Cosmos** - [Ethan Buchman, the now and then of
 Cosmos](https://anchor.fm/citizencosmos/episodes/Ethan-Buchman--the-now-and-then-of-Cosmos-eff5vm)
+
+2020-04: **Webinar** - [How COVID-19 Accelerated the Transformation of the
+Global Financial System](https://youtu.be/1dAZh6-hFjw?t=2498) - Past, Present,
+and Future of Money
 
 2019-09-06: **Planetary Regeneration Podcast** - [Ethan Buchman](https://podtail.com/en/podcast/planetary-regeneration-podcast/planetary-regeneration-podcast-episode-1-ethan-buc)
 

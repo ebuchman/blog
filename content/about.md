@@ -6,9 +6,19 @@ I work in software, research, education, and the garden.
 
 I co-founded the [Cosmos] and [Tendermint] projects.
 
-I'm currently CEO of [Informal Systems]
+I'm currently CEO of [Informal Systems] 
+and President of the [Interchain Foundation].
 
-[CV](https://github.com/ebuchman/resume/blob/master/resume.pdf)
+I'm also an associate at the [Creative Destruction
+Lab](https://www.creativedestructionlab.com/people/ethan-buchman/).
+
+I refer to myself as an Internet BioPhysicist, Sustainability Existentialist, Monetary Localist, and PlainText Evangelist
+
+I have a quasi-maintained [CV](https://github.com/ebuchman/resume/blob/master/resume.pdf)
+
+I used to blog more, first on [blogspot](http://easythereentropy.blogspot.com/),
+then on [wordpress](https://easythereentropy.wordpress.com/). Now I host my own
+blog on [github](https://ebuchman.github.io/posts/).
 
 The following more or less sum me up:
 
@@ -43,8 +53,10 @@ replaced by something even more bizarre and inexplicable.
 ---
 
 
-The avatar is a super-resolution image of actin filaments in a kidney
-cell (*Xu et al. Nature Methods 9: 185-188 (2012)*).
+The profile picture is a super-resolution image of actin filaments in a kidney
+cell (*Xu et al. Nature Methods 9: 185-188 (2012)*). I believe that 
+biophysical mechanics (cytoskeleton, extra-cellular matrix, collagen networks,
+etc.) are perhaps more fundamental to understanding organisms than sequences of DNA.
 
 [Cosmos]: https://cosmos.network
 [Tendermint]: https://github.com/tendermint/tendermint
