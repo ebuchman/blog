@@ -97,7 +97,7 @@ Yes, it manifests largely as a speculative asset right now. But Bitcoin provides
 *trust* for international monetary institutions that is based in the thermodynamics of computation, 
 one of the most fundamental physical processes underlying our civilization. 
 
-## Trust Mining
+## Mining for Trust
 
 Bitcoin are created and issued to those who provably contribute to
 the security of the Bitcoin network via Proof-of-Work mining. If
