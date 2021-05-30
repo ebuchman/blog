@@ -2,12 +2,11 @@
 title: "About"
 ---
 
-I work in software, research, education, and the garden.
+Hi! I'm Ethan Buchman. I grew up in Toronto, Canada,
+but spent many years in lovely [Guelph]. I work in software, research, education, and the garden.
 
-I co-founded the [Cosmos] and [Tendermint] projects.
-
-I'm currently CEO of [Informal Systems] 
-and President of the [Interchain Foundation].
+I co-founded the [Cosmos] and [Tendermint] projects, which I still work on,
+as CEO of [Informal Systems] and President of the [Interchain Foundation].
 
 I'm also an associate at the [Creative Destruction
 Lab](https://www.creativedestructionlab.com/people/ethan-buchman/).
@@ -20,7 +19,7 @@ I used to blog more, first on [blogspot](http://easythereentropy.blogspot.com/),
 then on [wordpress](https://easythereentropy.wordpress.com/). Now I host this
 blog on [github](https://ebuchman.github.io/posts/).
 
-The following books/lectures have had an outsized influence on my life (in order):
+The following books/lectures (and their authors!) have had an outsized influence on my life (in order):
 
 - [The Origin of Consciousness in the Breakdown of the Bicameral Mind] by Julian
   Jaynes
@@ -34,9 +33,10 @@ The following books/lectures have had an outsized influence on my life (in order
 Some other major early influences include:
 
 - Philosophy: [Robert Anton Wilson], [Terrence McKenna], [Neal Cassady].
-- Psychology and Religion: [Mircea Eliade] \(I've read most of his books), [Carl Jung], [Jordan Peterson] \(before he got famous - 
-[Maps of Meaning] is an incredible synthesis of psychology, religion, and cognitive neuroscience).
-- Media: [Marshall McLuhan], [Marcel Danesi].
+- Psychology and Religion: [Mircea Eliade] \(I've read most of his books), [Carl Jung], 
+the book [Maps of Meaning: The Architecture of Belief] 
+- Media and Technology: [Marshall McLuhan], [Marcel Danesi], [Buckminster
+  Fuller]
 - Economics: [E.F. Schumacher], [Jane Jacobs], [Elinor Ostrom], [Nassim Taleb], [Friedrich Hayek].
 
 These days I'm studying monetary economics, guided largely by the work of 
@@ -44,7 +44,7 @@ These days I'm studying monetary economics, guided largely by the work of
 "localists" listed above.
 
 
-The following more or less sum me up:
+Some quotes I'm fond of:
 
 ---
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
@@ -79,8 +79,10 @@ replaced by something even more bizarre and inexplicable.
 
 The profile picture is a super-resolution image of actin filaments in a kidney
 cell (*Xu et al. Nature Methods 9: 185-188 (2012)*). I believe that 
-biophysical mechanics (cytoskeleton, extra-cellular matrix, collagen networks,
-etc.) are perhaps more fundamental to understanding organisms than sequences of DNA.
+cellular biophysical mechanics (cytoskeleton, extra-cellular matrix, collagen networks,
+etc.) are perhaps more fundamental to understanding multi-cellular organisms than sequences of DNA.
+Your DNA wouldn't even be able to replicate itself were it not for the
+[microtubules].
 
 [Cosmos]: https://cosmos.network
 [Tendermint]: https://github.com/tendermint/tendermint
@@ -96,8 +98,7 @@ etc.) are perhaps more fundamental to understanding organisms than sequences of 
 [Neal Cassady]: https://en.wikipedia.org/wiki/Neal_Cassady
 [Mircea Eliade]: https://en.wikipedia.org/wiki/Mircea_Eliade
 [Carl Jung]: https://en.wikipedia.org/wiki/Carl_Jung
-[Jordan Peterson]: https://www.jordanbpeterson.com/
-[Maps of Meaning]: https://www.jordanbpeterson.com/maps-of-meaning/
+[Maps of Meaning: The Architecture of Belief]: https://www.jordanbpeterson.com/maps-of-meaning/
 [Perry Mehrling]: http://sites.bu.edu/perry/
 [George Selgin]: https://en.wikipedia.org/wiki/George_Selgin
 [E.F. Schumacher]: https://en.wikipedia.org/wiki/E._F._Schumacher
@@ -108,3 +109,6 @@ etc.) are perhaps more fundamental to understanding organisms than sequences of 
 [active on twitter]: https://twitter.com/buchmanster
 [Marshall McLuhan]: https://en.wikipedia.org/wiki/Marshall_McLuhan
 [Marcel Danesi]: https://en.wikipedia.org/wiki/Marcel_Danesi
+[Guelph]: https://en.wikipedia.org/wiki/Guelph
+[Buckminster Fuller]: https://en.wikipedia.org/wiki/Buckminster_Fuller
+[microtubules]: https://en.wikipedia.org/wiki/Microtubule
