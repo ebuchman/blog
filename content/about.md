@@ -12,13 +12,37 @@ and President of the [Interchain Foundation].
 I'm also an associate at the [Creative Destruction
 Lab](https://www.creativedestructionlab.com/people/ethan-buchman/).
 
-I refer to myself as an Internet BioPhysicist, Sustainability Existentialist, Monetary Localist, and PlainText Evangelist
+I'm [active on twitter], where I refer to myself as an *Internet BioPhysicist, Sustainability Existentialist, Monetary Localist, and PlainText Evangelist*.
 
-I have a quasi-maintained [CV](https://github.com/ebuchman/resume/blob/master/resume.pdf)
+I have a quasi-maintained [CV](https://github.com/ebuchman/resume/blob/master/resume.pdf).
 
 I used to blog more, first on [blogspot](http://easythereentropy.blogspot.com/),
-then on [wordpress](https://easythereentropy.wordpress.com/). Now I host my own
+then on [wordpress](https://easythereentropy.wordpress.com/). Now I host this
 blog on [github](https://ebuchman.github.io/posts/).
+
+The following books/lectures have had an outsized influence on my life (in order):
+
+- [The Origin of Consciousness in the Breakdown of the Bicameral Mind] by Julian
+  Jaynes
+- [Out of Your Mind: Essential Listening from the Alan Watts Audio Archives] by
+  Alan Watts
+- [Jitterbug Perfume] by Tom Robbins
+- [The Rainbow and the Worm: The Physics of Organisms] by Mae Wan Ho
+- [Creating Wealth: Growing Local Economies with Local Currencies] by Gwendolyn
+  Hallsmith and Bernard Lietaer
+
+Some other major early influences include:
+
+- Philosophy: [Robert Anton Wilson], [Terrence McKenna], [Neal Cassady].
+- Psychology and Religion: [Mircea Eliade] \(I've read most of his books), [Carl Jung], [Jordan Peterson] \(before he got famous - 
+[Maps of Meaning] is an incredible synthesis of psychology, religion, and cognitive neuroscience).
+- Media: [Marshall McLuhan], [Marcel Danesi].
+- Economics: [E.F. Schumacher], [Jane Jacobs], [Elinor Ostrom], [Nassim Taleb], [Friedrich Hayek].
+
+These days I'm studying monetary economics, guided largely by the work of 
+[Perry Mehrling] and [George Selgin], though my main influences are the
+"localists" listed above.
+
 
 The following more or less sum me up:
 
@@ -62,3 +86,25 @@ etc.) are perhaps more fundamental to understanding organisms than sequences of 
 [Tendermint]: https://github.com/tendermint/tendermint
 [Interchain Foundation]: https://interchain.io/
 [Informal Systems]: https://informal.systems/
+[The Origin of Consciousness in the Breakdown of the Bicameral Mind]: https://www.julianjaynes.org/resources/books/ooc/
+[Out of Your Mind: Essential Listening from the Alan Watts Audio Archives]: https://www.soundstrue.com/products/out-of-your-mind
+[Jitterbug Perfume]: https://en.wikipedia.org/wiki/Jitterbug_Perfume
+[The Rainbow and the Worm: The Physics of Organisms]: https://www.worldscientific.com/worldscibooks/10.1142/6928
+[Creating Wealth: Growing Local Economies with Local Currencies]: https://newsociety.ca/books/c/creating-wealth
+[Robert Anton Wilson]: https://en.wikipedia.org/wiki/Robert_Anton_Wilson
+[Terrence McKenna]: https://en.wikipedia.org/wiki/Terence_McKenna
+[Neal Cassady]: https://en.wikipedia.org/wiki/Neal_Cassady
+[Mircea Eliade]: https://en.wikipedia.org/wiki/Mircea_Eliade
+[Carl Jung]: https://en.wikipedia.org/wiki/Carl_Jung
+[Jordan Peterson]: https://www.jordanbpeterson.com/
+[Maps of Meaning]: https://www.jordanbpeterson.com/maps-of-meaning/
+[Perry Mehrling]: http://sites.bu.edu/perry/
+[George Selgin]: https://en.wikipedia.org/wiki/George_Selgin
+[E.F. Schumacher]: https://en.wikipedia.org/wiki/E._F._Schumacher
+[Jane Jacobs]: https://en.wikipedia.org/wiki/Jane_Jacobs
+[Elinor Ostrom]: https://en.wikipedia.org/wiki/Elinor_Ostrom
+[Nassim Taleb]: https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb
+[Friedrich Hayek]: https://en.wikipedia.org/wiki/Friedrich_Hayek
+[active on twitter]: https://twitter.com/buchmanster
+[Marshall McLuhan]: https://en.wikipedia.org/wiki/Marshall_McLuhan
+[Marcel Danesi]: https://en.wikipedia.org/wiki/Marcel_Danesi
