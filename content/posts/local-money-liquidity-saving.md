@@ -13,10 +13,21 @@ I think they're the best application of blockchain tech and the best hope for
 a sustainable civilization. 
 
 I expect that progress in blockchain tech
+<<<<<<< HEAD
 and tokenomic primitives (like bonding curves) will revolutionize the field of [Optimum Currency Areas] and paint a path towards a more
 sustainable theory of international monetary economics grounded in self-sufficient local economies.
 
 This is a short note on some types of local money
+=======
+and tokenomic primitives (like [bonding curves]) will revolutionize the field of [Optimum Currency Areas] and paint a path towards a more
+sustainable theory of international monetary economics grounded in self-sufficient local economies.
+At least this seems to me like the critical research project for economics this
+century. Perhaps [MMT] will even serve as a kind of precursor for this, though
+I suspect it will need to mature into something more ["ecologically
+sound"][MMT].
+
+In the meantime, this is a short note on some types of local money
+>>>>>>> master
 and their most promising economic function for businesses: liquidity saving.
 
 ## Types of Local Money
@@ -33,7 +44,11 @@ businesses that accept payments for goods and services in LOCAL on par with $.
 You take out a loan of 100 LOCAL (ie. 100 LOCAL are created and issued to you!), 
 but you must commit to accept say 500 LOCAL (on par with $)
 in the future as payment for your goods or services. The money is backed by the mutual committment 
+<<<<<<< HEAD
 to accept it (on par with $) for goods and services. The best example of this is
+=======
+to accept it (on par with $) for goods and services, but is not redeemable for $. The best example of this is
+>>>>>>> master
 the [WIR Bank] in Switzerland, which started during the Great Depression, and
 is the longest running and largest local money system in the world. But see also
 [Grassroots Economics], [Sardex], and the many [LETS]. 
@@ -41,6 +56,7 @@ is the longest running and largest local money system in the world. But see also
 Similar to *mutual credit* are time banks, but instead of pricing LOCAL in $,
 it's priced in time. 
 
+<<<<<<< HEAD
 Another kind of local money is invoice, trade credit, or *obligation clearing*. You join a cooperative of 
 businesses that do business with eachother. You owe money to some of your
 suppliers, who owe money to some of their suppliers, who owe money to you.
@@ -49,6 +65,16 @@ overall amount anyone has to pay. While this doesn't feel so much like money in
 an account, it does reduce the amount of money you would otherwise need to settle your payments,
 functioning effectively as a kind of medium of exchange.
 Examples include the [TCT system in Slovenia][Liquidity Saving Mechanism]
+=======
+Another kind of local money is *trade credit clearing*, also known as invoice or obligation clearing. 
+You join a cooperative of businesses that do business with eachother. You owe money to some of your
+suppliers, who owe money to some of their suppliers, who owe money to you.
+Any closed loop of obligations like this (a "cycle") can be *netted* out, reducing the
+overall amount anyone has to pay. While this doesn't feel so much like money in
+an account, it is a *liquidity saving mechanism* - it reduces the amount of money you would otherwise 
+need to settle your payments, functioning effectively as a kind of medium of exchange. 
+Examples include the [TCT system in Slovenia][Liquidity Saving Mechanisms]
+>>>>>>> master
 
 Similar to invoice clearing are *clearing houses*. Instead of only netting out the
 cycles and leaving the remaining obligations in place between businesses, 
@@ -67,13 +93,23 @@ scalable.
 ## Liquidity Saving Mechanisms
 
 Earlier this year, a paper was published by Tomaz Fleischman et al. on 
+<<<<<<< HEAD
 [Liquidity Saving Mechanisms]. The paper seemed to so illuminate the field of local money systems
+=======
+[Liquidity Saving Mechanisms] - looking at both obligation clearing and mutual credit. 
+The paper seemed to so illuminate the field of local money systems
+>>>>>>> master
 that a review was written called [Someone Just Turned the
 Lights on]. The paper analyzed data from two real world local money systems:
 a national trade credit clearing system in Slovenia, and a mutual credit system
 in Sardinia. The paper contains some incredible visualizations of the cyclic structures within the 
+<<<<<<< HEAD
 larger obligation graph, and how obligation clearing improves the liquidity
 profile of firms.
+=======
+larger obligation graph, and of the liquidity profiles of firms with and without
+obligation-clearing.
+>>>>>>> master
 
 Fleischman's paper highlighted the major beneficial impact these systems have had
 on their respective economies, specifically in terms of the liquidity
@@ -90,10 +126,19 @@ for payments to be settled with $, just by netting out participants
 against eachother. Banks do this every single day in clearing houses like CHIPS
 and the Federal Reserve itself, saving themselves on the order of trillions of
 dollars of liquidity per year. We need only to make these tools available to
+<<<<<<< HEAD
 the general public. This is the promise of local money.
 
 [Creating Wealth]: https://newsociety.com/products/9780865716674
 [Optimum Currency Areas]: https://en.wikipedia.org/wiki/Optimum_currency_area
+=======
+the general public. This is one of the promises of local money.
+
+[Creating Wealth]: https://newsociety.com/products/9780865716674
+[Optimum Currency Areas]: https://en.wikipedia.org/wiki/Optimum_currency_area
+[bonding curves]: https://medium.com/@simondlr/tokens-2-0-curved-token-bonding-in-curation-markets-1764a2e0bee5
+[MMT]:/posts/mmt
+>>>>>>> master
 [BerkShares]: https://www.berkshares.org/
 [WIR Bank]: https://en.wikipedia.org/wiki/WIR_Bank
 [Sardex]: https://monneta.org/en/sardex/

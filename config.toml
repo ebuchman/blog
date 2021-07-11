@@ -32,10 +32,10 @@ disqusShortname = "ebuchman-blog"
   url = "/about/"
 
 [[menu.main]]
-  name = "Recordings"
-  identifier = "recordings"
+  name = "Media"
+  identifier = "media"
   weight = 200
-  url = "/recordings/"
+  url = "/media/"
 
       
 
