@@ -1,6 +1,6 @@
 ---
 title: "Socially Responsible Investing"
-date: 2020-08/01
+date: 2021-07-10
 draft: false
 ---
 
@@ -9,12 +9,12 @@ draft: false
 For years I've felt that the vast majority of publicly available securities
 represent fundamentally socially irresponsible behaviour (ie. global military industrial financial capitalism), 
 and I didn't really want anything to do with them. 
-This is of course a big part of what led me, and so many others, to cryptocurrencies,
+This is of course a [big part of what led me][tweet-crypto-thesis], and so many others, to cryptocurrencies,
 which, despite a proliferation of degenerate behaviour among projects and
 participants, appear to be technology's best bet on fighting global sources of
 oppression and exploitation.
-But as the value of the dollar continues to plunge, I've been wondering more about what 
-a socially responsible, or at least, less socially iresponsible portfolio of public securities might look like.
+But as I've accumulated some dollar denominated savings over the years, I've been wondering more about what 
+a socially responsible, or at least, less socially irresponsible portfolio of public securities might look like.
 
 The art and science of [Socially Responsible Investing][SRI] seems to be dominated
 by ["ESG"][ESG], an amorphous and non-standardized rating system that scores
@@ -238,7 +238,7 @@ for Renewable Energy Cooperatives, leading to a number of "Solar Bond"
 offerings. I've found these community bonds actually tend to sell out pretty fast, 
 and I've missed a lot of local offerings that I would have liked to support, like the
 [CSI Community Bond][CSI] and the [Zooshare Bond][Zooshare]. Others I did buy
-into include the [42 Carden Community Bond][] and the [Fair Finance Fund][]. 
+into include the [42 Carden Community Bond][42Carden] and the [Fair Finance Fund][FFI]. 
 One challenge with these kinds of bonds is that they don't necessarily qualify for
 registered savings accounts (eg. RRSP/TFSA in Canada), and if they do, it can be
 a pain in the ass to get your bank to process them. Hopefully this eases
@@ -263,6 +263,25 @@ within your community.
 
 TODO: decent positivie ETFs ? https://www.investopedia.com/investing/top-5-etfs-impact-investing-2017-dsi-kld/
 
+[WealthSimple portfolio]: TODO
+[WealthSimple ETF]: TODO
 [WealthSimple Summary]: https://www.wealthsimple.com/en-ca/magazine/sri-portfolio
-
-
+[tweet-crypto-thesis]: https://twitter.com/buchmanster/status/1330600004419989518
+[SRI]: TODO
+[ESG]: TODO
+[BlackRock]: TODO
+[iShares US]: TODO
+[iShares Europe]: TODO
+[iShares Asia]: TODO
+[iShares SA]: TODO
+[Vanguard US]: TODO
+[Uyghur]: TODO
+[Benefit Corp]: TODO
+[Blabs]: TODO
+[BCorp]: TODO
+[SVX]: TODO
+[FrontFundr]: TODO
+[CSI]: TODO
+[Zooshare]: TODO
+[42Carden]: TODO
+[FFI]: TODO
