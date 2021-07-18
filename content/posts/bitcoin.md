@@ -134,14 +134,14 @@ as a highly liquid (though volatile) reserve asset on corporate balance sheets.
 Of course it's also being used increasingly in ransomware payments and as fodder
 for speculative finance. In ransomwhere, it tragically illuminates the pervasive insecurity 
 and fragility of the systems underlying our critical infrastructure. In finance, it fuels the same kind
-of [leveraged and nebulous behaviour][tether] as the rest of the shadow banking systems.
+of [leveraged and nebulous behaviour][tether] as the rest of the [shadow banking] system.
 Perhaps the greatest risk to Bitcoin is that it is [swallowed up by Wall
 St][epsilon-theory-bitcoin].
 
 But Bitcoin is not alone the solution to the world's monetary problems. 
 It may be necessary, but certainly not sufficient.
-Bitcoin proves the potential of money whose issuance and distribution are based on the performance 
-of activity deemed socially valuable by the network participants themselves. In the
+Bitcoin proves the potential of money whose issuance and distribution is based on 
+socially valuable activity, as determined by the network participants themselves. In the
 case of Bitcoin, that activity is the energy intensive Proof-of-Work mining. But Bitcoin
 is just the first stage in a journey towards increasingly representative monetary
 systems that sustainably [bridge the gap from local self-sufficiency to global
@@ -162,12 +162,12 @@ Of course in the real world, Bitcoin mining is a highly specialized economic
 game played out in transistor sizes and electricity sources. 
 Smaller, faster chips; cheaper, denser energy. The distribution of mining power is nowhere near uniform.
 Nevertheless, Proof-of-Work appears to be the best known manner to solve the
-problem of a [Sybil Attack](sybil-attack). This makes it the besst known
+problem of [Sybil Attacks](sybil-attack) in open, permissionless, global systems. This makes it the best known
 mechanism to "fairly" distribute coins in a monetary system without strong identity.
 
 Bitcoin mining gravitates to the cheapest sources of
 electricity, but the particulars are nuanced. On the one hand,
-there's still cheap electricity in Chinese coal, and [miners are firing up old, dirty plants][firing-up-dirty-mining] where they can get away with it. 
+there's still cheap coal around, and [miners are firing up old, dirty plants][firing-up-dirty-mining] where they can get away with it. 
 This is clearly bad. But on the other hand, renewables are increasingly the cheapest sources of
 power all over the world. [Estimates of the carbon neutrality of Bitcoin's mining power][nic-carter-mining]
 range from 30-70%. And apparently, El Salvador is planning to mine Bitcoin with [clean energy from volcanoes][volcanos].
@@ -181,8 +181,8 @@ As utility companies struggle to match the supply of produced energy to the dema
 they often end up with excess energy that no one can use, energy with nowhere to go - it's just wasted.
 This is true especially for solar and wind, which can only produce when the sun
 or the wind are present, but it's also true more broadly.
-Bitcoin mining may help stabilize the grid by harbouring this excess, otherwise wasted energy.
-Many suggest it might actually [*improve the viability*][square-renewable-mining] of renewable energy projects themselves
+Utility companies may be able to use Bitcoin mining to help stabilize the grid by harbouring this excess, otherwise wasted energy.
+Many suggest Bitcoin mining might actually [*improve the viability*][square-renewable-mining] of renewable energy projects themselves
 by functioning as a sort of quasi ["battery"][bitcoin-battery] that can store excess electrical energy as financial value, and thus make profitable an otherwise costly
 mismatch between supply and demand. 
 
@@ -192,7 +192,8 @@ but their turnover has been quite substantial, as new, more powerful hardware hi
 E-waste in general is a very serious and growing problem globally, seemingly driven
 largely by two pathological but related tendencies at the heart of modern capitalism: 
 planned obsolescence for consumers and inhibitions on the right-to-repair. The Bitcoin
-ASIC industry appears as a brutal caricature of this - each generation of ASICs have become obsolete as soon as
+ASIC industry appears as a brutal caricature of these pathologies - 
+each generation of ASICs have become obsolete as soon as
 the next generation hits the market, and they require incredibly highly
 specialized production facilities. It's also not at all clear yet how effective recycling is. 
 These are all things to worry about. 
@@ -310,7 +311,7 @@ try to re-write history. To a large extent, this is what the [Tendermint][tender
 about. And we've largely succeeded. Pretty much all major blockchains being built today use Proof-of-Stake validators instead
 of Proof-of-Work miners, and thus do away with mining and the ridiculous energy
 expenditure therein. Many of them are even built using the [Cosmos technology][cosmoscap]. 
-There's no real excuse for any new blockchain to use mining.
+There's no real excuse for any *new* blockchain to use mining.
 Even Ethereum, which currently uses Proof-of-Work mining and is second only to Bitcoin, 
 has begun its transition to Proof-of-Stake. 
 
@@ -346,7 +347,7 @@ that is to say, the more democratic.
 It suggests that our international institutions could be grounded, not in
 military prowess and colonial conquest, but in our ability to harness energy for
 computation. And it suggests a layering, a fractal hierarchy of money, stretching
-from the more objective and anonymous work of harnessing electrical energy, to the communal and self-sustaining work of growing food and caring for each other.
+from the more objective and anonymous work of harnessing electrical energy, to the more communal and self-sustaining work of growing food and caring for each other.
 It is on the basis of this more humane foundation that we might expect to build a more sustainable society.
 
 [tweet-bitcoin-tesla]: https://twitter.com/buchmanster/status/1358816115284193281
@@ -379,4 +380,4 @@ It is on the basis of this more humane foundation that we might expect to build 
 [sybil-attack]: https://en.wikipedia.org/wiki/Sybil_attack
 [regen]: http://regen.network/
 [grassroots]: https://www.grassrootseconomics.org/
-
+[shadow banking]: https://en.wikipedia.org/wiki/Shadow_banking_system

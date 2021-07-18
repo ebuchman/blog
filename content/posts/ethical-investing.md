@@ -4,13 +4,13 @@ date: 2021-07-10
 draft: false
 ---
 
-*This is not investment advice. Do your own research. The analyses here is based
+*This is not investment advice. Do your own research. The analyses here are based
 on vague subjective notions of social responsibility that are likely to be
 nonsense anyways. They do not account at all for the potential profitability of
-the companies mentioned. Disclosure of my own positions are incomplete at best.*
+the companies mentioned. Disclosure of my own positions is incomplete at best.*
 
 For years I've felt that the vast majority of publicly available securities
-represented fundamentally socially irresponsible behaviour (ie. global military industrial financial capitalism), 
+represented fundamentally socially irresponsible behaviour (i.e. global military industrial financial capitalism), 
 and I didn't really want anything to do with them. 
 This is of course a [big part of what led me][tweet-crypto-thesis], and so many others, to cryptocurrencies,
 which, despite a proliferation of degenerate behaviour among projects and
@@ -18,6 +18,19 @@ participants, appear to be technology's best bet on fighting global sources of
 oppression and exploitation.
 But as I've accumulated some dollar denominated savings over the years, I've been wondering more about what 
 a socially responsible, or at least, less socially irresponsible portfolio of public securities might look like.
+
+I should say off the bat, this is a fraught enterprise. Who the hell am I to try
+and evaluate the "social responsibility" of various organizations and institutions?
+Such a task is riddled with ethical conundrums and subjective value judgement. Almost surely, 
+any conclusion will be fraught with hypocrisy - there's practically no way to engage in this game without coming
+off as a hypocrite. But that's not too unusual in the complexities of life, is
+it?
+
+In any case, I suspect many, like my self, will still seek to grapple somewhat with these issues as they decide where to
+invest their savings. What follows is a brief account of my own journey trying to navigate this brutal mess.
+The outcome is mostly unsatisfactory. 
+
+## SRI and ESG
 
 The art and science of [Socially Responsible Investing][SRI] seems to be dominated
 by ["ESG"][ESG], an amorphous and non-standardized rating system that scores
@@ -39,15 +52,17 @@ NOTE: the holdings of ETFs change over time.
 In the US, the [iShares ESG ETF][iShares US] and the 
 [Vanguard ESG ETF][Vanguard US] (Vanguard is second only to Black Rock)
 are dominated, unsurprisingly, by big tech. 
-Of the big five FAAMG, Apple seems to be the most socially responsible,
-followed by Microsoft, and they top both ETFs. Along with the FAAMG, both ETFs also have Tesla, JP
+Apple and Microsoft top both ETFs, followed more or less by Google, Amazon, and
+Facebook. I suppose this is some recognition that Microsoft and Apple are perhaps the 
+most socially responsible large companies in America? Could be.
+Along with the FAAMG companies, both ETFs also have Tesla, JP
 Morgan, VISA, and NVIDIA in their top 10 holdings.
 
 It's hard to imagine companies more threatening to the social fabric of sustainable economic
 societies than Google, Facebook, and Amazon. Google (largely through Youtube) and Facebook are actively 
 enabling, if not encouraging, psychological warfare that is devastating the mental 
 health of younger generations and wreaking havoc on the foundations of democracy.
-Facebook,  especially, is engaged in a perverse and insiduous evil, a form of
+Facebook,  especially, is engaged in a perverse and insidious evil, a form of
 digital and psychological colonialism that will have lasting effects on the
 moral and motivational structure of society. And then there's Amazon, slowly and steadily consuming the entire global supply chain, all but
 extinguishing local commerce. The anti-competitiveness of Amazon is the stuff of legend.
@@ -55,10 +70,23 @@ extinguishing local commerce. The anti-competitiveness of Amazon is the stuff of
 Of course, these tech giants are leading the charge on all
 kinds of amazing energy efficient computing initiatives, and per bit are
 probably far more environmentally sustainable than smaller companies. But true
-sustainability can't be measured in carbon emissions alone, and the business
-models, especially of Google, Facebook, and Amazon, are themselves fundamentally socially irresponsible. 
-The idea that they could play any significant role in an ethically invested
-portfolio seems abhorrent to me. That said, I did end up buying Apple and Microsoft `¯\_(ツ)_/¯`.
+sustainability can't be measured in carbon emissions alone, and the monopolistic business
+models, especially of Google, Facebook, and Amazon, appear to be fundamentally socially irresponsible. 
+
+At some level, purchasing goods and services from a company is a form of
+investment, and should also be considered through a socially responsible lens, 
+though it usually doesn't equate to ownership of a public security.
+This might imply that you should invest in companies whose products and services 
+you use, or at least those you don't feel coerced to use. I've managed to stop
+using all Facebook products (try it!),
+and I rarely if ever buy from Amazon, though it's
+pretty hard to avoid AWS, or to escape from GSuite. 
+Being in tech, it's hard to not use an iPhone and Macbook; planned obsolescence and port shenanigans aside, at least Apple stands out for
+its protection of privacy rights and a business model that isn't based on hijacking your nervous system. 
+Microsoft also seems to be getting better (and they own Github now, for better or for worse), but they're still contracting with ICE.
+Then there are Jack's companies - I don't use Square, but I do kind of
+love Twitter. Obviously it can be a toxic cesspool and a cauldron of harassment,
+but it can also be kind of magical. I digress.
 
 ## Canada
 
@@ -66,13 +94,11 @@ In Canada, [ESG
 ETFs](https://www.blackrock.com/ca/investors/en/products/307298/ishares-esg-aware-msci-canada-index-etf-fund) 
 are dominated by Canadian financial institutions (Canada's big banks). 
 Modern finance, in many respects, is fundamentally unsound and unsustainable.
-Financial institutions are complicit in a ongoing, massive wealth transfer
+Financial institutions are complicit in an ongoing, massive wealth transfer
 from the middle and lower classes to the upper class. 
 Yes, this is more true in the US than elsewhere, and yes, the stability of Canadian banks is the envy
-of many nations. But no matter how many trees
-they plant or stakeholders they consult, at the scale they operate (ie.
-nationally or internationally, with billions of dollars), their business
-models are fundamentally exploitative. 
+of many nations. But in the game they're playing, at the scale they operate,
+their business models are fundamentally exploitative. 
 
 For years, my grandfather, a chartered accountant who worked until he passed away at 89,
 tried to convince me to buy Canadian bank stocks.
@@ -82,12 +108,12 @@ see that. I tried and
 failed to explain to him that I felt the same way about the banks as he might feel about
 the tobacco companies (not a fan), and so I couldn't buy them. 
 Of course I was also trying to get him to buy Bitcoin, which he never
-accomplished. If he was going to speculate, he prefered weed stocks. 
-We bonded over our respective account managers advising us to avoid both Bitcoin
-and weed stocks, and the money we respectiely made by ignoring them. 
-My zaidy passed away last fall; I bought all 5 Canadian banks in his memory.
+accomplished. If he was going to speculate, he preferred weed stocks. 
+We bonded over the money we made on Bitcoin and weed stocks, respectively, by
+ignoring our account managers, who advised us not to buy either.
+My Zaidy passed away last fall; I bought all 5 Canadian banks in his memory.
 
-It's also come to my attention that, genuinelly speaking, banking might be
+It the meantime, it has come to my attention that, genuinely speaking, banking might be
 something the Canadians are actually *best in the world* at, and we have the
 history to prove it. As a user of Canadian banks, it's hard to believe this (my
 experiences are all terrible), but as an aspiring student of monetary history,
@@ -95,9 +121,15 @@ the conclusion is impossible to avoid. I'm especially proud of our late 19th
 century history of ["free banking"][free-banking].
 
 Notably, Shopify got big enough this year to rise to the top of that iShares Canada ESG ETF.
-Shopify probably serves as a very strong socially responsible counterpoint to Amazon.
-Of course, it is categorized as tech, but it's also [becoming a
-dominant financial institution](https://www.shopify.ca/capital), playing a very different game than the banks. 
+Shopify probably serves as a very strong socially responsible counterpoint to Amazon - 
+in contrast to Amazon's monopolistic, anti-competitive, and exploitative drive to deliver the lowest prices
+and put everyone else out of businesses, Shopify is committed to, and succeeding
+in, enabling new small businesses to emerge and grow. As Tobi Lütke (Shopify CEO) [put
+it][arm-the-rebels], "Amazon is trying to build an empire, and Shopify is trying to arm the
+rebels". Perhaps one day [Shopfiy
+will even acquire Amazon][shopify-amazon].
+Of course, Shopify is categorized as tech, but it's also [becoming a
+dominant financial institution](https://www.shopify.ca/capital) in its own right, playing a very different game than the banks. 
 This is a really important development, and Canadian tech is poised to usher 
 in a new and more responsible age of internet capitalism.
 
@@ -114,7 +146,7 @@ Swiss chemist at a Novartis subsidiary inventing LSD ;).
 
 That said, many of the European companies have their own checkered history of exploitation
 detailed on their Wikipedia pages.
-Nestle, which tops the iShares ETF, seems particularly bad in its exploitation of water resources,
+Nestle, which tops the iShares ETF, seems particularly bad re water resources,
 proliferation of plastic, and its continued use of child slave labour (!).
 But some, like ASML, LVMH, and Roche, seem to have relatively
 clean records (that is, if you're into micro-processors, luxury goods, and pharmaceuticals), 
@@ -123,6 +155,17 @@ commitments to clean up their act. It's promising, but these are all still massi
 and it seems no matter what, with multi-nationals, you're going to have to pick
 your poison.
 
+If you look at the [list of iShares ETFs][iShares ETFs] and sort by their ESG "Rating" or "Quality Score",
+you find ETFs specific to certain countries that aren't named as ESG
+ETFs per se, but that do have very high ESG scores, like the Netherlands, Australia, the UK, and Denmark. 
+Apparently European financial institutions also score extremely well. Notably, the
+[UK ETF][iShares UK], which has one of the highest ESG scores of all the iShares ETFs, 
+has two oil companies (BP, Royal Dutch Shell) and a tobacco company (British American Tobacco) in its top ten holdings.
+These ESG ratings really probably aren't all that useful.
+The [Netherlands ETF][iShares Netherlands] turns out to be >20% ASML, who we've
+already highlighted. I opted for the [Denmark ETF][iShares Denmark], but I don't
+think it's been performing too well. 
+
 ## Asia and Africa
 
 Then there's the Asian ESG ETFs, like the [iShares emerging markets one][iShares Asia], 
@@ -130,59 +173,33 @@ which is almost 50% Chinese companies, dominated by giants Alibaba and
 Tencent. I can't pretend to understand Chinese capitalism, but it seems like the large
 companies are, generally speaking, extensions of the power of the Chinese government, which is currently
 committing genocide of the Uyghur in [Xinjiang concentration camps][Uyghur]. It's
-probably not a good time to support Chinese conglomerates. 
+probably not a good time to support Chinese conglomerates. China also seems to
+be rolling out [new restrictions on letting company's go public][china-ban] in the US and
+elsewhere. 
+
 Other Asian ETFs, and some non-US ETFs (primarily Europe + Asia), otherwise give
 a lot of weight to Korea's Samsung, Japan's Toyota and Sony, and Taiwan's Taiwan
-Semiconductor Manufacturing Company (TSMC). Korean and Japanese
-companies are probably a lot more like European companies (ie. real goods, but especially technological), but with less labour protections.
-TSMC seems like a special case, on the one hand because it seems to have a
-reasonably clean record, on the other because, as a counterpoint to
-China, it seems like a good time to be supporting Taiwan.
+Semiconductor Manufacturing Company (TSMC). In spirit, these companies 
+are probably a lot more like European companies (i.e. real goods, especially technological ones), 
+but with less labour protections. TSMC seems to have an especially favourable
+record, and Taiwan is a strong democratic counterpoint to China.
 
 As for Africa, the ETFs and capital markets in general are much less mature.
 iShares has a [South African ESG ETF][iShares SA], which is 20% Naspers,
 Africa's biggest public company, who also owns ~30% of China's Tencent.
 
-## Alternative ESG ETFs
-
-The ETFs we've looked at so far prioritize large corporations, and we only
-looked at a very small sample - some are certainly better than others, though the main iShares/MSCI 
-funds tend to be representive. You might say
-these ETFs select from the largest companies, minimizing for bad behaviour (a
-lot of ESG seems to be about minimizing bad behaviour). But
-there's also a number of ETFs striving to maximize good behaviour by
-focusing on certain sectors and smaller companies. This might qualify more as
-"impact investing" than "socially responsible investing". Many of these are focused in
-the energy sector, with names like 
-"Low Carbon Energy", 
-"Solar", and 
-"Clean Energy". 
-Other are more general than energy, with names like 
-"Environmental Leaders", 
-"Positive Change", and
-"Sustainable Growth".
-Perhaps not surprisingly, Tesla plays a big role in a lot of them.
-In any case, by striving for a selection that maximizes good behaviour, 
-these ETFs seem to be a lot more socially responsible than the more popular ESG ETFs that
-primarily minimize bad behaviour. But of course, given these companies tend to
-be smaller and less diversified, the risk/reward trade off is different as well.
-
-You might also find some better ESG ETFs by, for instance, looking at the [list of
-iShares ETFs][iShares ETFs] and sorting by their ESG "Rating" or "Quality Score".
-Doing that surfaces ETFs specific to certain countries with very high ESG
-scores, like the Netherlands, Australia, the UK, and Denmark. Apparently
-European financial institutions also score quite well. I'll note that the
-[Netherlands ETF][iShares Netherlands] is >20% ASML, and the [UK ETF][iShares
-UK] somehow contains BP, British American Tobacco, and Royal Dutch Shell in its
-top 10 holdings. I opted for the [Denmark ETF][iShares Denmark].
+## WealthSimple's Socially Responsible ETF
 
 WealthSimple rolled out their own [socially responsible portfolio][WealthSimple portfolio], 
 which includes a variety of Canadian government bonds, plus a North American and a Developed Markets ETF. 
 Government bonds are a strange thing - forged in the fires of war finance over the centuries, they have
 since become fundamental to the operations of the financial system. I don't have
-much to say about them here. WealthSimple released a great [summary of its approach][WealthSimple Summary]. 
-Let's look at the North
-American ETF they use. There doesn't seem to be an up-to-date holdings page but
+much to say about them here, other than to point out that the Government of
+Ontario is the [most indebted sub-sovereign on the planet][ontario-debt].
+Whether this will ever matter for the Ontario bond market? Who knows.
+
+WealthSimple released a great [summary of its approach][WealthSimple Summary]. 
+As for their North American ETF, there doesn't seem to be an up-to-date holdings page but
 there's a [summary page with the top 10 (presumably current)
 holdings][WealthSimple ETF Top] and an old statement of the [full holdings from
 Summer 2020][WealthSimple ETF]. Looking at the Summer 2020 holdings,
@@ -193,8 +210,44 @@ The next top companies in the ETF (~3% each) are
 Vulcan Materials (American construction materials), 
 Agnico-Eagle Mines (Canadian gold producer), and
 Cameco Corp (the world's largest uranium company, based in Canada), which are interesting selections for sure.
-I have a bit of a soft spot for gold and nuclear energy (though surely the consequences of mining for gold and uraniam are abhorent :( ), so I bought the Agnico and
-Cameco stocks.
+I have a bit of a soft spot for gold and nuclear energy (though surely the consequences of mining for gold and uranium are abhorrent), so I care to know which are the more responsible companies in the industry. 
+For instance, Canada's largest gold producer, Barrick Gold, appears to be a [practically criminal organization](https://en.wikipedia.org/wiki/Barrick_Gold#Mining_practices).
+
+## Impact ETFs
+
+In looking at some of the most popular ESG ETFs, we've mostly been talking about the
+worlds largest companies. These companies long ago established their business
+model and simply try to perform it in a socially responsible way. You could say
+their notion of social responsibility is defined largely in terms of minimizing
+the negative externalities of their existing business models - say, *minimizing
+the bad*. But what about companies trying to *maximize the good*? Either through
+the delivery of existing business models which don't have large inherent
+negative externalities, or through the development of new business models that
+try to address real problems in the world. This might qualify more in the lingo
+as *impact investing* than socially responsible investing.
+
+Unsurprisingly, many of these more impact oriented ETFs are focused in the
+energy sector, with names like 
+"Low Carbon Energy", 
+"Solar", 
+"Clean Energy", and
+"Next Gen Hydrogen". Pick you favorite world-saving technology, and there's
+probably an ETF for it.
+Other are more general than energy, with names like 
+"Environmental Leaders", 
+"Positive Change", and
+"Sustainable Growth".
+Perhaps not surprisingly, Tesla plays a big role in a lot of these.
+But you'll also find companies handling waste, water, and so on (Waste Management, Suez, etc.).
+There was an [organic farming ETF][organics] for a few years, but it seems to have shut
+down. Of course there's also now Cannabis and Psychedelic ETFs as more
+and more companies go public in those finally legal industries. What degree of impact
+they will have is yet to be seen.
+
+In any case, striving for a selection that maximizes "good" behaviour, or at
+least are dedicated to more impact-oriented industries, seems like a promising
+approach. But of course, given these companies tend to
+be smaller and less diversified, the risk/reward trade off is different as well.
 
 Extensive due diligence on companies and ETFs is a lot of work.
 Many of the ETFs are actively managed, so their holdings change over time.
@@ -234,58 +287,45 @@ Australian Ethical,
 Amalgamated Bank,
 VivoPower International,
 O-Bank,
-Arowana, all of which are public B-Corps. Most of these companies are pretty small.
+Arowana, all of which are public B Corps. Most of these companies are pretty small.
 But there are also a number of large companies that have been buying up B Corps, 
 and operating them as subsidiaries. These include 
 Unilever,
 Danone, and
 P&G. Etsy used to be a B Corp, but it couldn't manage to maintain its
-certifcation when it went public, which is quite a shame. 
+certification when it went public, which is quite a shame. 
 
 Side note, B Lab basically [spun out AND1][blab-and1], which was apparently a
 [pretty amazing company][and1]. I used to rock their basketball shorts.
 
 ## The Tragedy of Retail Investing
 
-At some level, purchasing goods and services from a company is a form of
-investment, and should also be considered through a socially responsible lens, 
-though it usually doesn't equate to ownership of a public security.
-This might imply that you should invest in companies whose products and services 
-you use, or at least those you don't feel coerced to use. I've managed to stop
-using all Facebook products (and would encourage you to try as well), 
-and I rarely if ever buy from Amazon, though it's
-pretty hard to avoid AWS, or to escape from GSuite. 
-Being in tech, it's hard to not use an iPhone and Macbook; planned obsolescence and port shenanigans aside, at least Apple stands out for
-its protection of privacy rights and a business model that isn't based on hijacking your nervous system. 
-Microsoft also seems to be getting better (and they own Github now, for better or for worse), but they're still contracting with ICE.  
-Then there are Jack's companies - I don't use Square, but I do kind of
-love Twitter. Obviously it can be a toxic cesspool and a cauldron of harassment,
-but it can also be kind of magical.
-
-A big part of the problem with socially responsible investment is that the average citizen is prohibited,
-by securities regulations from the 1930s, from investing in what might be the most socially responsible investment opportunities in
-their communities by virtue of the distinction between public and private
-companies. According to the regulations, retail investors are only allowed to
-invest in public companies. To say these regulations are out-dated, well-intentioned as they might be,
+A big part of the challenge with socially responsible investment is that the average citizen has been prohibited,
+by securities regulations from the 1930s, from what might be the most socially responsible investments available to them.
+This could be new businesses that they strongly believe in, or even the
+businesses in their own communities. Securities regulations distinguish between private companies, and those that have gone public,
+and only allow retail investors to invest in the public ones.
+But the majority of companies, especially the startups and the small-medium sized businesses in your community, are private. 
+To invest in them, you generally have to be an "accredited investor" (i.e. you made $200k/year for the last two years or you have $1M in liquid
+assets). Securities laws have arguably thus become one of the most powerful factors exacerbating wealth inequality 
+and inhibiting capital formation in more socially responsible businesses.
+To say these regulations are out-dated, well-intentioned as they might be,
 is an understatement. 
 
-By the time a company goes public, almost by definition,
-it has had to make quite substantial sacrifices in social responsibility. 
-The large public markets, underwritten by investment banks,
-beseiged by high frequency traders and other extractive intermediaries, are to a
-significant extent socially irresponsible in and of themselves. Securities laws restricting investment
-in smaller companies is perhaps one of the most powerful wedges exacerbating
-wealth inequality and inhibiting capital formation in more sustainable and
-ethical businesses. Fortunately, there is a small but growing movement to relax securities
+Fortunately, there is a small but growing movement to relax securities
 regulations and make investing in smaller and more local companies much more
-accessible, spawning platforms like the [SVX][SVX] and [FrontFundr][FrontFundr] in Canada, which list
-a variety of more socially responsible companies. Embarassingly, the regulations
-in Ontario are so bad that, when I tried to sign up for [Republic][Republic], a fundraising platform that appears open to the world,
+accessible, spawning platforms like the [SVX][SVX] and [FrontFundr][FrontFundr] in Canada, 
+and [Republic][Republic] in the US. SVX in particular focuses more on impact
+investing. Embarrassingly, the regulations in Ontario are so bad that, when I tried to sign up for Republic,
 I discovered that [Ontario investors were prohibited][republic-tweet], along with investors from Iran, North
 Korea, Syria, and other jurisdictions of questionable political stature. 
 
-Cryptocurrencies will hopefully continue to apply pressure here towards
-improving the securities laws.
+If you are an accredited investor (and it's not something you have to sign up
+for, you either make/have enough money or you don't), then opportunities abound.
+There are likely many thousands of startups and growing companies focused on
+more socially responsible and/or impactful business models, hundreds
+of funds specializing in investing in them, and increasingly useful tools and
+marketplaces for matching investors and investments. 
 
 ## Community Bonds
 
@@ -304,30 +344,47 @@ companies, like Compushare and Pacific Trust, that specialize in holding such al
 securities in registered accounts. Of course, this is all still debt-based
 financing, but it's a start.
 
-Notably, cooperatives offer a kind of loop hole in the securities regulations -
-they are regulated quite differently, and by a different government department.
+Notably (though I am not a lawyer!), cooperatives appear to offer a kind of loophole in 
+the securities regulations in that you don't need to be an accredited investor
+to invest. Cooperatives are regulated somewhat differently from corporations, 
+and by a different government department.
 I suspect there's a lot of socially valuable regulatory arbitrage to be explored here.
 That said, cooperatives are a less common legal form, so there is less
 understanding of how they work among professionals, and their administration
-appears to be much less modernized (for instance, you can setup a company
-completely online in Ontario but a cooperatie requires you to mail physically
-signed documents). My [own company][Informal] is set up to simualte a
-cooperative - see our [blog post on cooperative ownership][informal-owners] for
+appears to be much less modernized (for instance, you can set up a company
+completely online in Ontario but a cooperative requires you to mail physically
+signed documents). This all translates into more risk for cooperative
+entrepreneurs. But that's starting to change, as cooperatives become increasingly popular. 
+My [own company][Informal], though not legally an Ontario Cooperative, is set up to simulate one
+- see our [blog post on cooperative ownership][informal-owners] for
 more background research.
+
+## Cryptocurrencies
+
+I would be remiss if I wrote a whole post about socially responsible investing
+and didn't mention cryptocurrencies. There are of course numerous issues with
+cryptocurrencies, and many of them are, for lack of a better term, outright
+scams (including some of the largest ones!). But cryptocurrencies offer a kind of community based counterpoint to
+modern finance and public securities that has no other parallel. As open,
+permissionless, transparent, decentralized systems (at least those that actually are), they 
+enable a kind of participation that is otherwise largely absent from the world
+of investing. Each cryptocurrency represents a different community and set of values, 
+and invites community members, whoever they are or wherever they may be, to
+participate in building and growing the network. But as always, and perhaps more
+than anywhere else, it's important to do your own research.
 
 ## Conclusion
 
-In the end, this a pretty complex problem. And folks like [Anand Giridharadas][anada] levy amazing
-critiques at the very notion that socially responsible or impact investing is
+In the end, this a pretty complex problem. And it may even be in vain - see, for instance,
+[Anand Giridharadas][anand] critique at the very notion that socially responsible or impact investing is
 even possible in the context of our global financial system. What we need,
 obviously, is to reform our political-economic institutions. Hence my
 overwhelming preference for smaller and more local investments, though the
 securities regulators make this prohibitive for most. In general, I'd say the
 best you can do is follow some heuristics: small is better, US and China are worse, 
 find fund managers you trust, seek out more rigorous certifications like B Corps, 
-and most of all, look for the unique alternative local opportunites that might be available
-within your community. 
-
+and most of all, look for the unique alternative local opportunities that might be available
+within your community. Or just go [all in on crypto][tweet-crypto-thesis] :) .
 
 [WealthSimple portfolio]: https://www.wealthsimple.com/en-ca/feature/socially-responsible-investing
 [WealthSimple ETF]: https://help.wealthsimple.com/hc/en-ca/articles/360058455853
@@ -344,6 +401,7 @@ within your community.
 [iShares Netherlands]: https://www.ishares.com/us/products/239671/ishares-msci-netherlands-etf
 [iShares UK]: https://www.ishares.com/us/products/239690/ishares-msci-united-kingdom-etf
 [iShares Denmark]: https://www.ishares.com/us/products/239621/ishares-msci-denmark-capped-etf
+[iShares ETFs]: https://www.ishares.com/us/products/etf-investments#!type=ishares&view=esgMetrics
 [Vanguard US]: https://investor.vanguard.com/etf/profile/ESGV
 [Uyghur]: https://en.wikipedia.org/wiki/Uyghur_genocide
 [NEI]: https://neiinvestments.com/pages/prices-and-performance/profile/?ticker=F00000WOTQ
@@ -366,3 +424,8 @@ within your community.
 [informal]: https://informal.systems/
 [informal-owners]: https://informal.systems/2020/09/21/informal-owners/
 [anand]: http://www.anand.ly/winners-take-all
+[organics]: https://www.bloomberg.com/quote/ORG:US
+[shopify-amazon]: https://twitter.com/tobi/status/1068282069397123072
+[arm-the-rebels]: https://twitter.com/tobi/status/1182697544167632898
+[china-ban]: https://www.bloomberg.com/news/articles/2021-07-10/china-tightens-foreign-ipo-rules-for-firms-with-large-user-data
+[ontario-debt]: https://www.reuters.com/article/canada-ontario-bonds-idUSL1N21U14I
