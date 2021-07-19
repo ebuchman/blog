@@ -47,15 +47,15 @@ descriptions of money!
 The factors of Land and Labour, the very substance of natural and
 human life, have been reduced to mere commodity - 
 *fictitious commodities*, as Polanyi so aptly called them.
-We've known since the time of David Riccardo, and certainly since Henry George,
+We've known since the time of David Ricardo, and certainly since Henry George,
 that private property in Land is highly questionable, if not outright immoral. 
 Indeed, private property in Land can only emerge through a kind of theft, if not worse, an outright
 ethnic cleansing or genocide. It was theft of Land that ravaged Europe during the
 enclosure movement, giving rise to a new class of "poor". 
-And it was a veritable genocide of the indigenous people that made the societies
+And it was a veritable genocide of the Indigenous people that made the societies
 of Canada and the U.S. possible. This we must never forget. 
-As for Labour, the ongoing pandemic has made apparent just how well our economic
-system is able to value so-called "essential work". And the overwhelming Labour
+As for Labour, the ongoing pandemic has made apparent just how poorly our economic
+system values so-called "essential work". And the overwhelming Labour
 that sustains households barely even enters the economic discourse.
 It is indeed worth asking, [Who cooked Adam Smith's
 Dinner?](https://www.goodreads.com/book/show/23206098-who-cooked-adam-smith-s-dinner-a-story-about-women-and-economics).
