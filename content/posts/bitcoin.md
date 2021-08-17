@@ -10,7 +10,7 @@ confused, including Elon Musk himself.
 Tesla, a bastion of our clean energy future, is helping us transition
 from fossil fuels to electricity.
 Bitcoin, a speculative digital asset, is using more energy 
-than Switzerland and is largely powered by Chinese coal. 
+than Switzerland and is (or at least was!) largely powered by dirty Chinese coal. 
 What gives?
 
 At the time, [I suggested][tweet-bitcoin-tesla] that Bitcoin might actually be better for the
@@ -31,10 +31,10 @@ helping bring about those changes. Bitcoin might be.
 Tesla helps entrench and exacerbate a number of existing problems in the world.
 
 One is American capitalism itself. There are obviously good ideas at the heart
-of American capitalism, about entrepreneurship and the power of mutually
+of American capitalism, about entrepreneurship, competition, and the power of mutually
 beneficial exchange to drive progress. But the modern incarnation of military-industrial,
 monopolistic, American consumerism is not particularly nurturing for a sustainable future. 
-Tesla is perhaps the peak of American capitalism's splendor.
+Tesla is perhaps American capitalism's best foot forward.
 
 Two is the supply chain of modern technology.
 The mining industry, for metals like Lithium, Coltan, and more,
@@ -57,7 +57,7 @@ Now I'm not trying to diss Tesla, per se.
 Tesla is the beacon of a research and development process that is itself critical to
 sustainability. And if we want to make progress in batteries, which we should, cars are a great
 way to go. But the fundamental problems we're facing today don't seem so much technical as they
-do political economic. More R&D in capitalist companies with dirty supply chains
+do political-economic. More R&D in capitalist companies with dirty supply chains
 feeding conspicuous consumerism can only help so much.
 
 ## Orange Money
@@ -72,9 +72,9 @@ be the best thing we've ever seen.
 That's a pretty bold statement. And I don't expect to fully convince you here. 
 I merely intend to suggest that it's worth thinking about. Bitcoin is
 taking its seat at the table of international monetary institutions.
-Its market capitalization today (~$0.65T), is larger than *every one* of the major American
+Its market capitalization today (~$0.85T), is larger than *every one* of the major American
 banks and payments companies. It's also larger than most of the world's national
-currencies, and nearly half that of silver's. Bitcoin is even set to become legal tender in El Salvador later this year, 
+currencies, and more than half that of silver's. Bitcoin is even set to become legal tender in El Salvador in a few weeks, 
 and is under consideration for legal tender status in a number of other South American countries.
 
 But Bitcoin isn't a precious metal. And it's not something produced by a company, nor a government, 
@@ -82,7 +82,7 @@ nor really any distinctly identifiable organization.
 Bitcoin is a collective. An open-source, verifiable, transparent, decentralized, 
 collective hosting a store of value and a medium of exchange for all to use on
 equal terms without discrimination. Isn't that the kind of stuff that sustainable human institutions
-are made of ?
+are made f?
 
 As a collective, Bitcoin shares more of its
 character with religion than with enterprise, more with performance art than
@@ -94,7 +94,7 @@ The dollar, which has since been captured, corrupted, and calcified, was perhaps
 good art too.
 
 Like any monetary institution, Bitcoin is designed to nurture a kind of *trust*
-among the society it serves. But it does so in a very different way from the
+among the members of the society it serves. But it does so in a very different way from the
 monetary institutions of the nation states. 
 Many of the problems we face today, of inequality and sustainability, can be traced back to the institutions of money. 
 How is money created? Who is it distributed to? What is it distributed
@@ -129,7 +129,7 @@ of monetary institutions in one of the most fundamental physical processes under
 And Bitcoin is starting to find success as a fledgling monetary institution.
 This is not to say that it will or must necessarily become money for the whole world. But it is
 beginning to fulfill some meaningful functions of money in certain growing
-contexts - it's being increasingly used to pay salaries, to make international payments, and 
+contexts - it's being increasingly used to pay salaries, to make international payments and remittances, and 
 as a highly liquid (though volatile) reserve asset on corporate balance sheets.
 Of course it's also being used increasingly in ransomware payments and as fodder
 for speculative finance. In ransomwhere, it tragically illuminates the pervasive insecurity 
@@ -147,7 +147,7 @@ is just the first stage in a journey towards increasingly representative monetar
 systems that sustainably [bridge the gap from local self-sufficiency to global
 luxuries and back][tweet-crypto-thesis]. 
 
-## Mind the Miners
+## In Proof we Trust
 
 Bitcoin are created and issued to those who provably contribute to
 the security of the Bitcoin network via Proof-of-Work (PoW) mining.
@@ -164,6 +164,51 @@ Smaller, faster chips; cheaper, denser energy. The distribution of mining power 
 Nevertheless, Proof-of-Work appears to be the best known manner to solve the
 problem of [Sybil Attacks](sybil-attack) in open, permissionless, global systems. This makes it the best known
 mechanism to "fairly" distribute coins in a monetary system without strong identity.
+
+For years now, the Bitcoin mining network has been the world's largest supercomputer,
+more powerful than all the other supercomputers combined, though it is computing only a single rather simple
+function with seemingly little practical value. 
+So what do we even get for all this seemingly wasted electricity? What does
+Proof-of-Work mining really provide?
+We've already alluded to a kind of *trust* that this process produces,
+a guarantee sometimes referred to as *thermodynamic immutability*. 
+It means that the integrity of the historical record produced by the Bitcoin
+blockchain (i.e. it's immutability), is guaranteed by the thermodynamics of the universe,
+rather than the whims of our social politics.
+
+It is often said that history is written by the victors,
+where victory is defined in terms of war and conquest. In this light the phrase reflects a
+sort of defeatist resignation to the perils of political plunder.
+But Bitcoin redefines that victory which writes history, not as discriminatory political might, but as a
+verifiable, thermodynamic process, at once accessible to all. It casts the
+same phrase in a more hopeful light, where history is written not by way of
+destructive political wars, but by way of a voluntary, collective, economic game.
+
+As the Bitcoin blockchain marches on, the *cost* of re-writing 
+Bitcoin's history increases in proportion to the amount of computing power already spent.
+For this reason we talk about Proof-of-Work mining as providing a kind of security.
+Some call this kind of security "cryptoeconomic", in reference to the mix of
+cryptographic and economic guarantees it provides.
+
+This is not to say social consensus and politics are not involved in Bitcoin or that
+Bitcoin is just math and physics. Bitcoin is an evidently political-economic institution
+with many sources of trust. But the pumping heart of the Bitcoin network, it's
+Proof-of-Work backbone, is a thermodynamic process that provides a kind of guarantee about history ("thermodynamic immutability"),
+and a kind of fairness in distribution (a sort of "universal basic job")  that we *do not otherwise know how to produce*. 
+What we get from mining is the most
+advanced and robust source of trust for international agreement that we've ever
+had. And it *only* costs as much as the economy of Switzerland!  This may prove to be especially important in the coming years amidst what
+appears to be increasingly turbulent geopolitical relations. International
+sources of agreement are in short supply.
+
+I [like to argue][bitcoin-turns-10] that saying Bitcoin is wasteful is a bit like saying the Sun is
+wasteful. Look at how much energy the Sun wastes, and for what?! Of course, the sun
+provides a certain kind of guarantee to biological activity on Earth, a robust foundation 
+for the development of all the world's ecosystems. I suggest to you that
+Bitcoin, and the guarantees it provides, might play the same kind of role in our
+evolving digital ecosystem that the Sun plays for life on our planet.
+
+## Mind the Miners
 
 Bitcoin mining gravitates to the cheapest sources of
 electricity, but the particulars are nuanced. On the one hand,
@@ -193,7 +238,7 @@ E-waste in general is a very serious and growing problem globally, seemingly dri
 largely by two pathological but related tendencies at the heart of modern capitalism: 
 planned obsolescence for consumers and inhibitions on the right-to-repair. The Bitcoin
 ASIC industry appears as a brutal caricature of these pathologies - 
-each generation of ASICs have become obsolete as soon as
+each generation of ASICs becomes obsolete as soon as
 the next generation hits the market, and they require incredibly highly
 specialized production facilities. It's also not at all clear yet how effective recycling is. 
 These are all things to worry about. 
@@ -203,7 +248,7 @@ computing generally, are coming up against the physical boundaries of
 computation as [Moore's Law has started to break down][moores-law], placing limits on the
 ability to produce new, faster chips without some kind of serious breakthrough in
 physics and computer engineering. This means the innovation must turn
-increasingly from speed (smaller transistsors, more per chip) to *efficiency*, including more efficient energy usage, cooling,
+increasingly from speed (smaller transistsors, more per chip), to *efficiency*, including more efficient energy usage, cooling,
 use of raw materials, etc. As microchip production is already a
 highly scarce resource, and priority is anyways given to major companies like
 Apple, Qualcomm, etc., Bitcoin ASIC producers have to make do with lower quality
@@ -238,50 +283,6 @@ relative outcasts of a countercultural spirit, injecting massive amounts of R&D 
 the cracks of existing institutions, ultimately transforming those institutions
 in the end for the better.
 
-## In Proof we Trust
-
-For years now, the Bitcoin mining network has been the world's largest supercomputer,
-more powerful than all the other supercomputers combined, though it is computing only a single rather simple
-function with seemingly little practical value. 
-So what do we even get for all this seemingly wasted electricity? What does
-Proof-of-Work mining really provide?
-We've already alluded to a kind of *trust* that this process produces,
-a guarantee sometimes referred to as *thermodynamic immutability*. 
-It means that the integrity of the historical record produced by the Bitcoin
-blockchain (i.e. it's immutability), is guaranteed by the thermodynamics of the universe,
-rather than the whims of our social politics.
-
-It is often said that history is written by the victors,
-where victory is defined in terms of war and conquest. In this light the phrase reflects a
-sort of defeatist resignation to the perils of political plunder.
-But Bitcoin redefines that victory which writes history, not as discriminatory political might, but as a
-verifiable, thermodynamic process, at once accessible to all. It casts the
-same phrase in a more hopeful light, where history is written not by way of
-destructive political wars, but by way of a voluntary, collective, economic game.
-
-As the Bitcoin blockchain marches on, the *cost* of re-writing 
-Bitcoin's history increases in proportion to the amount of computing power already spent.
-For this reason we talk about Proof-of-Work mining as providing a kind of security.
-Some call this kind of security "cryptoeconomic", in reference to the mix of
-cryptographic and economic guarantees it provides.
-
-This is not to say social consensus and politics are not involved in Bitcoin or that
-Bitcoin is just math and physics. Bitcoin is an evidently political economic institution
-with many sources of trust. But the pumping heart of the Bitcoin network, it's
-Proof-of-Work backbone, is a thermodynamic process that provides a kind of guarantee about history ("thermodynamic immutability"),
-and a kind of fairness in distribution (a sort of "universal basic job")  that we *do not otherwise know how to produce*. 
-What we get from mining is the most
-advanced and robust source of trust for international agreement that we've ever
-had. And it *only* costs as much as the economy of Switzerland!  This may prove to be especially important in the coming years amidst what
-appears to be increasingly turbulent geopolitical relations. International
-sources of agreement are in short supply.
-
-I [like to argue][bitcoin-turns-10] that saying Bitcoin is wasteful is a bit like saying the Sun is
-wasteful. Look at how much energy the Sun wastes, and for what?! Of course, the sun
-provides a certain kind of guarantee to biological activity on Earth, a robust foundation 
-for the development of all the world's ecosystems. I suggest to you that
-Bitcoin, and the guarantees it provides, might play the same kind of role in our
-evolving digital ecosystem that the Sun plays for life on our planet.
 
 ## Big Bad Blockchains
 
@@ -324,7 +325,7 @@ itself, is not to be dismissed so quickly.
 But Proof-of-Work and Proof-of-Stake
 are also not the end of the story. In my talk on [Stakeholders and Statemachines][stakeholders-and-statemachines],
 I propose that Bitcoin is the first stage in a journey towards increasingly representative monetary
-institutions, towards a fractal hierarchy of money that can sustainably [bridge the gap from local self-sufficiency to global
+institutions, a fractal hierarchy of money that can sustainably [bridge the gap from local self-sufficiency to global
 luxuries and back][tweet-crypto-thesis]. That journey leads us from the more
 objective, international sources of trust, to the more subjective and local. From
 the cryptographically verifiable energy expenditure in a remote data center that
