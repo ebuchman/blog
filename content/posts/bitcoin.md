@@ -57,7 +57,7 @@ anyone who's ever gotten a street closed to cars, for any duration. Respect.
 
 Now I'm not trying to diss Tesla, per se. 
 Tesla is the beacon of a research and development process that is itself critical to
-sustainability. <!-- I don't follow the reasoning of the next setnece: ---> And if we want to make progress in batteries, which we should, cars are a great
+sustainability. <!-- I don't follow the reasoning of the next sentence: ---> And if we want to make progress in batteries, which we should, cars are a great
 way to go. But the fundamental problems we're facing today don't seem so much technical as they
 do political-economic. More R&D in capitalist companies with dirty supply chains
 feeding conspicuous consumerism can only help so much.
