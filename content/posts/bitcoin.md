@@ -111,7 +111,7 @@ wrought by the global financial system - they have thus dramatically betrayed th
 
 At least some of this appears due to a collapse in the literal values of money as a
 representative media. Unmoored from any real world process, 
-<!-- I like alliteration, but this is a lot of, and I triped up a bit reading it :) -->
+<!-- I like alliteration, but this is a lot of it and I tripped up a bit this clause :) -->
 modern money multiplies monstrously under the machinations of central bankers.
 Its creation and distribution ceases to represent any meaningful or socially
 valuable information in the real world. As a device for transmitting value
