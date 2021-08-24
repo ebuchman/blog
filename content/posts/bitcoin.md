@@ -358,7 +358,7 @@ objective, international sources of trust, to the more subjective and local. Fro
 the cryptographically verifiable energy expenditure in a remote data center that
 is today's Proof-of-Work, to the communally verifiable delivery of life sustaining care work that is tomorrow's Proof-of-Care and [Proof-of-Plant][proof-of-plant]. 
 Proof-of-Stake may be the next step in that journey - somewhat more subjective, less anonymous, more socially aware than Proof-of-Work. 
-<!-- PoW has the same problems, right? With more bitcoin you can own more computer, which means you can amass and cointrol more bitcoin? -->
+<!-- PoW has the same problems, right? With more bitcoin you can own more compute, which means you can amass and control more bitcoin? -->
 But Proof-of-Stake is riddled with it's own issues, many of which parallel the oligopolistic tendencies of modern finance,
 of which we have not the time to address here. What Proof-of-Stake blockchains
 do give us today, though, is an environmentally friendly platform on which we can discover and experiment
