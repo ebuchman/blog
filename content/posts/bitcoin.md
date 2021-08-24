@@ -11,7 +11,7 @@ confused, including Elon Musk himself.
 Tesla, a bastion of our clean energy future, is helping us transition
 from fossil fuels to electricity.
 Bitcoin, a speculative digital asset, is using more energy 
-than Switzerland and is (or at least was!) largely powered by dirty Chinese coal. 
+than Switzerland and is (or at least was!) largely powered by dirty coal mined in China. 
 What gives?
 
 At the time, [I suggested][tweet-bitcoin-tesla] that Bitcoin might actually be better for the
@@ -38,7 +38,7 @@ beneficial exchange to drive progress. But the modern incarnation of military-in
 monopolistic, American consumerism is not particularly nurturing for a sustainable future. 
 Tesla is perhaps American capitalism's best foot forward.
 
-Two is the supply chain of modern technology.
+Another is the supply chain of modern technology.
 The mining industry, for metals like Lithium, Coltan, and more,
 is [riddled with environmental and human rights abuses][supply-chain].
 These are not so much measured in carbon emissions (though there are plenty)
@@ -46,19 +46,19 @@ as in pollution and destruction of natural habitats and social relationships.
 And a car battery requires many orders of magnitude more Lithium than your Macbook. 
 Clean energy has a very dirty supply chain, and little incentive to improve it.
 
-Third is cars themselves. The complete centrality of cars in the
+A third is cars themselves. The complete centrality of cars in the
 organization of urban life is one of the great tragedies
 of our time. Sustainability is intimately bound up with how we organize ourselves
 on the surface of the planet. Cars, electric or otherwise, are not
 particularly conducive to the more human-scale and bio-diverse patterns that are 
-critical to sustainability. To the extent we have cars they should probably be electric. 
+critical to sustainability. To the extent that we have cars, they should probably be electric. 
 But more than anything, we need less cars. Denmark has the right idea. As does
 anyone who's ever gotten a street closed to cars, for any duration. Respect.
 
 Now I'm not trying to diss Tesla, per se. 
 Tesla is the beacon of a research and development process that is itself critical to
 sustainability. And if we want to make progress in batteries, which we should, cars are a great
-way to go. But the fundamental problems we're facing today don't seem so much technical as they
+vehicle to ground that R&D. But the fundamental problems we're facing today don't seem so much technical as they
 do political-economic. More R&D in capitalist companies with dirty supply chains
 feeding conspicuous consumerism can only help so much.
 
@@ -112,7 +112,7 @@ wrought by the global financial system - they have thus dramatically betrayed th
 At least some of this appears due to a collapse in the literal values of money as a
 representative media. Unmoored from any real world process, 
 modern money multiplies monstrously under the machinations of central bankers.
-Its creation and distribution cease to represent any meaningful or socially
+Its creation and distribution ceases to represent any meaningful or socially
 valuable information in the real world. As a device for transmitting value
 judgements, it thus becomes increasingly faulty. Modern Monetary
 Theorists will have you believe that they can rejuvenate the values of money by moving the printing press from the central bank to congress - 
@@ -146,6 +146,7 @@ contexts - it's being increasingly used to pay salaries, to make international p
 as a highly liquid (though volatile) reserve asset on corporate balance sheets.
 It's also finding increasing utility among the people of countries with unstable currencies and authoritarian governments.
 
+<!-- The latter seems to really undercut the reality. The vast majority of bitcoin use has been for this speculative, finance, no? -->
 Of course it's also being used increasingly in ransomware payments and as fodder
 for speculative finance. In ransomwhere, it tragically illuminates the pervasive insecurity 
 and fragility of the systems underlying our critical infrastructure. In finance, it fuels the same kind
@@ -153,8 +154,7 @@ of [leveraged and nebulous behaviour][tether] as the rest of the [shadow banking
 Perhaps the greatest risk to Bitcoin is that it is [swallowed up by Wall
 St][epsilon-theory-bitcoin].
 
-But Bitcoin is not alone the solution to the world's monetary problems. 
-It may be necessary, but certainly not sufficient.
+But Bitcoin is not alone the solution to the world's monetary problems. It may be necessary, but it's certainly not sufficient.
 Bitcoin proves the potential of money whose issuance and distribution is based on 
 socially valuable activity, as determined by the network participants themselves. In the
 case of Bitcoin, that activity is the energy intensive Proof-of-Work mining. But Bitcoin
@@ -170,7 +170,7 @@ the security of the Bitcoin network via Proof-of-Work (PoW) mining.
 Proof-of-Work entails a specific kind of cryptographic computation resembling
 a numerical puzzle that is difficult to solve but easy to verify. If
 computing power were evenly distributed throughout humanity (which of course
-it's not and could never be), Bitcoin's Proof-of-Work mining would be a sort of Universal Basic Job, 
+it's not), Bitcoin's Proof-of-Work mining would be a sort of Universal Basic Job, 
 providing income to anyone who ran a Bitcoin miner.
 The energy used would be stable and proportional to human population. 
 
@@ -304,7 +304,7 @@ in the end for the better.
 
 Many people have heard the phrase "blockchains, not Bitcoin", 
 meant to express that blockchain technology is a meaningful innovation,
-but Bitcoin can be largely ignored. Of course we don't believe Bitcoin can or
+but Bitcoin can be largely ignored. Of course, I don't believe Bitcoin can or
 should be ignored. But it is also true, contrary to what many so-called "Bitcoin
 Maximalists" might avow, that blockchains, independent of Bitcoin, really are a meaningful
 innovation in their own right. Blockchains innovate in the field of fault-tolerant multi-stakeholder databases
@@ -356,6 +356,7 @@ objective, international sources of trust, to the more subjective and local. Fro
 the cryptographically verifiable energy expenditure in a remote data center that
 is today's Proof-of-Work, to the communally verifiable delivery of life sustaining care work that is tomorrow's Proof-of-Care and [Proof-of-Plant][proof-of-plant]. 
 Proof-of-Stake may be the next step in that journey - somewhat more subjective, less anonymous, more socially aware than Proof-of-Work. 
+<!-- PoW has the same problems, right? With more bitcoin you can own more compute, which means you can amass and control more bitcoin? -->
 But Proof-of-Stake is riddled with it's own issues, many of which parallel the oligopolistic tendencies of modern finance,
 of which we have not the time to address here. What Proof-of-Stake blockchains
 do give us today, though, is an environmentally friendly platform on which we can discover and experiment
