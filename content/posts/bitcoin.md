@@ -1,5 +1,6 @@
 ---
 title: "Orange is the new Green"
+subtitle: "Why Bitcoin is better for the world than Tesla"
 date: 2021-07-10
 draft: false
 ---
@@ -22,8 +23,9 @@ grounded our economics in obscene assumptions about indefinite exponential growt
 finite planet. Simply adopting a cleaner source of energy doesn't actually
 help us there. We still consume and dispose of all kinds of materials at unsustainable levels,
 and we prioritize abstract "economic growth" over biodiversity and human well
-being. We're going to need deeper structural changes to our economic
-system if we actually want to get serious about sustainability. Tesla is not
+being. We're going to need 
+[deeper structural changes to our economic system][reconsidering]
+if we actually want to get serious about sustainability. Tesla is not
 helping bring about those changes. Bitcoin might be.
 
 ## Green Tech
@@ -51,7 +53,7 @@ on the surface of the planet. Cars, electric or otherwise, are not
 particularly conducive to the more human-scale and bio-diverse patterns that are 
 critical to sustainability. To the extent we have cars they should probably be electric. 
 But more than anything, we need less cars. Denmark has the right idea. As does
-everyone who's ever gotten a street closed to cars, for any duration. Respect.
+anyone who's ever gotten a street closed to cars, for any duration. Respect.
 
 Now I'm not trying to diss Tesla, per se. 
 Tesla is the beacon of a research and development process that is itself critical to
@@ -82,7 +84,7 @@ nor really any distinctly identifiable organization.
 Bitcoin is a collective. An open-source, verifiable, transparent, decentralized, 
 collective hosting a store of value and a medium of exchange for all to use on
 equal terms without discrimination. Isn't that the kind of stuff that sustainable human institutions
-are made f?
+are made of?
 
 As a collective, Bitcoin shares more of its
 character with religion than with enterprise, more with performance art than
@@ -126,11 +128,24 @@ that is grounded in verifiable physical reality, in the thermodynamics of comput
 While not perfect by any means (nothing is!), Bitcoin anchors a new generation
 of monetary institutions in one of the most fundamental physical processes underlying our civilization.
 
+Some believe that Bitcoin's philosophy is grounded in a kind of 
+[far-right market fundamentalism][politics-of-bitcoin]. And surely there is some truth to that.
+But Bitcoin emerged in response to the reckless behaviour and moral hazard 
+in the banking system that precipitated the Great Recession, which put many
+millions of people around the globe out of work, evaporated their life savings,
+and paid out massive bonuses to the architects of the collapse. 
+Bitcoin draws its life force as much from a more left-wing tradition of open-source collectivism 
+and Institutional economics as it does from say the Austrian or Chicago schools of economics. 
+Bitcoin is as much Elinor Ostrom as it is Friedrich Hayek, if not more so!
+That is to say, [Bitcoin is for Progressives][bitcoin-progressives].
+
 And Bitcoin is starting to find success as a fledgling monetary institution.
 This is not to say that it will or must necessarily become money for the whole world. But it is
 beginning to fulfill some meaningful functions of money in certain growing
 contexts - it's being increasingly used to pay salaries, to make international payments and remittances, and 
 as a highly liquid (though volatile) reserve asset on corporate balance sheets.
+It's also finding increasing utility among the people of countries with unstable currencies and authoritarian governments.
+
 Of course it's also being used increasingly in ransomware payments and as fodder
 for speculative finance. In ransomwhere, it tragically illuminates the pervasive insecurity 
 and fragility of the systems underlying our critical infrastructure. In finance, it fuels the same kind
@@ -146,6 +161,7 @@ case of Bitcoin, that activity is the energy intensive Proof-of-Work mining. But
 is just the first stage in a journey towards increasingly representative monetary
 systems that sustainably [bridge the gap from local self-sufficiency to global
 luxuries and back][tweet-crypto-thesis]. 
+
 
 ## In Proof we Trust
 
@@ -197,7 +213,7 @@ Proof-of-Work backbone, is a thermodynamic process that provides a kind of guara
 and a kind of fairness in distribution (a sort of "universal basic job")  that we *do not otherwise know how to produce*. 
 What we get from mining is the most
 advanced and robust source of trust for international agreement that we've ever
-had. And it *only* costs as much as the economy of Switzerland!  This may prove to be especially important in the coming years amidst what
+had. And it *only* costs as much as the economy of Switzerland?!  This may prove to be especially important in the coming years amidst what
 appears to be increasingly turbulent geopolitical relations. International
 sources of agreement are in short supply.
 
@@ -216,7 +232,7 @@ there's still cheap coal around, and [miners are firing up old, dirty plants][fi
 This is clearly bad. But on the other hand, renewables are increasingly the cheapest sources of
 power all over the world. [Estimates of the carbon neutrality of Bitcoin's mining power][nic-carter-mining]
 range from 30-70%. And apparently, El Salvador is planning to mine Bitcoin with [clean energy from volcanoes][volcanos].
-But these distributions are by no means static. We're witnessing today the migration of huge amounts of mining
+But these distributions are by no means static. We've witnessed recently the migration of huge amounts of mining
 activity out of China by virtue of the [recent mining bans][china-ban]. Demand for cleaner mining
 operations is [apparent and growing][green-bitcoin], as are projects to recycle
 heat generated by mining to [warm greenhouses][greenhouse-mining].
@@ -273,7 +289,7 @@ Bitcoin at our back than without.
 Bitcoin is no [paper-clip maximizer][paper-clip]. It functions instead as a kind
 of lens onto the rest of society. It's core values, of
 freedom and self-reliance, censorship-resistance and
-verifiability, conservative security and finance, burn bright
+verifiability, conservation and security, burn bright
 in contrast to the increasingly authoritarian and co-dependent quality of modern society. 
 
 Perhaps Bitcoin could be said to have the same kind of
@@ -318,9 +334,18 @@ has begun its transition to Proof-of-Stake.
 
 Proof-of-Stake, though, is not a panacea. Powerful as it is, it will never be able to provide the same
 guarantees as Proof-of-Work, no matter how close it thinks it can
-approximate them for practical purposes. And thus while Proof-of-Stake is
-unequivocally the immediate future of blockchains, Bitcoin's Proof-of-Work, and Bitcoin
-itself, is not to be dismissed so quickly. 
+approximate them for practical purposes. And by necessity, Proof-of-Stake
+architectures are *much* more complex than Proof-of-Work. Like an order of
+magnitude or two more complex. There's a lot to be said about the value and importance of 
+simplicity in systems design. Compared to other chains, Bitcoin is also committed to a much slower pace of 
+evolution. Some take this as a sign of ossification, as if Bitcoin is dead
+technology and cannot evolve. But Bitcoin in it's history has managed to rapidly respond to software bugs,
+has gone through at least one major upgrade ("Segwit"), and has another upgrade
+scheduled this year ("Taproot"). As other chains experiment with more rapid
+evolution, Bitcoin remains committed to being a slow and steady backbone for the
+much larger ecosystem. Thus while Proof-of-Stake is unequivocally the immediate future of blockchains, 
+Bitcoin's Proof-of-Work, and Bitcoin itself, with its greater simplicity and commitment to a more conservative evolution,
+is not to be dismissed so quickly. 
 
 But Proof-of-Work and Proof-of-Stake
 are also not the end of the story. In my talk on [Stakeholders and Statemachines][stakeholders-and-statemachines],
@@ -382,3 +407,6 @@ It is on the basis of this more humane foundation that we might expect to build 
 [regen]: http://regen.network/
 [grassroots]: https://www.grassrootseconomics.org/
 [shadow banking]: https://en.wikipedia.org/wiki/Shadow_banking_system
+[reconsidering]: https://ebuchman.github.io/posts/factors-of-production/
+[bitcoin-progressives]: https://bitcoinmagazine.com/culture/elizabeth-warren-progressives-should-love-bitcoin
+[politics-of-bitcoin]: https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin
