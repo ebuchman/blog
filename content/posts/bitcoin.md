@@ -57,8 +57,8 @@ anyone who's ever gotten a street closed to cars, for any duration. Respect.
 
 Now I'm not trying to diss Tesla, per se. 
 Tesla is the beacon of a research and development process that is itself critical to
-sustainability. <!-- I don't follow the reasoning of the next sentence: ---> And if we want to make progress in batteries, which we should, cars are a great
-way to go. But the fundamental problems we're facing today don't seem so much technical as they
+sustainability. And if we want to make progress in batteries, which we should, cars are a great
+vehicle to ground that R&D. But the fundamental problems we're facing today don't seem so much technical as they
 do political-economic. More R&D in capitalist companies with dirty supply chains
 feeding conspicuous consumerism can only help so much.
 
@@ -81,7 +81,7 @@ and is under consideration for legal tender status in a number of other South Am
 
 But Bitcoin isn't a precious metal. And it's not something produced by a company, nor a government, 
 nor really any distinctly identifiable organization.
-Bitcoin is an open-source, verifiable, transparent, decentralized, 
+Bitcoin is a collective. An open-source, verifiable, transparent, decentralized, 
 collective hosting a store of value and a medium of exchange for all to use on
 equal terms without discrimination. Isn't that the kind of stuff that sustainable human institutions
 are made of?
@@ -111,7 +111,6 @@ wrought by the global financial system - they have thus dramatically betrayed th
 
 At least some of this appears due to a collapse in the literal values of money as a
 representative media. Unmoored from any real world process, 
-<!-- I like alliteration, but this is a lot of it and I tripped up a bit this clause :) -->
 modern money multiplies monstrously under the machinations of central bankers.
 Its creation and distribution ceases to represent any meaningful or socially
 valuable information in the real world. As a device for transmitting value
@@ -155,7 +154,7 @@ of [leveraged and nebulous behaviour][tether] as the rest of the [shadow banking
 Perhaps the greatest risk to Bitcoin is that it is [swallowed up by Wall
 St][epsilon-theory-bitcoin].
 
-It may be necessary, but it's certainly not sufficient.
+But Bitcoin is not alone the solution to the world's monetary problems. It may be necessary, but it's certainly not sufficient.
 Bitcoin proves the potential of money whose issuance and distribution is based on 
 socially valuable activity, as determined by the network participants themselves. In the
 case of Bitcoin, that activity is the energy intensive Proof-of-Work mining. But Bitcoin
@@ -171,8 +170,7 @@ the security of the Bitcoin network via Proof-of-Work (PoW) mining.
 Proof-of-Work entails a specific kind of cryptographic computation resembling
 a numerical puzzle that is difficult to solve but easy to verify. If
 computing power were evenly distributed throughout humanity (which of course
-<!-- why "could never be"? -->
-it's not and could never be), Bitcoin's Proof-of-Work mining would be a sort of Universal Basic Job, 
+it's not), Bitcoin's Proof-of-Work mining would be a sort of Universal Basic Job, 
 providing income to anyone who ran a Bitcoin miner.
 The energy used would be stable and proportional to human population. 
 
@@ -286,7 +284,7 @@ will ebb and flow, like any great technology, simultaneously threatening both
 destruction and salvation of the human species. We have only to ask ourselves,
 "Is the game worth the candle?". And in this sense, the world faces much bigger
 problems than the energy usage and e-waste of Bitcoin. I think we'd do better to face those problems with
-Bitcoin at our back than opposing it.
+Bitcoin at our back than without.
 
 Bitcoin is no [paper-clip maximizer][paper-clip]. It functions instead as a kind
 of lens onto the rest of society. It's core values, of
