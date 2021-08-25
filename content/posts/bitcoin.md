@@ -5,6 +5,19 @@ date: 2021-07-10
 draft: false
 ---
 
+Table of Contents:
+
+- [Introduction](#introduction) - Tesla vs. Bitcoin
+- [Green Tech](#green-tech) - The Problem with Tesla 
+- [Orange Money](#orange-money) - The Promise of Bitcoin 
+- [Monetary Institutions](#monetary-institutions) - Money, Society, and Sustainability
+- [In Proof We Trust](#in-proof-we-trust) - Proof of Work and International
+  Trust
+- [Mind the Miners](#mind-the-miners) - Mining Is Not As Bad As You Think
+- [Big Bad Blockchains](#big-bad-blockchains) - What about Proof of Stake?
+
+## Introduction
+
 Earlier this year, Tesla purchased $1.5B worth of BTC to hold on its balance
 sheet. This seems to have made a lot of people angry, or at least
 confused, including Elon Musk himself.
@@ -95,12 +108,28 @@ And Bitcoin is [good art][epsilon-theory-bitcoin].
 The dollar, which has since been captured, corrupted, and calcified, was perhaps once
 good art too.
 
+Some believe that Bitcoin's philosophy stems from a kind of 
+[far-right market fundamentalism][politics-of-bitcoin]. And surely there is some truth to that.
+But Bitcoin emerged in response to the reckless behaviour and moral hazard 
+in the banking system that precipitated the Global Financial Crisis, which put many
+millions of people around the globe out of work, evaporated their life savings,
+and paid out massive bonuses to the architects of the collapse. 
+Bitcoin draws its life force as much from a more left-wing tradition of open-source collectivism 
+and Institutional economics as it does from say the Austrian or Chicago schools. 
+Bitcoin is as much Elinor Ostrom as it is Friedrich Hayek!
+That is to say, [Bitcoin is for Progressives][bitcoin-progressives].
+
+## Monetary Institutions
+
 Like any monetary institution, Bitcoin is designed to nurture a kind of *trust*
 among the members of the society it serves. But it does so in a very different way from the
-monetary institutions of the nation states. 
-Many of the problems we face today, of inequality and sustainability, can be traced back to the institutions of money. 
-How is money created? Who is it distributed to? What is it distributed
-for? Modern institutions of money have become enormously extractive and rent-seeking. 
+monetary institutions of the nation states. Many of the problems we face today, of inequality and sustainability, 
+can be traced back to the institutions of money. 
+Not that these issues are caused by our monetary institutions per se, but that they
+are greatly amplified by them. How is money created? Who is it distributed to? What is it distributed
+for? 
+
+Modern institutions of money have become enormously extractive and rent-seeking. 
 They have brought about a tectonic decoupling between financial activity
 and the real socioeconomic activity of the human and natural world. 
 Modern finance is notorious for its inherent instability and fragility,
@@ -120,24 +149,28 @@ but [I have my reservations](https://ebuchman.github.io/posts/mmt/).
 Insofar as [sustainable systems are those with sound representations of their environment within their own structure](https://ebuchman.github.io/posts/2019-01-20-economic-organisms/),
 our modern monetary systems are inherently unsustainable.
 
+So what are we to do about this rampant inequality, about global
+unsustainability? We tried to Occupy Wall Street.
+We try to organize strikes, and to boycott corporations.
+We try to elect better politicians.
+We try to make indidivudal life style changes, to bank at credit unions, to stop
+buying from Amazon, to [invest in local community bonds instead of the stock
+market][social-investing]. But the problem of collective action remains. In a
+utopian dream, we'd all wake up one day and cease our destructive ways. But in
+practice, what can we do? How can we create real space for change? 
+How can we create something new, a protest that cannot be shut down,
+an institution that enables coordination at global scale for a better political-economy? 
+This is where new forms of money might have a real role to play.
+Monetary institutions are a gateway, a point of leverage, into the larger poltical-economic
+problems we face.
+
 Bitcoin is the first, and so far most credible, attempt to challenge the current
 paradigm, to meaningfully innovate internationally in the basic values of money.
 Yes, it manifests largely as a speculative asset right now. 
 But Bitcoin provides a new source of *trust* for international monetary institutions
-that is grounded in verifiable physical reality, in the thermodynamics of computation.
+that is grounded, as we'll see, in verifiable physical reality, in the thermodynamics of computation.
 While not perfect by any means (nothing is!), Bitcoin anchors a new generation
 of monetary institutions in one of the most fundamental physical processes underlying our civilization.
-
-Some believe that Bitcoin's philosophy stems from a kind of 
-[far-right market fundamentalism][politics-of-bitcoin]. And surely there is some truth to that.
-But Bitcoin emerged in response to the reckless behaviour and moral hazard 
-in the banking system that precipitated the Great Recession, which put many
-millions of people around the globe out of work, evaporated their life savings,
-and paid out massive bonuses to the architects of the collapse. 
-Bitcoin draws its life force as much from a more left-wing tradition of open-source collectivism 
-and Institutional economics as it does from say the Austrian or Chicago schools of economics. 
-Bitcoin is as much Elinor Ostrom as it is Friedrich Hayek, if not more so!
-That is to say, [Bitcoin is for Progressives][bitcoin-progressives].
 
 And Bitcoin is starting to find success as a fledgling monetary institution.
 This is not to say that it will or must necessarily become money for the whole world. But it is
@@ -154,17 +187,7 @@ of [leveraged and nebulous behaviour][tether] as the rest of the [shadow banking
 Perhaps the greatest risk to Bitcoin is that it is [swallowed up by Wall
 St][epsilon-theory-bitcoin].
 
-This is not to say that Bitcoin is the solution to all the world's problems,
-nor that all the worlds problems derive from money and banking. But monetary 
-institutions are arguably one of the primary entrance points into, and highest points of leverage 
-in affecting, the fundamental structural problems in our political economy. And
-while these problems will always exist to some extent (problems of 
-exploitation, domination, inequality, etc.), and while they are obviously deeper than money
-and banking, the structure of our current monetary institutions greatly
-amplifies them, and appears to have driven a great deal of the inequality and
-unsustainability that has emerged especially over the last 50 years.
-
-But even still, Bitcoin is not alone the solution to the world's monetary problems. 
+Surely, Bitcoin is not alone the solution to the world's monetary problems. 
 It may be necessary, but it's certainly not sufficient.
 Bitcoin proves the potential of money whose issuance and distribution is based on 
 socially valuable activity, as determined by the network participants themselves. In the
@@ -424,3 +447,4 @@ vehicle manufacturer.
 [reconsidering]: https://ebuchman.github.io/posts/factors-of-production/
 [bitcoin-progressives]: https://bitcoinmagazine.com/culture/elizabeth-warren-progressives-should-love-bitcoin
 [politics-of-bitcoin]: https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin
+[social-investing]: https://ebuchman.github.io/posts/socially-responsible-investing/
