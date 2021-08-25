@@ -74,9 +74,9 @@ be the best thing we've ever seen.
 That's a pretty bold statement. And I don't expect to fully convince you here. 
 I merely intend to suggest that it's worth thinking about. Bitcoin is
 taking its seat at the table of international monetary institutions.
-Its market capitalization today (~$0.85T), is larger than *every one* of the major American
+Its market capitalization today (~$900B), is larger than *every one* of the major American
 banks and payments companies. It's also larger than most of the world's national
-currencies, and more than half that of silver's. Bitcoin is even set to become legal tender in El Salvador in a few weeks, 
+currencies, and almost as much as silver's. Bitcoin is even set to become legal tender in El Salvador next month, 
 and is under consideration for legal tender status in a number of other South American countries.
 
 But Bitcoin isn't a precious metal. And it's not something produced by a company, nor a government, 
@@ -128,7 +128,7 @@ that is grounded in verifiable physical reality, in the thermodynamics of comput
 While not perfect by any means (nothing is!), Bitcoin anchors a new generation
 of monetary institutions in one of the most fundamental physical processes underlying our civilization.
 
-Some believe that Bitcoin's philosophy is grounded in a kind of 
+Some believe that Bitcoin's philosophy stems from a kind of 
 [far-right market fundamentalism][politics-of-bitcoin]. And surely there is some truth to that.
 But Bitcoin emerged in response to the reckless behaviour and moral hazard 
 in the banking system that precipitated the Great Recession, which put many
@@ -154,7 +154,18 @@ of [leveraged and nebulous behaviour][tether] as the rest of the [shadow banking
 Perhaps the greatest risk to Bitcoin is that it is [swallowed up by Wall
 St][epsilon-theory-bitcoin].
 
-But Bitcoin is not alone the solution to the world's monetary problems. It may be necessary, but it's certainly not sufficient.
+This is not to say that Bitcoin is the solution to all the world's problems,
+nor that all the worlds problems derive from money and banking. But monetary 
+institutions are arguably one of the primary entrance points into, and highest points of leverage 
+in affecting, the fundamental structural problems in our political economy. And
+while these problems will always exist to some extent (problems of 
+exploitation, domination, inequality, etc.), and while they are obviously deeper than money
+and banking, the structure of our current monetary institutions greatly
+amplifies them, and appears to have driven a great deal of the inequality and
+unsustainability that has emerged especially over the last 50 years.
+
+But even still, Bitcoin is not alone the solution to the world's monetary problems. 
+It may be necessary, but it's certainly not sufficient.
 Bitcoin proves the potential of money whose issuance and distribution is based on 
 socially valuable activity, as determined by the network participants themselves. In the
 case of Bitcoin, that activity is the energy intensive Proof-of-Work mining. But Bitcoin
@@ -376,6 +387,8 @@ military prowess and colonial conquest, but in our ability to harness energy for
 computation. And it suggests a layering, a fractal hierarchy of money, stretching
 from the more objective and anonymous work of harnessing electrical energy, to the more communal and self-sustaining work of growing food and caring for each other.
 It is on the basis of this more humane foundation that we might expect to build a more sustainable society.
+Surely, this is something much better for the world than a capitalistic electric
+vehicle manufacturer.
 
 [tweet-bitcoin-tesla]: https://twitter.com/buchmanster/status/1358816115284193281
 [supply-chain]: https://reallifemag.com/source-material/
