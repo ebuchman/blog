@@ -10,7 +10,7 @@ Table of Contents:
 - [Introduction](#introduction) - Tesla vs. Bitcoin
 - [Green Tech](#green-tech) - The Problem with Tesla 
 - [Orange Money](#orange-money) - The Promise of Bitcoin 
-- [Monetary Institutions](#monetary-institutions) - Money, Society, and Sustainability
+- [The Root of All Evil](#the-root-of-all-evil) - Monetary Institutions and Politcal Economy
 - [In Proof We Trust](#in-proof-we-trust) - Proof of Work and International
   Trust
 - [Mind the Miners](#mind-the-miners) - Mining Is Not As Bad As You Think
@@ -89,7 +89,7 @@ I merely intend to suggest that it's worth thinking about. Bitcoin is
 taking its seat at the table of international monetary institutions.
 Its market capitalization today (~$900B), is larger than *every one* of the major American
 banks and payments companies. It's also larger than most of the world's national
-currencies, and almost as much as silver's. Bitcoin is even set to become legal tender in El Salvador next month, 
+currencies, and almost as much as silver. Bitcoin is even set to become legal tender in El Salvador next month, 
 and is under consideration for legal tender status in a number of other South American countries.
 
 But Bitcoin isn't a precious metal. And it's not something produced by a company, nor a government, 
@@ -116,10 +116,10 @@ millions of people around the globe out of work, evaporated their life savings,
 and paid out massive bonuses to the architects of the collapse. 
 Bitcoin draws its life force as much from a more left-wing tradition of open-source collectivism 
 and Institutional economics as it does from say the Austrian or Chicago schools. 
-Bitcoin is as much Elinor Ostrom as it is Friedrich Hayek!
+Bitcoin is as much Elinor Ostrom as it is Friedrich Hayek.
 That is to say, [Bitcoin is for Progressives][bitcoin-progressives].
 
-## Monetary Institutions
+## The Root of All Evil
 
 Like any monetary institution, Bitcoin is designed to nurture a kind of *trust*
 among the members of the society it serves. But it does so in a very different way from the
@@ -153,7 +153,7 @@ So what are we to do about this rampant inequality, about global
 unsustainability? We tried to Occupy Wall Street.
 We try to organize strikes, and to boycott corporations.
 We try to elect better politicians.
-We try to make indidivudal life style changes, to bank at credit unions, to stop
+We try to make individual life style changes, to bank at credit unions, to stop
 buying from Amazon, to [invest in local community bonds instead of the stock
 market][social-investing]. But the problem of collective action remains. In a
 utopian dream, we'd all wake up one day and cease our destructive ways. But in
@@ -373,7 +373,7 @@ architectures are *much* more complex than Proof-of-Work. Like an order of
 magnitude or two more complex. There's a lot to be said about the value and importance of 
 simplicity in systems design. Compared to other chains, Bitcoin is also committed to a much slower pace of 
 evolution. Some take this as a sign of ossification, as if Bitcoin is dead
-technology and cannot evolve. But Bitcoin in it's history has managed to rapidly respond to software bugs,
+technology and cannot evolve. But Bitcoin in its history has managed to rapidly respond to software bugs,
 has gone through at least one major upgrade ("Segwit"), and has another upgrade
 scheduled this year ("Taproot"). As other chains experiment with more rapid
 evolution, Bitcoin remains committed to being a slow and steady backbone for the
@@ -396,7 +396,8 @@ of which we have not the time to address here. What Proof-of-Stake blockchains
 do give us today, though, is an environmentally friendly platform on which we can discover and experiment
 with new monetary primitives, ways to incentivize, for instance, 
 [regenerative agriculture][regen], [cooperative internet service providers][althea],
-and [mutual credit unions][grassroots]. 
+[mutual credit unions][grassroots], and [local money alternatives][local-money]
+more broadly.
 
 ## Conclusion
 
@@ -412,6 +413,10 @@ from the more objective and anonymous work of harnessing electrical energy, to t
 It is on the basis of this more humane foundation that we might expect to build a more sustainable society.
 Surely, this is something much better for the world than a capitalistic electric
 vehicle manufacturer.
+
+*Special thanks to [Jackie Brown][jackie], [Gregory Landua][greg], [Rick
+Dudley][rick], and [Shon Feder][shon] for reviewing drafts of this article.*
+
 
 [tweet-bitcoin-tesla]: https://twitter.com/buchmanster/status/1358816115284193281
 [supply-chain]: https://reallifemag.com/source-material/
@@ -448,3 +453,8 @@ vehicle manufacturer.
 [bitcoin-progressives]: https://bitcoinmagazine.com/culture/elizabeth-warren-progressives-should-love-bitcoin
 [politics-of-bitcoin]: https://www.upress.umn.edu/book-division/books/the-politics-of-bitcoin
 [social-investing]: https://ebuchman.github.io/posts/socially-responsible-investing/
+[local-money]: https://ebuchman.github.io/posts/local-money-liquidity-saving/
+[jackie]: https://twitter.com/jackiebrownTO
+[greg]: https://twitter.com/gregory_landua
+[rick]: https://twitter.com/AFDudley0
+[shon]: https://twitter.com/ShonFeder
