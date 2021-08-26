@@ -12,7 +12,7 @@ Table of Contents:
 - [Introduction](#introduction) - Tesla vs. Bitcoin
 - [Green Tech](#green-tech) - The Problem with Tesla 
 - [Orange Money](#orange-money) - The Promise of Bitcoin 
-- [The Root of All Evil](#the-root-of-all-evil) - Monetary Institutions and Politcal Economy
+- [The Root of All Evil](#the-root-of-all-evil) - Monetary Institutions and Political Economy
 - [In Proof We Trust](#in-proof-we-trust) - Proof of Work and International
   Trust
 - [Mind the Miners](#mind-the-miners) - Mining Is Not As Bad As You Think
@@ -72,7 +72,7 @@ critical to sustainability. To the extent that we have cars, they should probabl
 But more than anything, we need less cars. Denmark has the right idea. As does
 anyone who's ever gotten a street closed to cars, for any duration. Respect.
 
-Now I'm not trying to diss Tesla, per se. 
+Now I'm not trying to dis Tesla, per sse. 
 Tesla is the beacon of a research and development process that is itself critical to
 sustainability. And if we want to make progress in batteries, which we should, cars are a great
 vehicle to ground that R&D. But the fundamental problems we're facing today don't seem so much technical as they
@@ -165,7 +165,7 @@ practice, what can we do? How can we create real space for change?
 How can we create something new, a protest that cannot be shut down,
 an institution that enables coordination at global scale for a better political-economy? 
 This is where new forms of money might have a real role to play.
-Monetary institutions are a gateway, a point of leverage, into the larger poltical-economic
+Monetary institutions are a gateway, a point of leverage, into the larger political-economic
 problems we face.
 
 Bitcoin is the first, and so far most credible, attempt to challenge the current
@@ -185,7 +185,7 @@ It's also finding increasing utility among the people of countries with unstable
 
 <!-- The latter seems to really undercut the reality. The vast majority of bitcoin use has been for this speculative, finance, no? -->
 Of course it's also being used increasingly in ransomware payments and as fodder
-for speculative finance. In ransomwhere, it tragically illuminates the pervasive insecurity 
+for speculative finance. In ransomware, it tragically illuminates the pervasive insecurity 
 and fragility of the systems underlying our critical infrastructure. In finance, it fuels the same kind
 of [leveraged and nebulous behaviour][tether] as the rest of the [shadow banking] system.
 Perhaps the greatest risk to Bitcoin is that it is [swallowed up by Wall
@@ -302,7 +302,7 @@ computing generally, are coming up against the physical boundaries of
 computation as [Moore's Law has started to break down][moores-law], placing limits on the
 ability to produce new, faster chips without some kind of serious breakthrough in
 physics and computer engineering. This means the innovation must turn
-increasingly from speed (smaller transistsors, more per chip), to *efficiency*, including more efficient energy usage, cooling,
+increasingly from speed (smaller transistors, more per chip), to *efficiency*, including more efficient energy usage, cooling,
 use of raw materials, etc. As microchip production is already a
 highly scarce resource, and priority is anyways given to major companies like
 Apple, Qualcomm, etc., Bitcoin ASIC producers have to make do with lower quality
@@ -349,7 +349,7 @@ innovation in their own right. Blockchains innovate in the field of fault-tolera
 and applications, a field which is itself becoming increasingly important as 
 we wrestle with the monopoly power of large corporations and the administrative
 overhead of more democratic institutions. Blockchains are *tools of coordination*,
-tools we can use to improve transparency, verifiability, security, privacy, reconcilliation, and
+tools we can use to improve transparency, verifiability, security, privacy, reconciliation, and
 other complex and costly qualities of our social institutions. We should thus look forward to a proliferation of blockchains, 
 perhaps on the order of the number of cities, or even the number of companies in
 the world, as a foundation for platforms that better represent and serve their stakeholders.
@@ -462,4 +462,3 @@ Dudley][rick], and [Shon Feder][shon] for reviewing drafts of this article.*
 [greg]: https://twitter.com/gregory_landua
 [rick]: https://twitter.com/AFDudley0
 [shon]: https://twitter.com/ShonFeder
-[img-bitcoin]: /img/btc.png
