@@ -1,7 +1,7 @@
 
 ---
 title: "Reconsidering the Factors of Production"
-date: 2021-07-12
+date: 2021-07-18
 draft: false
 ---
 
