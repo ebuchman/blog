@@ -193,9 +193,14 @@ St][epsilon-theory-bitcoin].
 
 Surely, Bitcoin is not alone the solution to the world's monetary problems. 
 It may be necessary, but it's certainly not sufficient.
-Bitcoin proves the potential of money whose issuance and distribution is based on 
-socially valuable activity, as determined by the network participants themselves. In the
-case of Bitcoin, that activity is the energy intensive Proof-of-Work mining. But Bitcoin
+I hold no pretense that Bitcoin will take over the world. I'm not even
+sure what that would mean or that it would be a good idea. But Bitcoin has
+unleashed, and proven the viability of, what is perhaps one of the most important ideas in political-economics
+in centuries - that money should be created by and for the people that use it.
+This is Bitcoin's legacy. It proves the potential of money whose issuance and distribution is based,
+not on the liabilities of an unaccountable banking system, but on the values of
+a community, on the activity that network participants themselves determine to
+be socially valuable. In the case of Bitcoin, that activity is the energy intensive Proof-of-Work mining. But Bitcoin
 is just the first stage in a journey towards increasingly representative monetary
 systems that sustainably [bridge the gap from local self-sufficiency to global
 luxuries and back][tweet-crypto-thesis]. 
