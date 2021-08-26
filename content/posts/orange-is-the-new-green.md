@@ -320,7 +320,7 @@ by the COVID induced shortage, which is causing all sorts of dislocations
 in the supply chain.
 
 One could debate these nuances, around the energy, hardware, and economics of Bitcoin mining, indefinitely.
-Some do. The likes of [Nic Carter][nic-carter] making the case for, the likes of 
+Some do. The likes of [Nic Carter][nic-carter] and [Lyn Alden][lyn-alden] making the case for, the likes of 
 [David Gerrard][david-gerrard] and [Tim Swanson][tim-swanson] making the case against. 
 But the limits to our reason and the dynamic nature of the industry frustrates any sort of final word on the matter. Bitcoin
 will ebb and flow, like any great technology, simultaneously threatening both
@@ -433,6 +433,7 @@ Dudley][rick], and [Shon Feder][shon] for reviewing drafts of this article.*
 [tweet-crypto-thesis]: https://twitter.com/buchmanster/status/1330600004419989518
 [nic-carter-mining]: https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume
 [nic-carter]: https://niccarter.info/topics/
+[lyn-alden]: https://www.swanbitcoin.com/bitcoins-energy-usage-is-not-a-problem-heres-why-by-lyn-alden/
 [china-ban]: https://www.coindesk.com/bitcoin-unpacking-hashrate-nic-cart-migration
 [square-renewable-mining]: https://squareup.com/ca/en/press/bcei-white-paper
 [bitcoin-turns-10]: https://ebuchman.github.io/posts/2019-01-03-bitcoin-turns-10/
