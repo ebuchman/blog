@@ -154,7 +154,7 @@ In the book, there's a mostly unrelated quip about America's failing infrastruct
 that really hammered this home for me: "How many of us get stuck in traffic
 daily because the highways we drive on have too few lanes?". By now, urban
 planners widely agree that more lanes actually cause traffic 
-(see also [Braess's paradox]), 
+(see [Jevon's paradox], [Induced demand], [Rebound effect], and also [Braess's paradox]), 
 and our problems are much deeper than the width of our roads. This is the exact
 kind of mistake I'm afraid MMT is making about its relationship with the
 resource constraint.
@@ -273,4 +273,7 @@ MMT from a Monetary Localist.
 [twitter thread]: https://twitter.com/buchmanster/status/1330600004419989518
 [Cosmos]: https://cosmos.network/
 [Braess's Paradox]: https://en.wikipedia.org/wiki/Braess%27s_paradox
+[Jevons's Paradox]:  https://en.wikipedia.org/wiki/Jevons_paradox
+[Induced demand]: https://en.wikipedia.org/wiki/Induced_demand
+[Rebound effect]:  https://en.wikipedia.org/wiki/Rebound_effect_(conservation)
 [Seeing like a State]: https://en.wikipedia.org/wiki/Seeing_Like_a_State
