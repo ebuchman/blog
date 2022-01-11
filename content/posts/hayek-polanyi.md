@@ -1,11 +1,12 @@
 
 ---
-title: "Hayek, Polanyi, and the Economic Medium"
-date: 2021-05-15
+title: "Liberalism, Socialism, and Information Economics"
+subtitle: "The complementary concerns of F.A. Hayek's The Road To Serfdom and Karl Polanyi's The Great Transformation"
+date: 2022-01-10
 draft: false 
 ---
 
-Last year I read F.A. Hayek's *[Road to Serfdom]* and Karl Polanyi's *[The Great
+Last year I read F.A. Hayek's *[The Road to Serfdom]* and Karl Polanyi's *[The Great
 Transformation]* back to back. Both published in 1944, these great works of
 political economics were attempts by their authors to grapple with the collapse of western civilization into
 the fascist totalitarianism of the Second World War. 
@@ -21,14 +22,13 @@ Perhaps it is actually the failure of this representation mechanism that causes 
 
 For Hayek, that information theoretic concern is the limited capacity of
 centralized decision-making in complex economies. 
-In this view, markets are an evolutionary medium in which the forces 
-of competition enable people to adapt to, assimilate, and efficiently leverage
-information about reality to inform productive organization.
+In this view, markets are an evolutionary medium that enables spontaneous order
+to emerge.
 Hayek thus argues in favour of decentralized decision-making in 
 competitive markets, regulated by slowly evolving institutions with strong Rule
 of Law that inhibit monopolization and foster competition.
 This means generally applicable rules that are easy to understand and reason
-about, allowing individuals the freedom to plan and act based on them.
+about, permitting individuals the freedom to plan for themselves.
 
 For Polanyi, the information theoretic concern is the limited capacity 
 of market-based systems to represent more substantive patterns of natural and
@@ -46,9 +46,10 @@ Both served for the Austro-Hungarian Empire in WWI.
 Both received doctorates in Law (Hayek from Vienna, Polanyi from Budapest). Both were
 associated with Jewish intellectuals (Polanyi actually was Jewish, Hayek merely
 suspected of being so). Both came from families of high intellectual
-achievement. Polanyi's brother Michael was a noted polymath, 
-and would later correspond fruitfully with Hayek on the power of spontaneity and
-tacit knowledge. Hayek was second-cousins with Wittgenstein, whom he greatly admired,
+achievement. Polanyi's younger brother [Michael] was a noted polymath, 
+and actually [corresponded fruitfully with Hayek] for years on liberty and
+spontaneous order.
+Hayek was second-cousins with Wittgenstein, whom he greatly admired,
 and his grandfather was a close friend of 
 Bohm-Bawerk (co-founder of Austrian Economics).
 Both Hayek and Polanyi participated in the [Socialist Calculation Debate] of the 1920s,
@@ -56,8 +57,8 @@ and both fled to London in the early 1930s. Polanyi's daughter, herself an econo
 even studied under Hayek at the London School of Economics!
 
 Hayek and Polanyi represent in some sense the culmination of the two grand
-schools of central European economics - Hayek and the deductive methods of the Austrian School, 
-Polanyi and the dialectics of the Historical School. These schools have been dueling in the notorious 
+schools of central European economics - Hayek and the [Austrian School], 
+Polanyi and the [Historical School]. These schools have been dueling in the notorious 
 [Methodenstreit][Methodenstreit] ("dispute over methods") since the 1880s. Though there are many notable cross-overs and
 linkages between them over time (Max Weber, Joseph
 Schumpeter, etc.), the vitriol of past divides lingers on today in crude conceptions
@@ -99,7 +100,7 @@ the Left and the Right - both the tragedies of Marxism in the Soviet Union
 and Nazism in Germany share this common intellectual tradition.
 A number of non-totalitarian but still fatal examples of 
 top-down management of society by "experts" are especially well captured in
-James Scott's [Seeing Like A State] [^seeing like a state].
+James Scott's [Seeing Like A State] [^foot seeing like a state].
 
 Polanyi, for his part, is no advocate of State Socialism. He could even
 be said to agree with the general thrust of Hayek's argument, which is 
@@ -119,9 +120,9 @@ in the early 19th century. Owen's business in New Lanark, Scotland, which pilote
 early cooperative principles, was widely celebrated across Europe as the primary example of productive industrial organization 
 that respected both its workers and the environment.
 Though Owen is considered today to be one of the intellectual founders of socialist thinking (along
-with Marx and Saint-Simon), his ideas, and the cooperative movement he founded, appear
+with at least Marx and Saint-Simon), his ideas, and the cooperative movement he founded, appear
 significantly under represented in the larger political economic debate.
-Owen's line of socialism is not even mentioned in Hayek's Road to Serfdom
+Owen's line of socialism is not even mentioned in Hayek's The Road to Serfdom
 [^owen].
 
 Following Owen, the role of the state for Polanyi is not to organize or direct society, but rather to help avert harm.
@@ -310,7 +311,7 @@ Each principle is a critical element of economic behaviour.
 In some sense, each builds progressively on those before. We can imagine the
 history of civilization as one moving from (1) the basic reciprocal relations
 between small human groups, towards (2) the more centralized states that facilitated
-redistribution of productive output to (3) foster families in their house-holding as
+redistribution of productive output to (3) nurture families in their house-holding as
 they aimed to provide their own sufficiency complemented by (4) markets
 facilitating the exchange of specialized output. In the economics and
 institutions that emerged in the 19th century with the Market Society, the
@@ -347,7 +348,7 @@ the merits of Liberalism can be understood as reducing the number of subjects on
 necessary towards those for which agreement is likely to exist in a society of free individuals.
 In this sense, democracy is only possible in a liberal society.
 
-To this end, Hayek stresses the importance of the Rule of Law - fixed, long-term, general purpose
+Hayek thus stresses the importance of the Rule of Law - fixed, long-term, general purpose
 rules that do not favour particular groups or people but can be used by anyone
 to predict the behaviour of others and thus to collaborate in unplanned ways.
 This is in contrast to arbitrary discretionary power often exercised by governments
@@ -363,7 +364,7 @@ institutionally protected. The individual must be free to follow his conscience
 without fear of the powers ... entrusted with administrative tasks
 in ... social life." But he asserts that the kind of pure Market Society so cherished by
 the liberal ideology is itself an artificial ideal. The path-dependent,
-necessarily historical trajectory towards its implementation will be so destructive to existing 
+necessarily historical trajectory towards its implementation is so destructive to existing 
 institutional patterns of organization in society as to necessitate regulatory reactions. This is the
 double-movement. And thus, given the mess that idealized Market Society has
 created for us, through its artificial commodification of the factors of production, 
@@ -376,7 +377,7 @@ capacity to think for themselves.
 Polanyi isn't particularly prescriptive in the Great Transformation. Some allege 
 that he displays a kind of romanticism for the feudalistic and tribal societies
 of the past (see for instance [Rothbard's scathing review], which deserves its
-own refutation). But the respect
+own dedicated response). But the respect
 Polanyi has for these traditions isn't in the way they oppressed or tyrannized,
 but in their holism. People may generally have been hungry and poor, but in the
 absence of major agricultural crises, they didn't starve as a matter of general
@@ -403,8 +404,9 @@ of both Hayek and Polanyi would inspire a more institutional school of economic
 thought that would bring the inherently cooperative nature of economy back to
 the forefront. From Polanyi flowered a renewed discipline of [economic sociology].
 And from Hayek flowed the institutional economics of [James Buchanan] and [Oliver Williamson],
-which would culminate in the work of [Elinor Ostrom] [^ostrom]. 
-Ostrom's polycentric governance model harkens back to that of
+which would culminate in the work of [Elinor Ostrom] and her husband [Vincent], on
+community-based governance and self-regulating civil society [^ostrom]. 
+The polycentric governance of the Ostroms harkens back to that of
 Polanyi's nested cooperatives[^polycentrism]. And in such models, in the synthesis of ideas
 from the Right and the Left, the Deductive and the Dialectical, the formalist
 and the substantivist - ultimately, in a proper reckoning with the ability of 
@@ -413,14 +415,14 @@ basis for a sustainable society.
 
 _Special thanks to [Jackie Brown] for masterful help in editing this_
 
-[Road to Serfdom]: https://en.wikipedia.org/wiki/The_Road_to_Serfdom
+[The Road to Serfdom]: https://en.wikipedia.org/wiki/The_Road_to_Serfdom
 [The Great Transformation]: https://en.wikipedia.org/wiki/The_Great_Transformation_(book)
 [Socialist Calculation Debate]: https://en.wikipedia.org/wiki/Socialist_calculation_debate
 [Methodenstreit]: https://en.wikipedia.org/wiki/Methodenstreit
 [zoo of heterodox schools]: https://ebuchman.github.io/posts/factors-of-production/
 [Abuse of Reason]: https://chicago.universitypressscholarship.com/view/10.7208/chicago/9780226091921.001.0001/upso-9780226091914-chapter-12
 [Seeing Like A State]: https://en.wikipedia.org/wiki/Seeing_Like_a_State
-[^seeing like a state]: Brad Delong, who describes himself as "no Austrian--I am
+[^foot seeing like a state]: Brad Delong, who describes himself as "no Austrian--I am
     a liberal Keynesian and a social democrat," praised both the book and its
     intellectual legacy in Hayek, and criticized the book for insufficiently
     acknowledging its debt to Hayek. See his [review of Seeing Like A State][Seeing Like A State Review]
@@ -429,18 +431,18 @@ _Special thanks to [Jackie Brown] for masterful help in editing this_
 [mises polanyi]: https://mises.org/library/two-forgotten-articles-ludwig-von-mises-rationality-socialist-economic-calculation
 [Robert Owen]: https://en.wikipedia.org/wiki/Robert_Owen
 [^owen]: Marx and Engels would dismiss many of the socialist thinkers that came before
-    them, including Owen, Proudhon, Saint-Simon, etc., as "Utopian Socialists", to
+    them, including Owen, Proudhon, Saint-Simon, etc., as "Utopian Socialists," to
     contrast them with the kind of "Scientific" socialism Marx and Engels were developing. In
     practice, the revolutionary bent of Marxist socialism would make it far more
     Utopian than the more grounded and practical approach of, for instance, Robert
-    Owen. Sometimes I can't help but feel like Marx ruined socialism for the rest
-    of us. 
+    Owen. 
 [embeddedness]: https://en.wikipedia.org/wiki/Embeddedness
 [formalist and substantivist]: https://en.wikipedia.org/wiki/Formalist%E2%80%93substantivist_debate
 [double movement]: https://en.wikipedia.org/wiki/Double_Movement
-[^hayek money]: Later in his life, Hayek would publish "Denationalization of
-    Money," where he explored the provision of money by the private sector, a school of thought that would 
+[^hayek money]: Later in his life, Hayek would publish "[The Denationalization of Money]," 
+    where he explored the provision of money by the private sector, a school of thought that would 
     inspire Bitcoin and the cryptocurrency movement.
+[The Denationalization of Money]: https://en.wikipedia.org/wiki/The_Denationalization_of_Money
 [^hayek knowledge]: Hayek would expound this conception in his 1945 article, "[The Use of Knowledge in Society]," 
     which would inspire the discipline of [Information Economics].
 [Information Economics]: https://en.wikipedia.org/wiki/Information_economics
@@ -458,13 +460,23 @@ _Special thanks to [Jackie Brown] for masterful help in editing this_
 [James Buchanan]: https://en.wikipedia.org/wiki/James_M._Buchanan
 [Oliver Williamson]: https://en.wikipedia.org/wiki/Oliver_E._Williamson
 [Elinor Ostrom]: https://en.wikipedia.org/wiki/Elinor_Ostrom
-[^ostrom]: Elinor would do much of her work with her partner, Vincent Ostrom.
-    Elinor shared the Nobel Prize in Economics with Oliver Williamson in 2009. She
-    wrote a paper [honoring James Buchanan] and the influence of his work on her
+[Vincent]: https://en.wikipedia.org/wiki/Vincent_Ostrom
+[Bloomington School of Political Economy]: https://ostromworkshop.indiana.edu/library/teaching-resources/bloomington-school.html
+[^ostrom]: Elinor and Vincent founded the [Bloomington School of Political Economy]. 
+    Elinor won the Nobel Prize in Economics for her work on community governance of the commons.
+    She shared the prize with [Oliver Williamson], for his work on the nature of
+    firms. Elinor Ostrom wrote a paper [honoring James Buchanan] and the influence of his work on her
     research.
 [^polycentrism]: Coincidentally, the term "polycentrism" was actually coined by
-    Karl Polanyi's brother, Michael Polanyi, in his 1951 "The Logic of Liberty".
-    As noted, Michael Polanyi and Hayek had a fruitful correspondence.
+    Karl Polanyi's brother, [Michael Polanyi], in his 1951 book, "The Logic of Liberty."
+    See "[Polycentricity: From Polanyi to Ostrom, and Beyond]."
+    As noted, Michael Polanyi and Hayek had a fruitful correspondence on related
+    issues.
+[Polycentricity: From Polanyi to Ostrom, and Beyond]: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0491.2011.01550.x
+[Michael]: https://en.wikipedia.org/wiki/Michael_Polanyi
+[Michael Polanyi]: https://en.wikipedia.org/wiki/Michael_Polanyi
 [honoring James Buchanan]: https://www.sciencedirect.com/science/article/pii/S0167268111001077
 [Jackie Brown]: https://twitter.com/jackiebrownto
-
+[Austrian School]: https://en.wikipedia.org/wiki/Austrian_School
+[Historical School]: https://en.wikipedia.org/wiki/Historical_school_of_economics
+[corresponded fruitfully with Hayek]: https://www.tandfonline.com/doi/full/10.1080/01916599.2014.1002971
