@@ -4,6 +4,17 @@ title: "Media"
 
 ## Podcasts
 
+
+2021-12: **The Metaverse Podcast** - [Connected Blockchains, with Ethan Buchman of
+Cosmos](https://outlierventures.podbean.com/e/connected-blockchains-with-ethan-buchman-of-cosmos/)
+
+2021-11 **DeFi Decoded** - [Ethan Buchman on how Cosmos is creating an “Internet
+of Blockchains”](https://www.ninepoint.com/alt-thinking/audio/defi-decoded-ethan-buchman-on-how-cosmos-is-creating-an-internet-of-blockchains-and-his-vision-for-regenerative-finance-refi/)
+
+2021-10: **The Blockchain Socialist** - [The heterodox politics of the internet
+of blockchains and sustainability
+existentialism](https://theblockchainsocialist.com/the-heterodox-politics-of-the-internet-of-blockchains-and-sustainability-existentialism/)
+
 2021-05: **Real Vision Crypto** - [Envisioning a Proof of Stake Alternative with
 Ethan Buchman, co-founder of
 Cosmos](https://www.youtube.com/watch?v=HL_QR5SPEqY)
@@ -43,6 +54,8 @@ I sing and rap as "Tanuki". See the debut album and various performances on
 [Github](https://github.com/ebuchman/tanuki).
 
 ## Conferences
+
+2021-12: **CSCON[1]** - [From Empires to City States: The Political Economy of Cosmos](https://www.youtube.com/watch?v=80wQ-lT92nw)
 
 2020-12: **Interchain Conversations II** - [Opening Skit - Ethan and
 Billy](https://www.crowdcast.io/e/interchain-conversations-II/2)
