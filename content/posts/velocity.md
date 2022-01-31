@@ -86,8 +86,8 @@ The Equation of Exchange is often written as
 MV = PQ
 ```
 
-where `M` is the money supply, `V` is the velocity, and `PQ` is the total spending,
-composed of an index of prices (`P`) and an index of output (`Q`). The equation
+where `M` is the money supply, `V` is the velocity, and `PQ` is the total nominal spending,
+composed of an index of prices (`P`) and an index of real output (`Q`). The equation
 is itself a tautology. What is interesting is
 whether it can tell us anything useful about reality. 
 This domain has been largely dominated by the [Quantity Theory of Money],
@@ -95,8 +95,8 @@ which supposes that the Equation of Exchange provides a model of inflationary
 processes in the world: given a fixed velocity and output level, more money means higher prices.
 
 The Quantity Theory has a centuries old history, rooted in repeated
-observations that increases to the money supply (whether through debasement, or
-an influx of precious metals) tended to increase prices broadly. It culminated
+observations that increases to the money supply (whether through debasement, 
+an influx of precious metals, or the issuance of paper money) tended to increase prices broadly. It culminated
 ultimately in the hands of Milton Friedman, who catapulted it into a dominant
 economic religion: [Monetarism]. And the policies of our central banks today continue to reflect its
 legacy in their attempts to target inflation by manipulating the money

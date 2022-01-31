@@ -3,21 +3,40 @@ title: "About"
 ---
 
 Hi! I'm Ethan Buchman. I grew up in Toronto, Canada,
-but spent many years in lovely [Guelph]. I work in software, research, education, and the garden.
+but spent many years in lovely [Guelph]. 
 
 I co-founded the [Cosmos] and [Tendermint] projects, which I still work on,
 as CEO of [Informal Systems] and President of the [Interchain Foundation].
+Cosmos is a political economic philosophy emphasizing sovereignty and
+interoperability for the world's communities.
+I care a lot about the structure of organizations and the power dynamics between
+capital and labour. Informal Systems is itself [structured as a worker's
+cooperative][Informal Owners]. For a summary of some of my political economic thinking, see my
+talks, [A Brief History of Distributed State], and [Stakeholders and
+Statemachines].
+
+My [master's thesis] provides a seminal introduction to 
+Tendermint and Proof of Stake systems, and contextualizes the development of blockchain technology
+in the history of academic distributed systems research.
+
+My undergraduate work focused on the biophysics of organisms, the origin of
+life, and the thermodynamics of sustainability. That work has heavily informed
+my political economic thinking. We live in a biophysical reality.
 
 I'm also an associate at the [Creative Destruction
 Lab](https://www.creativedestructionlab.com/people/ethan-buchman/).
 
-I'm [active on twitter], where I refer to myself as an *Internet BioPhysicist, Sustainability Existentialist, Monetary Localist, and PlainText Evangelist*.
+I'm [active on twitter], where I bill myself as an *Internet BioPhysicist, Sustainability Existentialist, Monetary Localist, and PlainText Evangelist*.
 
 I have a quasi-maintained [CV](https://github.com/ebuchman/resume/blob/master/resume.pdf).
 
-I used to blog more, first on [blogspot](http://easythereentropy.blogspot.com/),
+I've gone through a few blogging platforms over the years, 
+first on [blogspot](http://easythereentropy.blogspot.com/),
 then on [wordpress](https://easythereentropy.wordpress.com/). Now I host this
 blog on [github](https://ebuchman.github.io/posts/).
+
+I explore a lot of my ideas in conference talks, podcasts, and interviews,
+which you can find on the [Media] page. 
 
 The following books/lectures (and their authors!) have had an outsized influence on my life (in order):
 
@@ -32,37 +51,41 @@ The following books/lectures (and their authors!) have had an outsized influence
 
 Some other major early influences include:
 
-- Philosophy: [Robert Anton Wilson], [Terrence McKenna], [Neal Cassady].
-- Psychology and Religion: [Mircea Eliade] \(I've read most of his books), [Carl Jung], 
-the book [Maps of Meaning: The Architecture of Belief] 
-- Media and Technology: [Marshall McLuhan], [Marcel Danesi], [Buckminster
-  Fuller]
+- Philosophy, Psychology, and Religion: [Mircea Eliade], [Carl Jung], [Robert Anton Wilson], [Terrence McKenna]
+- Media and Technology: [Marshall McLuhan], [Buckminster Fuller]
 - Economics: [E.F. Schumacher], [Jane Jacobs], [Elinor Ostrom], [Nassim Taleb], [Friedrich Hayek].
 
-These days I'm studying monetary economics, guided largely by the work of 
-[Perry Mehrling] and [George Selgin], though my main influences are the
-"localists" listed above.
+These days I'm studying monetary theory, history, and practice, guided by the work
+of folks like [Perry Mehrling], [George Selgin], and [Jeffrey Snider], though I continue to pursue a more 
+"localist" and "ecological" understanding. I've also
+found a rich source of knowledge in [Karl Polanyi's] work (see my post,
+[The Market Pattern]), and have become somewhat enchanted by Modern Monetary Theory
+(though see my [critique]).
 
+I'm on a mission to synthesize the various [heterodox schools of economics]
+to provide a basis for a more sustainable political economy. 
+And yes, this means bridging the gap between the Left and the Right, which I believe can be done
+through open and honest dialogue (something sorely lacking today).
 
 Some quotes I'm fond of:
 
 ---
 > "There is nothing in a caterpillar that tells you it's going to be a butterfly."
 
-> *- Buckminster Fuller*
+*- Buckminster Fuller*
 
 ---
 
 > "There are no passengers on spaceship earth. We are all crew."
 
-> *- Marshall McLuhan*
+*- Marshall McLuhan*
 
 ---
 
 > "Human beings were invented by water as a device for transporting itself from
 one place to another."
 
-> *- Tom Robbins*
+*- Tom Robbins*
 
 ---
 
@@ -72,7 +95,7 @@ replaced by something even more bizarre and inexplicable.
 >
 > There is another theory which states that this has already happened.”
 
-> *- Douglas Adams*
+*- Douglas Adams*
 
 ---
 
@@ -112,3 +135,13 @@ Your DNA wouldn't even be able to replicate itself were it not for the
 [Guelph]: https://en.wikipedia.org/wiki/Guelph
 [Buckminster Fuller]: https://en.wikipedia.org/wiki/Buckminster_Fuller
 [microtubules]: https://en.wikipedia.org/wiki/Microtubule
+[Jeffrey Snider]: https://alhambrapartners.com/tag/eurodollar-university/
+[critique]: /posts/mmt/
+[Media]:/media
+[Karl Polanyi's]: https://en.wikipedia.org/wiki/Karl_Polanyi
+[The Market Pattern]: /posts/hayek-polanyi
+[heterodox schools of economics]: /posts/factors-of-production
+[master's thesis]: https://atrium.lib.uoguelph.ca/xmlui/handle/10214/9769
+[Informal Owners]: https://informal.systems/2020/09/21/informal-owners/
+[A Brief History of Distributed State]: https://www.youtube.com/watch?v=e9C1Y89Txdw
+[Stakeholders and Statemachines]: https://www.youtube.com/watch?v=Luh7m7YHRts
