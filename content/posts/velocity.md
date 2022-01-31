@@ -65,7 +65,7 @@ we can see that the velocity measure is an average over the tendency for money t
 circulate in an economy.
 
 It's less clear how to measure velocity directly in ledger-based or electronic systems,
-where there are no distinct monetary tokens like coins that can be tracked. There are just balances in an account. 
+where there are no distinct monetary tokens like coins that can be tracked, but just balances in an account. 
 There are still payments between accounts, of course, and we can still compute velocity as a
 ratio between total payments and total money supply. But now instead of dealing
 with literal circulation of physical tokens, velocity is some more abstract
@@ -76,7 +76,7 @@ frequency, then its inverse is a duration. If velocity is the number of
 transactions a unit of money is used in over some period of time, its inverse is the duration of time a unit of money is
 held, before it's used in a transaction. This is basically liquidity demand, `Liquidity Demand = 1 / Velocity`.
 Rearranging our original equation, we get `Money Supply = Total Spending *
-Liquidity Demand`. Which tells us that the money supply is composed of two activities: spending and holding.[^money-demand]
+Liquidity Demand`, which tells us that the money supply is composed of two activities: spending and holding.[^money-demand]
 
 ## Interrogating Inflation
 
@@ -103,7 +103,7 @@ legacy in their attempts to target inflation by manipulating the money
 supply.
 
 The Quantity Theory of course has some truth to it. But it betrays a kind of
-simplicity that makes it hardly useful as a guide to a more complete monetary theory.
+naive simplicity that makes it hardly useful as a guide to a more complete monetary theory.
 For one, it says nothing about the dynamics of how money flows through the
 economy, and the effects it has as it flows. Increases in prices are not
 immediate, they happen at different rates throughout the economy, and
@@ -120,9 +120,9 @@ which adherents of the Quantity Theory generally take to be a constant. But we
 know that in times of crisis, velocity collapses (the demand for money
 sky-rockets). And with the surge in money supply over recent decades, measures of velocity appear to be falling everywhere.
 We don't know if there's such a thing as "the right" velocity, but low velocity seems
-like a kind of sickness in the payments network. 
+like a kind of sickness in the payments graph. 
 
-## Knuts and Bolts of Payments
+## The Knuts and Bolts of Payments
 
 Velocity as commonly defined is simply the ratio between aggregate spending and
 the money supply. But over a hundred years ago,
@@ -135,10 +135,10 @@ sending the $1 back and forth as many times as necessary (i.e. 10).
 Wicksell extends the example to a larger
 society, where payment obligations build up over a period, after which everyone
 assembles at a fair to send whatever amount of money exists back and forth until
-everyone's debts are cleared. Of course no economy (except the global one) is truly closed, 
+everyone's debts are cleared. Of course, no economy (except the global one) is truly closed, 
 and hosting such fairs would obviously be impractical, but the example
 emphasizes that velocity is somehow a measure of the connectedness of the payments graph,
-of the ability for money to flow through it - for a single unit of money to
+of the ability for money to flow through it, for a single unit of money to
 be used to clear many transactions. 
 
 Wicksell takes the example further by introducing a bank that everyone uses, and
@@ -154,8 +154,7 @@ But Wicksell's example highlights that velocity is not just a derived ratio, but
 structural reality of the payments network. Bank deposits, for instance, are initially conceived as credit,
 a trick to increase the velocity of metal coins. But over time, bank deposits come to be considered money themselves.
 And so what was once an increase in velocity at one level of the [hierarchy of money], over time can become an increase 
-in the money supply at the level below. Thus the velocity of money reflects the evolution of the structure of
-money itself.
+in the money supply at the level below. Thus the velocity of money reflects the evolution of money's structure.
 
 Historically, when money was largely gold and silver coins, velocity was
 structurally constrained by the limited availability of small coins (see [The
@@ -189,7 +188,7 @@ the AR counts as an asset ("money owed to you") and the AP
 counts as a liability ("money you owe"), so they can be offset against each other.
 But a firm cannot actually clear its AP using
 its AR, because the receivables (AR) aren't actually money - they're not broadly
-accepted media of exchange that can be used to settle payments, they're just the IOUs of some entities that owe you money.
+accepted media of exchange that can be used to make payments, they're just the IOUs of some entities that owe you money.
 In order to clear its AP, the firm needs actual money, which
 might only be possible if it can collect on its AR. This is the problem of
 "liquidity", or the "survival constraint", faced by every economic actor every day.
@@ -205,7 +204,7 @@ IOUs are broadly considered money by the rest of us. But even between
 banks, where payments are made in bank reserves (or historically, in gold),
 they seek to relieve the liquidity constraint by maximizing
 velocity (read, "efficiency") of payments between themselves, making use of as little monetary
-reserves to support as large a set of transactions as possible. 
+reserves to support as large a volume of payments as possible. 
 Of course, even banks can fall victim to the survival constraint, 
 as the historic events of 2008 demonstrated.
 
@@ -224,8 +223,8 @@ And in the example of banks, they establish a clearing house so each bank only p
 this changes the graph of counterparties, so instead of owing each other, each bank
 only owes (or is owed by) the clearing house. But there's another approach, which does
 not require sending money around, and does not require changing the graph of
-counterparties (who owes who), but rather looks at the structure of the obligation
-graph itself, and clears any cycles that exist within it. If I owe you $5 and you owe Abed
+counterparties (who owes who), but rather looks at the structure of the accounts
+payable graph itself, and clears any cycles that exist within it. If I owe you $5 and you owe Abed
 $5 and Abed owes me $5, we can clear all three transactions without using any money
 at all. And if I owed you $6, we can still clear $5 off all payments, without
 changing the graph of counterparties, but only reducing the amount everyone
@@ -302,7 +301,7 @@ And this is what we should be trying to capture by looking at velocity.
 
 [^money-demand]: Some people argue that money doesn't actually flow, it is only
   ever held, punctuated by moments where one person takes over holding money
-  from the other (i.e. payments). And for this reason they might prefer to think
+  from another (i.e. payments). And for this reason they might prefer to think
   in terms of demand for money, rather than its inverse (velocity).
   A lot of foundational thinking in early 20th century monetary theory (e.g. both Keynes and Mises), 
   was based around a fresh look at the demand for money. But while demand
@@ -361,7 +360,7 @@ And this is what we should be trying to capture by looking at velocity.
   exists, for instance in the national credit clearing system in Slovenia, and
   in Sardex, the mutual credit system in Sardinia, Italy. See [Liquidity-Saving through
   Obligation-Clearing and Mutual Credit][credit clearing].
-[^sustainability]: See, for instance, [Robert Ulanowicz's] concept of [Ascendency], which uses information theory to captures the resilience of an ecosystem.
+[^sustainability]: See, for instance, theoretical ecologist [Robert Ulanowicz's] concept of [Ascendency], which uses information theory to captures the resilience of an ecosystem.
   In ["Life and the production of entropy"], Ulanowicz borrows the "discount rate" concept from economics to 
   describe the residence time of energy in biological systems and its relation
   to succession and sustainability.
