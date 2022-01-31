@@ -157,29 +157,33 @@ And so what was once an increase in velocity at one level of the [hierarchy of m
 in the money supply at the level below. Thus the velocity of money reflects the evolution of money's structure.
 
 Historically, when money was largely gold and silver coins, velocity was
-structurally constrained by the limited availability of small coins (see [The
-Big Problem of Small Change]). The smallest coins were commonly larger than a day's or even a week's worth of
+structurally constrained by the limited availability of small coins.[^making money]
+The smallest coins were commonly larger than a day's or even a week's worth of
 transactions. And even if there were smaller denomination coins, the prohibitive cost of making them 
-typically meant there weren't enough. Thus, certain kinds of spending that people would have liked to
+typically meant there weren't enough. Thus, while the coins that did exist might have circulated with high velocity,
+certain kinds of spending that people would have liked to
 engage in were structurally restricted, since the denominations of currency
 simply did not exist to facilitate them. They would have to resort
 to barter, or to local credit relationships (running up tabs), which might
 provide some relief, but were still severely limited. 
 
-Banking as an institution would come to resolve this particular constraint on
-velocity by moving us away from coins towards accounts, and through a couple
+Fiat money and banking institutions would come to resolve this particular constraint on
+the payments system by moving us away from coins towards accounts, and through a couple
 centuries of inflation that have made the price of daily transactions much
-larger than the smallest units of money. But even still, certain transactions
-are infeasible, like so-called "micro transactions". This is a structural
-constraint on velocity due to the virtual impossibility of sending high volumes of
+larger than the smallest units of money. Perhaps ironically, despite major improvements in the payment system,
+aggregate velocity appears to have actually fallen as we entered the modern period, 
+as the increased monetization of society meant people increased their overall
+demand for money balances. But even still, certain transactions
+remain infeasible, like so-called "micro transactions", a structural
+constraint that stems from the virtual impossibility of sending high volumes of
 small transactions in the current configuration of the payments system. And
-this constraint on velocity appears to pose a serious impediment to alternative,
+this constraint appears to pose a serious impediment to alternative,
 and perhaps more responsible, commercialization strategies for digital IP. So velocity, at least
 its structural determinants, seems to matter.
 
 ## Clearing The Way 
 
-What other structural constraints might there be on velocity in the modern
+What other structural constraints might there be in the modern
 payments system? Consider how payment obligations come about in the natural
 course of doing business. Each
 firm builds up a mix of accounts receivable ("AR") and accounts payable ("AP") with the
@@ -288,7 +292,7 @@ And this is what we should be trying to capture by looking at velocity.
 [Cantillon Effect]: https://en.wikipedia.org/wiki/Richard_Cantillon#Monetary_theory
 [factor of production]: https://ebuchman.github.io/posts/factors-of-production/
 [Knut Wicksell]: https://en.wikipedia.org/wiki/Knut_Wicksell
-[The Big Problem of Small Change]: https://press.princeton.edu/books/paperback/9780691116358/the-big-problem-of-small-change
+["The Big Problem of Small Change"]: https://press.princeton.edu/books/paperback/9780691116358/the-big-problem-of-small-change
 [Money View]: https://en.wikipedia.org/wiki/Perry_Mehrling#Money_View
 [credit clearing]: https://www.mdpi.com/1911-8074/13/12/295
 [local]: https://ebuchman.github.io/posts/local-money-liquidity-saving/
@@ -367,7 +371,16 @@ And this is what we should be trying to capture by looking at velocity.
   Analogous concepts of ascendency and residence time ought to be developed for economics and the payments network. 
   See also Mae Wan Ho's [The Rainbow and the Worm], mainly Chapter 7, "Sustainable Systems as Organisms",
   as well as my blog post, [Economic Organisms], and my talk, [Stakeholders and Statemachines].
+[^making money]: See Christine Desan's ["Making Money"] for a detailed
+  historical account of the challenges of maintaining the monetary system in
+  medieval and early-modern England. Desan's account heavily cites Sargent and Velde's
+  ["The Big Problem of Small Change"]. See also George Selgin's ["Good Money"], which tells the story of how private
+  industry solved the small change problem for itself by taking minting matters
+  into its own hands.
+  
 
+["Good Money"]: https://www.independent.org/store/book.asp?id=75
+["Making Money"]: https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780198709572.001.0001/acprof-9780198709572
 [Robert Ulanowicz's]: https://en.wikipedia.org/wiki/Robert_Ulanowicz
 ["Life and the production of entropy"]: https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1987.0067
 [Ascendency]: https://en.wikipedia.org/wiki/Ascendency
@@ -380,3 +393,4 @@ And this is what we should be trying to capture by looking at velocity.
 ["Interest and Prices"]: https://mises.org/library/interest-and-prices
 [hierarchy of money]: http://sites.bu.edu/perry/files/2019/01/Lec-02-The-Natural-Hierarchy-of-Money.pdf
 [critique of MMT]: https://ebuchman.github.io/posts/mmt/
+
