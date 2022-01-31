@@ -156,8 +156,8 @@ a trick to increase the velocity of metal coins. But over time, bank deposits co
 And so what was once an increase in velocity at one level of the [hierarchy of money], over time can become an increase 
 in the money supply at the level below. Thus the velocity of money reflects the evolution of money's structure.
 
-Historically, when money was largely gold and silver coins, velocity was
-structurally constrained by the limited availability of small coins.[^making money]
+Historically, say in medieval England, when the circulating money supply consisted primarily of gold and silver coins, 
+velocity was structurally constrained by the limited availability of small coins.[^making money]
 The smallest coins were commonly larger than a day's or even a week's worth of
 transactions. And even if there were smaller denomination coins, the prohibitive cost of making them 
 typically meant there weren't enough. Thus, while the coins that did exist might have circulated with high velocity,

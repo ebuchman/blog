@@ -17,7 +17,8 @@ Statemachines].
 
 My [master's thesis] provides a seminal introduction to 
 Tendermint and Proof of Stake systems, and contextualizes the development of blockchain technology
-in the history of academic distributed systems research.
+in the history of academic distributed systems research. Blockchains represent
+the natural evolution of database systems towards a multi-stakeholder context.
 
 My undergraduate work focused on the biophysics of organisms, the origin of
 life, and the thermodynamics of sustainability. That work has heavily informed
@@ -54,6 +55,9 @@ Some other major early influences include:
 - Philosophy, Psychology, and Religion: [Mircea Eliade], [Carl Jung], [Robert Anton Wilson], [Terrence McKenna]
 - Media and Technology: [Marshall McLuhan], [Buckminster Fuller]
 - Economics: [E.F. Schumacher], [Jane Jacobs], [Elinor Ostrom], [Nassim Taleb], [Friedrich Hayek].
+
+For a more recent list of favorite economists (including classics like Robert Owen, Henry George, Silvio Gesell, and Karl Polanyi),
+see my [tweet thread][econ-thread].
 
 These days I'm studying monetary theory, history, and practice, guided by the work
 of folks like [Perry Mehrling], [George Selgin], and [Jeffrey Snider], though I continue to pursue a more 
@@ -145,3 +149,4 @@ Your DNA wouldn't even be able to replicate itself were it not for the
 [Informal Owners]: https://informal.systems/2020/09/21/informal-owners/
 [A Brief History of Distributed State]: https://www.youtube.com/watch?v=e9C1Y89Txdw
 [Stakeholders and Statemachines]: https://www.youtube.com/watch?v=Luh7m7YHRts
+[econ-thread]: https://twitter.com/buchmanster/status/1420129270417006595
