@@ -1,8 +1,12 @@
 
 ---
 title: "Reconsidering the Factors of Production"
+subtitle: "A Heterodox Synthesis"
 date: 2021-07-18
 draft: false
+description: "An approach to synthesizing the heterdox schools of economics via
+a more comprehensive sociological theory of the factors of production, including
+energy and money."
 ---
 
 The great tragedy of mainstream, neoclassical economics is that, 

@@ -2,6 +2,8 @@
 title: "Socially Responsible Investing"
 date: 2021-07-22
 draft: false
+description: "A review of the miserable state of socially responsible investing,
+and what to potentially do about it"
 ---
 
 *This is not investment advice. Do your own research. The analyses here are based

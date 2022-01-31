@@ -3,6 +3,10 @@ title: "Orange is the new Green"
 subtitle: "Why Bitcoin is better for the world than Tesla"
 date: 2021-08-26
 draft: false
+description: "An exploration of why Bitcoin is better for the world than Tesla.
+Contents include: The Problem with Tesla; the Promise of Bitcoin; Monetary
+Institutions and Political Economy; Proof of Work and International Trust;
+Mining is Not as Bad As You Think; What About Proof of Stake?"
 ---
 
 <img src="/img/btc.png" alt="Bitcoin Logo" width="200"/>

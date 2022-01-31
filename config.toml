@@ -17,7 +17,7 @@ disqusShortname = "ebuchman-blog"
   showBuiltWith = true
 
   relatedPosts = true
-  mainSections = ["post"]
+  mainSections = ["posts"]
 
 [[menu.main]]
   name = "Posts"

@@ -2,6 +2,14 @@
 title: "Economic Organisms"
 date: 2019-01-20
 draft: false
+description: "Socioeconomic systems may be conceived in the same vein as organisms:
+driven, replicated, non-equilibrium systems in a landscape of steady-states.
+Lifetimes and sustainability in such systems are parameterized by the capacity to 
+represent and predict driving signals, and to use the energy contained in such signals
+to replicate successfully. Driving signals are the cycles of availability of input energy that drive systems out
+of equilibrium. Driven systems favour the formation of well-organized, low-entropy structures 
+to the extent that they are better able than high-entropy forms to 
+store, utilize, and ultimately dissipate input energy."
 ---
 
 ## Life

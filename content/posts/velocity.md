@@ -2,6 +2,9 @@
 title: "The Velocity of Money"
 date: 2022-01-30
 draft: false 
+description: "A new look at the Velocity of Money, what it can tell us about the
+structure of the payment system, and what it might mean for a more sustainable
+approach to economic growth."
 ---
 
 

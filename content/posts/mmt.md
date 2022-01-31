@@ -2,6 +2,10 @@
 title: "Critique of MMT from a Monetary Localist"
 date: 2021-05-15
 draft: false
+description: "Modern Monetary Theory is refocusing economics on an important set
+of ideas: monetary sovereignty, the resource constraint, and a basic jobs program. There are curious parallels to
+cryptocurrencies. But MMT still has some ways to go to become the ecologically and socially sound theory of money we so
+desperately need"
 ---
 
 Disclaimer: This critique is based almost entirely on a reading of Stephanie

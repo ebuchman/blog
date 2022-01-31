@@ -2,6 +2,10 @@
 title: "The Modest Mongolian"
 date: 2020-04-25
 draft: false
+description: "If Alexander The Great brought a few hundred years of early European cultural evolution to the East, it wasn't until
+the empire of Genghis Khan, the Modest Mongolian, that a *millenium* of Chinese cultural evolution was brought back West,
+effectively ending the Middle Ages and laying the foundation for the
+Enlightenment in Europe. This is the story of how Genghis Khan conquered the world."
 ---
 
 ## The Story of Civilization

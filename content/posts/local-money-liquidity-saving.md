@@ -2,6 +2,8 @@
 title: "Local Money and Liquidity Saving"
 date: 2021-05-29
 draft: false
+description: "A short review of some types of local money systems, with a focus
+on their potential as liquidity saving mechanisms via credit clearing."
 ---
 
 # Local Money Systems
