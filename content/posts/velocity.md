@@ -178,19 +178,10 @@ its structural determinants, seems to matter.
 ## Clearing The Way 
 
 What other structural constraints might there be on velocity in the modern
-payments system? Payments today are dominated by the interbank clearing system. One way to
-understand the structure of the interbank clearing system is that it's been
-designed to maximize velocity (read, "efficiency") between banks, making use of as little monetary
-reserves to support as large a set of transactions as possible. 
-The banks have access to extremely high velocity structures 
-within their payments network, clearing systems that save them trillions in payments. But what about the rest of us?
-
-Well the rest of us are limited by the banks - our balances in their accounts,
-and by extension, the credit they're willing to extend us. And so for many
-people and businesses, their ability to spend is constrained by their ability to
-get paid in bank money. In the natural course of doing business, each
+payments system? Consider how payment obligations come about in the natural
+course of doing business. Each
 firm builds up a mix of accounts receivable ("AR") and accounts payable ("AP") with the
-various other entities it engages with. And for calculating its own solvency, 
+various other entities it engages with. When a firm is calculating its own solvency, 
 the AR counts as an asset ("money owed to you") and the AP
 counts as a liability ("money you owe"), so they can be offset against each other.
 But a firm cannot actually clear its AP using
@@ -209,16 +200,20 @@ the gap between genuine money and any old entity's IOU, which is effectively
 the structure of the payment system. Banks are fortunate enough in that their
 IOUs are broadly considered money by the rest of us. But even between
 banks, where payments are made in bank reserves (or historically, in gold),
-they seek to relieve the liquidity constraint for themselves. Of course, they can still fail spectacularly,
+they seek to relieve the liquidity constraint by maximizing
+velocity (read, "efficiency") of payments between themselves, making use of as little monetary
+reserves to support as large a set of transactions as possible. 
+Of course, even banks can fall victim to the survival constraint, 
 as the historic events of 2008 demonstrated.
 
-Banks seek to relieve their collective liquidity restraint by getting together in groups and netting out all
-their accounts receivable and payable between each other. They do this by
-creating clearing houses. This increases the velocity of money between them by
-an extraordinary amount. At the end of each day, all interbank payment
+
+The banks have access to extremely high velocity structures 
+within their payments network, clearing houses that save them trillions in payments. 
+In a clearing house, at the end of each day, all interbank payment
 obligations are netted out, and every bank makes a small payment to, or receives
-a small payment from, the clearing house. What if we could do something similar
-for businesses in general? 
+a small payment from, the clearing house. Doing so allows them to effectively
+settle much of their accounts payable with their accounts receivable. But what about the rest of us? 
+Can we do something similar for businesses in general?
 
 In the earlier example from Wicksell, we sent whatever money we had back and
 forth to clear all the payments. 
@@ -254,12 +249,12 @@ resilient economies that integrates directly with the monetary
 system.[^central-banks]
 
 We can think about this in terms of the Equation of Exchange, `MV = PQ`. 
-If we want economic growth (increased output, `Q`), then we will need either a greater money supply (`M`),
-greater velocity (`V`), or lower prices (`P`). Much of the economic growth associated with
+If we want economic growth (increased output, `Q`), then we will need a greater money supply (`M`),
+greater velocity (`V`), lower prices (`P`), or some combination thereof. Much of the economic growth associated with
 technological innovation appears as lower prices. But deflation in the general
 price level (and especially in wages) has its own host of problems, and we have been targeting for
-decades a positive inflation rate.[^ngdp] Hence much of the accommodation for economic
-growth has come from increases in the money supply, primarily in the form of
+decades a positive inflation rate.[^ngdp] Hence, much of the accommodation for economic
+growth seems to come from increases in the money supply, primarily in the form of
 bank loans.[^loans] But what if instead we could enable economic growth by increasing
 velocity? 
 
@@ -279,17 +274,13 @@ from a linear economy to a circular one.
 
 The parallels between the flow of money in an economy and the flow of energy in ecology run deep.
 It is well understood in ecology that what matters is not so much the total
-energy in a system (the "money supply"), nor the total metabolic activity of the
+energy in a system (say, the "money supply"), nor the total metabolic activity of the
 system (the "total spending"), nor even the temperature (the "price level").
 What matters are the patterns of energy flow - effectively, the
-[food web]. And this is what we should be trying to capture by looking at
-velocity.
-Sustainable systems are those that are able to effectively store up energy 
+[food web]. Sustainable systems are those that are able to effectively store up energy 
 within their internal structure by channeling it through closed
 loops.[^sustainability]
-This understanding has yet to percolate through the economic discipline, but it
-may be critical to our sustainability that it does. And a fresh look at velocity can
-help us get there.
+And this is what we should be trying to capture by looking at velocity.
 
 [food web]: https://en.wikipedia.org/wiki/Food_web
 [Cantillon Effect]: https://en.wikipedia.org/wiki/Richard_Cantillon#Monetary_theory
@@ -335,11 +326,12 @@ help us get there.
 [^ngdp]: There is growing support for "[NGDP targeting]", where Central Banks target
     total nominal spending directly, rather than the price level, allowing the
     price level to adjust for genuine gains in productivity. 
-[^central-banks]: Central Banks, which are currently captured by a paradigm of [systemic risk],
-    can transition to a more sustainable model that better supports more [local] and
-    cooperative forms of clearing and credit creation directly between
+[^central-banks]: Central Banks are currently captured by a paradigm of [systemic risk].
+    They may be able to transition to a more sustainable model by better support for more [local] and
+    cooperative forms of credit clearing and credit creation, directly between
     businesses. I suspect blockchain technology can play a major role in
-    facilitating this. But that's a topic for another post.
+    facilitating this. But that's a topic for another post. For some preliminary ideas, see
+    my [critique of MMT].
 [^loans]: The vast majority of money in the world is created endogenously by commercial banks through the issuing of loans. 
     This is the monetary engine of economic growth. But ever since 2008, this
     engine has collapsed. Central banks have attempted to compensate using their
@@ -353,24 +345,26 @@ help us get there.
 [^real-bills]: This might be considered a refreshed version of the
   classical "[real bills]" doctrine, which suggested that credit expansion was not
   inflationary so long as it was short term and self-liquidating - meaning,
-  short-term bills of exchange supporting real commercial activity. This is
+  short-term bills of exchange supporting real commercial activity. Real bills
+  doctrine struggled to bridge the gap between the short-term money market and
+  the needs of longer-term capital financing, and was eventually abandoned. But the focus 
+  in the real-bills doctrine on the quality of collateral in the money market is 
   sometimes considered a kind of "[Quality Theory of Money]", in contrast to the
-  "Quantity Theory". As economics became increasingly obsessed with being a
+  "Quantity Theory". Where the Quantity Theory is focused on money and prices, a Quality Theory
+  might provide a renewed look at velocity and spending. As economics became increasingly obsessed with being a
   science in the 20th century, it largely lost the "art" of banking, and with it, the evaluation
   of money's quality. If we are to fix money and banking, this art must be restored. 
-  And where the Quantity Theory is focused on money and prices, a Quality Theory
-  might focus on a renewed look at velocity and spending.
 [^tomaz]: Researchers have begun to get access to and analyze this data where it
-  exists, for instance in the national credit clearing system in Slovenia and
-  the mutual credit system in Sardinia, Italy. See [Liquidity-Saving through
+  exists, for instance in the national credit clearing system in Slovenia, and
+  in Sardex, the mutual credit system in Sardinia, Italy. See [Liquidity-Saving through
   Obligation-Clearing and Mutual Credit][credit clearing].
-[^sustainability]: See, for instance, [Robert Ulanowicz's] concept of [Ascendency].
+[^sustainability]: See, for instance, [Robert Ulanowicz's] concept of [Ascendency], which uses information theory to captures the resilience of an ecosystem.
   In ["Life and the production of entropy"], Ulanowicz borrows the "discount rate" concept from economics to 
   describe the residence time of energy in biological systems and its relation
   to succession and sustainability.
   Analogous concepts of ascendency and residence time ought to be developed for economics and the payments network. 
   See also Mae Wan Ho's [The Rainbow and the Worm], mainly Chapter 7, "Sustainable Systems as Organisms",
-  as well as by blog post, [Economic Organisms], and my talk, [Stakeholders and Statemachines].
+  as well as my blog post, [Economic Organisms], and my talk, [Stakeholders and Statemachines].
 
 [Robert Ulanowicz's]: https://en.wikipedia.org/wiki/Robert_Ulanowicz
 ["Life and the production of entropy"]: https://royalsocietypublishing.org/doi/abs/10.1098/rspb.1987.0067
@@ -383,4 +377,4 @@ help us get there.
 [Monetarism]: https://en.wikipedia.org/wiki/Monetarism
 ["Interest and Prices"]: https://mises.org/library/interest-and-prices
 [hierarchy of money]: http://sites.bu.edu/perry/files/2019/01/Lec-02-The-Natural-Hierarchy-of-Money.pdf
-
+[critique of MMT]: https://ebuchman.github.io/posts/mmt/
