@@ -422,29 +422,14 @@ _Special thanks to [Jackie Brown] for masterful help in editing this_
 [zoo of heterodox schools]: https://ebuchman.github.io/posts/factors-of-production/
 [Abuse of Reason]: https://chicago.universitypressscholarship.com/view/10.7208/chicago/9780226091921.001.0001/upso-9780226091914-chapter-12
 [Seeing Like A State]: https://en.wikipedia.org/wiki/Seeing_Like_a_State
-[^foot seeing like a state]: Brad Delong, who describes himself as "no Austrian--I am
-    a liberal Keynesian and a social democrat," praised both the book and its
-    intellectual legacy in Hayek, and criticized the book for insufficiently
-    acknowledging its debt to Hayek. See his [review of Seeing Like A State][Seeing Like A State Review]
 [Seeing Like A State Review]: https://delong.typepad.com/sdj/2007/10/james-scott-and.html
 [Socialist Accounting]: https://economicsociologydotorg.files.wordpress.com/2016/12/socialist-accounting-by-karl-polanyi-with-preface.pdf
 [mises polanyi]: https://mises.org/library/two-forgotten-articles-ludwig-von-mises-rationality-socialist-economic-calculation
 [Robert Owen]: https://en.wikipedia.org/wiki/Robert_Owen
-[^owen]: Marx and Engels would dismiss many of the socialist thinkers that came before
-    them, including Owen, Proudhon, Saint-Simon, etc., as "Utopian Socialists," to
-    contrast them with the kind of "Scientific" socialism Marx and Engels were developing. In
-    practice, the revolutionary bent of Marxist socialism would make it far more
-    Utopian than the more grounded and practical approach of, for instance, Robert
-    Owen. 
 [embeddedness]: https://en.wikipedia.org/wiki/Embeddedness
 [formalist and substantivist]: https://en.wikipedia.org/wiki/Formalist%E2%80%93substantivist_debate
 [double movement]: https://en.wikipedia.org/wiki/Double_Movement
-[^hayek money]: Later in his life, Hayek would publish "[The Denationalization of Money]," 
-    where he explored the provision of money by the private sector, a school of thought that would 
-    inspire Bitcoin and the cryptocurrency movement.
 [The Denationalization of Money]: https://en.wikipedia.org/wiki/The_Denationalization_of_Money
-[^hayek knowledge]: Hayek would expound this conception in his 1945 article, "[The Use of Knowledge in Society]," 
-    which would inspire the discipline of [Information Economics].
 [Information Economics]: https://en.wikipedia.org/wiki/Information_economics
 [The Use of Knowledge in Society]: https://www.econlib.org/library/Essays/hykKnw.html
 [Stakeholders and Statemachines]: https://www.youtube.com/watch?v=Luh7m7YHRts
@@ -462,6 +447,30 @@ _Special thanks to [Jackie Brown] for masterful help in editing this_
 [Elinor Ostrom]: https://en.wikipedia.org/wiki/Elinor_Ostrom
 [Vincent]: https://en.wikipedia.org/wiki/Vincent_Ostrom
 [Bloomington School of Political Economy]: https://ostromworkshop.indiana.edu/library/teaching-resources/bloomington-school.html
+[Polycentricity: From Polanyi to Ostrom, and Beyond]: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0491.2011.01550.x
+[Michael]: https://en.wikipedia.org/wiki/Michael_Polanyi
+[Michael Polanyi]: https://en.wikipedia.org/wiki/Michael_Polanyi
+[honoring James Buchanan]: https://www.sciencedirect.com/science/article/pii/S0167268111001077
+[Jackie Brown]: https://twitter.com/jackiebrownto
+[Austrian School]: https://en.wikipedia.org/wiki/Austrian_School
+[Historical School]: https://en.wikipedia.org/wiki/Historical_school_of_economics
+[corresponded fruitfully with Hayek]: https://www.tandfonline.com/doi/full/10.1080/01916599.2014.1002971
+
+[^hayek money]: Later in his life, Hayek would publish "[The Denationalization of Money]," 
+    where he explored the provision of money by the private sector, a school of thought that would 
+    inspire Bitcoin and the cryptocurrency movement.
+[^foot seeing like a state]: Brad Delong, who describes himself as "no Austrian--I am
+    a liberal Keynesian and a social democrat," praised both the book and its
+    intellectual legacy in Hayek, and criticized the book for insufficiently
+    acknowledging its debt to Hayek. See his [review of Seeing Like A State][Seeing Like A State Review]
+[^owen]: Marx and Engels would dismiss many of the socialist thinkers that came before
+    them, including Owen, Proudhon, Saint-Simon, etc., as "Utopian Socialists," to
+    contrast them with the kind of "Scientific" socialism Marx and Engels were developing. In
+    practice, the revolutionary bent of Marxist socialism would make it far more
+    Utopian than the more grounded and practical approach of, for instance, Robert
+    Owen. 
+[^hayek knowledge]: Hayek would expound this conception in his 1945 article, "[The Use of Knowledge in Society]," 
+    which would inspire the discipline of [Information Economics].
 [^ostrom]: Elinor and Vincent founded the [Bloomington School of Political Economy]. 
     Elinor won the Nobel Prize in Economics for her work on community governance of the commons.
     She shared the prize with [Oliver Williamson], for his work on the nature of
@@ -472,11 +481,3 @@ _Special thanks to [Jackie Brown] for masterful help in editing this_
     See "[Polycentricity: From Polanyi to Ostrom, and Beyond]."
     As noted, Michael Polanyi and Hayek had a fruitful correspondence on related
     issues.
-[Polycentricity: From Polanyi to Ostrom, and Beyond]: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0491.2011.01550.x
-[Michael]: https://en.wikipedia.org/wiki/Michael_Polanyi
-[Michael Polanyi]: https://en.wikipedia.org/wiki/Michael_Polanyi
-[honoring James Buchanan]: https://www.sciencedirect.com/science/article/pii/S0167268111001077
-[Jackie Brown]: https://twitter.com/jackiebrownto
-[Austrian School]: https://en.wikipedia.org/wiki/Austrian_School
-[Historical School]: https://en.wikipedia.org/wiki/Historical_school_of_economics
-[corresponded fruitfully with Hayek]: https://www.tandfonline.com/doi/full/10.1080/01916599.2014.1002971

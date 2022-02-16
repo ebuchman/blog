@@ -8,8 +8,8 @@ on their potential as liquidity saving mechanisms via credit clearing."
 
 # Local Money Systems
 
-As you may know, I'm quite enchanted with the idea of local money systems
-- moneys designed to facilitate local economic organization and trade.
+As you may know, I'm quite enchanted with the idea of local money systems - money
+designed to facilitate local economic organization and trade.
 There's a nice overview in Bernard Lietar's [Creating Wealth]. 
 I think they're the best application of blockchain tech and the best hope for 
 a sustainable civilization. 
