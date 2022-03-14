@@ -167,8 +167,9 @@ proliferation of the poor. Thus Polanyi quipped:
 Given the fundamental limits set out on the centralized direction of social
 processes, the market for Hayek is a decentralized mechanism that seeks to make as much use as possible of the 
 spontaneous, distributed forces of society, and as little use as possible of coercion. 
-This is the essence of Hayek's liberalism. It builds on the fundamental revolution of the Enlightenment
-- the prerogative for individuals to think for themselves - by leveraging the
+This is the essence of Hayek's liberalism. It builds on the fundamental
+revolution of the Enlightenment - the prerogative for
+individuals to think for themselves - by leveraging the
 forces of competition to make the best possible use of the 
 heterogeneous information distributed across individuals in society - their
 preferences, understandings, proximities, and discoveries. 
