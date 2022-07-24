@@ -298,7 +298,7 @@ Danone, and
 P&G. Etsy used to be a B Corp, but it couldn't manage to maintain its
 certification when it went public, which is quite a shame. 
 
-Side note, B Lab basically [spun out AND1][blab-and1], which was apparently a
+Side note, B Lab basically [spun out of AND1][blab-and1], which was apparently a
 [pretty amazing company][and1]. I used to rock their basketball shorts.
 
 ## The Tragedy of Retail Investing
@@ -360,8 +360,8 @@ appears to be much less modernized (for instance, you can set up a company
 completely online in Ontario but a cooperative requires you to mail physically
 signed documents). This all translates into more risk for cooperative
 entrepreneurs. But that's starting to change, as cooperatives become increasingly popular. 
-My [own company][Informal], though not legally an Ontario Cooperative, is set up to simulate one
-- see our [blog post on cooperative ownership][informal-owners] for
+My [own company][Informal], though not legally an Ontario Cooperative, is set up to simulate one - 
+see our [blog post on cooperative ownership][informal-owners] for
 more background research.
 
 ## Cryptocurrencies
