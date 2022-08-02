@@ -12,7 +12,7 @@ feature of money. We refuse to show the complex institution of
 money this level of disrespect. Instead we seek to honour each of the properties
 in their true glory:
 
-TWEET
+{{< tweet 1551425802893496321 >}}
 
 The properties of money are most commonly stated as the
 Unit of Account (UoA), Medium of Exchange (MoE)
@@ -31,17 +31,18 @@ structure of exchange. They took a fundamentally asynchronous process, of credit
 extension and payment, and theorized it as entirely synchronous barter exchange - as if, so they say, 
 money was a "netural veil."
 And as that conception repeatedly failed, they introduced adhoc reactionary institutional structures to
-"tame" the markets. But what they missed was the problem of liquidity - of
+"tame" the markets. But what they missed, despite it glaring at the them in the form of sovereign faces
+on coins and bills, was the problem of liquidity - of
 credit and its security, of the ability to roll over debts, and to settle payments
 when they're due. The mainstream tradition has only attempted to study this as
 the aggregate "supply" of a fictitious commodity called money, managed by all powerful
 central banks, rather than as the actual evolving web of payment obligations engulfing the world economy 
-that it is. Money is where the payments are.
+that it is. For us, money is where the payments are.
 
 Our position, at least for this piece, is that money is better considered as 
 having a more singular function, that of denominating and clearing debts, which is to say, 
 requesting and receiving payments. Money is where the payments are.
-The 3 properties can then be understood in the way that they, and the
+The three properties can then be understood in the way that they, and the
 tensions between them, contribute to the fulfilment of payments - the
 denominating and clearing of debts.
 
@@ -57,12 +58,17 @@ And that between each property, lies an essential tension:
 - MoE/SoV: legitimacy - the tension between bad and good money
 - SoV/UoA: solvency - the tension between deflation and inflation
 
-We take up each property and their respective tensions in turn. But first, 
-money itself.
+We will begin by considering money itself, as a settlement medium. We then look at
+the UoA, the denominator of debts, and its tension with the MoE, which yields
+problems of liquidity. From there we turn to the MoE, the clearing wheel 
+of the here and now, and to its tension with the SoV, a repressed battle over
+legitmacy. Finally, we turn to the SoV, the guardian of debts to be cleared
+elsewhere or later, and its tension with the UoA, which strikes as an
+existential question of solvency, of how we measure what we're worth.
 
 ## Money as Settlement
 
-We begin by considering money as an institution of settlement. By this we mean
+Consider that money is an institution of settlement. By this we mean
 an instsitution that arranges for the coordinated reduction of uncertainty in a
 domain of experience. Other common institutions of settlement are war, marriage,
 and law (religious and secular), and in a sense these comprise the
@@ -74,10 +80,10 @@ flow through society.
 
 Settlement is a curious word, since it
 also denotes the physical settlement of a group of people in a common area,
-agreeing to build their lives together in one location. Monetary settlements are
-also a reflection of how we agree to build our lives together.
+agreeing to build their lives together in one location. Monetary settlements,
+too, are a reflection of how we agree to build our lives together.
 
-Roughly speaking then, money is for making payments; for settling debts.  Money
+Thus we proclaim: money is for making payments, for settling debts!  Money
 itself is not necessarily debt, per se, though institutionally it exists largely
 to facilitate the issuance and settlement of debts. This includes commercial
 debts, but also fiscal debts, dowries, religious debts, etc.
@@ -94,8 +100,8 @@ exchange. Money is where the payments are.
 
 In this framing, we can understand the three properties of money as follows: the
 UoA allows us to denominate debts; the MoE allows us to settle those debts, here
-and now;
-and the SoV allows us to settle those debts, elsewhere or later. That is, armed with the
+and now; and the SoV allows us to settle those debts, elsewhere or later. 
+That is, armed with the
 accounting fiction of the UoA, we can denominate debts to one another (ie.
 extend eachother credit). Then, when a debt falls due, and the creditor expects
 to be repaid something with value equal to the originally denominated debt, the
@@ -104,7 +110,7 @@ debtor, in order to ensure I can settle my debts in the future (in the same or
 different UoAs!), I will seek a way to store value (SoV) in the meantime so I can gaurantee access to 
 the relevant MoE when the need to settle my debts arises.
 
-Let us consider more fully each property individually and the tensions between
+Let us now consider more fully each property individually and the tensions between
 them.
 
 ## UoA - Denominating Debts
@@ -134,8 +140,8 @@ equivalent weight as the MoE and SoV, existed for at least a couple thousand
 years before the introduction of coinage in the ~7th century BC.
 
 With the introduction of coinage, the MoE function would
-gain a new prominence, and limitations on writing, numeracy,
-and arithmetic would limit growth in the capabilities of accounting systems - the key function of the UoA.
+gain a new prominence, while limitations on writing, numeracy, and
+arithmetic would restrain growth in the capabilities of accounting systems - the key function of the UoA.
 But with the discovery of Arabian mathematics and related bookeeping techniques 
 by Italian merchant bankers in the ~13th century AD, new life was breathed into
 the UoA, unlocking powerful new mechanisms for debt denomination to restructure
@@ -144,7 +150,7 @@ society.
 With bookeeping came the flourishing of clearing and netting activities, which allow debts
 to be settled by balancing txs within and across balance sheets. The MoE of
 precious metals would give way to that of bank deposits. This is the Hierarchy
-of Money. But the ability to do clearing at each level in the hierarchy implies 
+of Money. But the ability to do clearing and netting at each level in the hierarchy implies 
 that access to a higher level of the hierarchy is only necessary in so far as 
 there are *imbalances* in the payments graph being cleared in the lower level. 
 If everyone I do business with uses the same bank, all my payments can be
@@ -166,16 +172,16 @@ equivalently to the original debt. This implies storing value somewhere else
 besides the MoE, and even bypassing the MoE altogether. This is not barter, per
 se, since the two payments happen at different points in time - the first on
 credit, the second later as repayment. Invoices in the UoA are still being
-issued and settled, but no MoE need come into existence at all, because opposing
+issued and settled, but no generally accepted MoE need come into existence at all, because opposing
 payments are simply netted. Value is instead
 stored in the real world, in the continuous productive capacities of the
 recipricol agents. This is what allows us to do netting, to perform monetary
-computation without resorting to an MoE.
+computation without resorting to the liquidity of an MoE.
 
 Of course, most agents don't have fully recipricol relations like this, allowing them
 to avoid payment in the MoE by just netting in the UoA. I pay my accountant for their services, 
 but they don't pay me for anything (at least not
-yet), so I can't do any netting with them - I have to pay them cash. 
+yet!), so I can't do any netting with them - I have to pay them cash. 
 Again, the MoE is needed in so far as there
 are imbalances in the payments graph. But every firm has many customers and many vendors, 
 and collectively they continuously create and renew a vast network of payment obligations (the "trade
@@ -191,16 +197,19 @@ in so far as there are imbalances in the payment graph.
 IMAGE
 
 More anxiously, then, we might ask how the network of payment obligations
-built up in the trade credit networks (and latter the financial networks) might
+built up in the trade credit networks (and more broadly, the financial networks) might
 relate to the general availability of MoE required to settle those imbalances.
 Say, to the extent that obligations are not part of closed loops that can be
 netted out, where and how are we to get the MoE to clear them all? Whyfore and
 from where ought there to be the liquidity?
 
 This tension, between the elasticity of the UoA and the discipline of the MoE,
-is what the entire edifice of banking and central banking wa
+is what the entire edifice of banking and central banking was
 historically erected to navigate - to enable payments to continue flowing, to
-keep things *liquid*.
+keep things *liquid*. This was done first of all by forming clearing
+consortia that could net out flows, and second by creating vouchers they called
+"reserves" that could function as an MoE within the clearing union. Concerns
+continue to abound as to the problem of responsibly issuing such reserves. 
 
 Curiously, the history of economic thought has largely failed to theorize
 correctly about this tension in the structure of the payments graph - about the
@@ -212,22 +221,49 @@ flair of secrecy. Thus the discovery of economics in the academy found itself
 largely bound up in theorizing about mutual gains to trade, where trade was
 conceived in the form of barter, and the temporal structure of the trade
 credit and payments system that served as the actual engine of trade was practically ignored.
-Instead, the cheap or practically free availability of liquidity was taken for
-granted almost as a form of mysticism, until it would seize up in the recurrent
+Instead, the cheap or practically free availability of liquidity provided by
+dealers was taken for granted almost as a form of mysticism, 
+until it would seize up in the recurrent
 liquidity crises of the last few centuries, only to be remythologized by the
 action of great priests employed by the world's central banks. 
 
+Ability to theorize about these problems wasn't wholly absent, 
+though it may, more often than not, have been overshadowed by the more
+encompassing drama of political power, and thus more difficult to penetrate the
+halls of America's most esteemed economic institutions.[^rockfeller] Keynes' *bancor* proposal at Bretton
+Woods, which was based on EF Schumachers work on multi-lateral
+clearing,[^schumacher] was a
+recognition of the need to balance the global payments graph between countries.
+This was of course rejected by the US, who was the world's largest creditor at the time.
+But not 25 years later, when the US had already become the world's largest
+debtor, and thus pushed for the creation of new reserve assets at the IMF (the
+SDRs), the European representatives insisted that there was no need for more
+reserve assets, but rather a need to balance the payments
+graph.[^superimperialism] In both cases, Europe rolled over. The legacy of the
+US incompetence in matters of sound finance persist to this day, with the
+Federal Reserve capable of doing little more than manipulating quantities of
+bank reserves and the interest rates paid on them. That the Federal Reserve, if
+not so many other central banks, has any shred of legitimacy left in its
+management of monetary affairs is a travesty.[^fed-money]
+
 Fortunately, this negligence is being addressed by a new generation of 
-scholarship following the "Money View", which puts the problem of liquidity front and
-center in understanding money and banking. But there is still a considerable amount to learn about the structure of
-the payments graph itself, and how it contributes to the problems and solutions
-of liquidity - this is a problem our team is actively pursuing, and it is revealing 
-opportunities to achieve massive liquidity savings
-across the real economy, and to form a new foundation for building
-sustainable economic systems (see TODO). At it's heart, seems to be this problem
-of what can be accounted for, and thus cleared, within the payments graph
-itself, and what must "spill out" into the domain of the MoE, and, perhaps most
-importantly, how it should spill. We turn to the MoE
+scholarship which puts the problem of liquidity front and
+center in understanding money and banking - for instance,
+Perry Mehrling's "[Money View]" and his excellent [MOOC] on
+the matter. But perhaps even more promising is what we, at [Informal Systems], are calling 
+Collaborative Finance, which is a new science of the payments graph and liquidity injection. 
+The CoFi perspective is focused on understanding the payments graph itself -
+mapping it, finding cycles, clearing them, and encouraging their sustainable growth.
+But it also gives us new insights into the optimal injection of liquidity into
+the graph - namely, liquidity can be injected in ways that optimize for network
+level properties, rather than being injected on an ad-hoc and discretionary
+basis to individual nodes by banks. This has the potential to transform the
+realm of commnunity financing and banking, not to mention how we measure
+sustainable economic growth itself.
+
+At the heart of this thinking is the problem of imbalances in the payment graph - 
+what can't be accounted for and thus cleared in the UoA alone,
+and how it must "spill out" into the domain of the MoE. We turn to the MoE
 next.
 
 ## MoE - Settling Debts, Here and Now
@@ -236,7 +272,7 @@ The Medium of Exchange allows us to settle our debts, here and now.
 Traditionally, as we've noted, the MoE is taken as the 
 primary property of money - not as a way to settle asynchronous debts, 
 but as a the means to engage in indirect but synchronous exchange. In this view,
-the UoA can be taken for granted as a mere numeraire, a simple mathematical
+the UoA is largely taken for granted as a mere numeraire, a simple mathematical
 convenience for commensurability, and money itself is largely
 dismissed as a "neutral veil" over the "real" world of production and trade.
 
@@ -254,7 +290,7 @@ for later. It provides liquidity, a hedge against the uncertainty lying awake in
 payment obligations.
 
 An imbalance in the payments graph means that there are nodes receiving more
-than they're paying, and vice versa - nodes saving more than they're spending (in
+than they're paying, and vice versa - there's nodes saving more than they're spending (in
 the current moment), and others spending more than they're saving. 
 A node can only continuously benefit from an imbalance if either (1) others are
 at a continuous detriment or (2) new money is being created. Perhaps obvious,
@@ -265,7 +301,7 @@ about creating money, about provisioning of the MoE.
 
 For a few thousand years, the primary MoE was metal coins. This is not to say
 all commerce was done using coins - much of it was done on credit, from simple
-tabs at the pub to complex networks of bills of exchange, early forms in the
+tabs at the pub to complex networks of bills of exchange, there were many early forms in the
 hierarchy of money. But at the end of the day, 
 metal coins were a dominant means for final settlement of imbalances in the payment graph.
 
@@ -325,13 +361,14 @@ would change, but it would remain a partnership nonetheless. Pressure on the MoE
 to evolve thus comes from both the public and the private sector - from the
 public sector, usually to improve the ability to finance war, and from the
 private sector, usually to improve the ability to conduct commerce (which
-broadly speaking we might try to understand as improving velocity TODO link). 
+broadly speaking we might try to understand as improving
+[velocity](https://ebuchman.github.io/posts/velocity/). 
 
 Such public-private collaboration permeates the entire essence of money.
 And as alluded to, the kind of money we use is itself a form of settlement between
-public and private sectors of life. But the problem of provisioning the MoE,
+the various sectors. But the problem of provisioning the MoE,
 and essentially, the element of choice or diversity in what the MoE could be,
-highlightss a key tension between the MoE and the SoV - that of legitimacy. 
+highlights a key tension between the MoE and the SoV - that of legitimacy. 
 While the structure of accounting (the UoA) is basically declared unilaterally by the State, 
 and the nature of value (the SoV) can be decided by each individual, the MoE
 requires a continuous dance between the too to guarantee its legitimacy.
@@ -372,17 +409,17 @@ a kind of computational phenomenon - the payments graph. In this graph, the MoE
 and SoV play distinct roles in resolving uncertainties about future obligations
 in the graph. We might consider a theory of value, then, to proceed from a
 consideration of its relationship with obligations - which is to say,
-commitments to fulfill particular outcomes in a particular time. What does it
-take to control the future?
+commitments to fulfill particular outcomes in a particular time - in other
+words, to control the future.
 
-The most straightforward way to guarantee outcomes is by violence. Simply be
+The most straightforward way to control the future is by violence. Simply be
 stronger and more brutal than anything or anyone you might encounter and need to subdue.
 This strategy has been a mainstay of human history, and it has given
 overwhelming emphasis to stores of value that are effective in commanding political violence,
 which is where precious metals in particular have excelled. 
 As Colin Drumm has put it, metal in the coin is the King issuing an option on
 rebellion, for the baron can melt his coins for metal and hire foreign
-mercenaries. The ultimate success
+mercenaries. But the ultimate success
 of the strategy of violence to control the future, while always a threat, is not
 guaranteed. If not defeated on the ground of political awakening, it is ultimately defeated by
 Nature herself, against whose strength and brutality, especially on a global
@@ -408,15 +445,15 @@ between what I have "in common" with my neighbour compared to what I might have
 in comon with someone on the other side of the planet. True, the ravages of
 globalization have ameliorated that somewhat, but the physicality of our existances and
 the problems of energy and transport constrain us such that we do have something
-more in common with our neighbour than our pen pal, and that is for lack of a
+more in common with our neighbour than our pen pal, and that is, for lack of a
 better word, our local Nature. We might consider, then, that our monetary system
 could be storing value at difference scales, differently according to the
-commonolaties we face at each scale and the locally uncertainties we need to
+commonolaties we face at each scale and the local uncertainties we need to
 hedge. 
 
 This observation has not been lost on the history of monetary experiments, and
 more than one European nation has found itself trying to issue currency backed
-by Land - that is, where land, rather than precious metal, serves as the SoV. 
+by Land[^land-notes] - that is, where land, rather than precious metal, serves as the SoV. 
 These cases tend to end in disaster, not least because of the inability to meaningfully
 redeem a banknote (MoE) for the land (SoV) it supposedly represented. Redemption
 is the means of "challenging" the proof of the MoE, and the presence of
@@ -426,18 +463,18 @@ of financial soundness.
 More generally, we might say that historical land owners (say feudal lords)
 could also hedge the uncertainty of the payments graph by storing value in their
 estate. This does not mean they used their estate as an SoV in a monetary system
-per se. though they could and did use components of their estate to
-settle various debts, for instance by selling of a piece of their land, or even
+per se, though they could and did use components of their estate to
+settle various debts, for instance by selling off a piece of their land, or even
 by marrying off their daughter. But the self-sufficiency of an estate is itself
 a hedge against the uncertainties of the existence of a payments system, and in
 this sense, we might take the ultimate store of value to be the self-sufficient
 community.
 
 What are we to say about the relation between such an ideal store of value, in
-natural and social capital, and the necessities of a SoV for a monetary system?
+self-sustaining natural and social capital, and the necessities of a SoV for a monetary system?
 Obviously there is the problem of constructing the MoE in a way that it
 meaningfully represents the value stored, and is redeemable for it. And a sound
-system must have regular and healthy run ins with redemption. Exactly how to go
+system must have regular and healthy run ins with redemption.[^free-banking] Exactly how to go
 about structuring such systems remains an open question.
 
 Answering these question will require dramatically improved ways of theorizing
@@ -451,7 +488,25 @@ of how monetary media should be provisioned against the current realtiy of the
 production system. In its worst, MMT is naive communism in new garb, but at its
 best, it's a genuine attempt to integrate the various heterodox schools into a
 more sustainable political economy. In any case, MMT and cryptocurrencies appear
-as almost archetypal hostile siblings, wrestling over the future of money. 
+as almost archetypal hostile siblings, wrestling over the future of money (see
+my [post][mmt] on the matter).
+
+... TODO ...
+
+Both cryptocurrencies and MMT raise questions about a tension between the SoV
+and the UoA.
+
+- value stored in capital stock. uoa/sov
+- self sufficiency (but war)
+- UoA/SoV of modern econ
+- money without MoE
+- storing value lets us clear without MoE
+- encoding system
+- inflation/deflation. different for different parts at diff times
+- the tension, solvency.
+
+
+---
 
 Earlier we noted the possibility of monetary settlement in-kind, of settling a
 debt denominated in the UoA by producing something else, something not the MoE,
@@ -472,57 +527,10 @@ and rewards of monetary organization so that they can afford the output of their
 collective production.
 
 
-... TODO ...
 
+## Settling Up
 
-In a curious sense, by proclaiming the MoE as the most important property of
-money, the economic mainstream proceeded to basically ignore it so they could 
-
-While many theorists of money have held out for the prospect of a monetary system without an MoE,
-
-has been held out
-for by many a theorist about money, we rather here consider the relationship
-    between the UoA and stores of value in the world 
-
-Ultimately, both cryptocurrencies and MMT raise questions about the third
-tension, between the SoV and the UoA. Cryptocurrencies brazenly simplify by
-
-Returning to self-sufficiency. 
-that you can print your own money without inflation to the extent you are
-self-sufficient.
-
-
-
-- increasingly value gets stored in capital stock. bring us back to relation
-  between sov and uoa
-- sov is a hedge. barrons. gold. bitcoin (current inflation is deflation)
--  uoa. inflation/deflation. economics
-
-
-
-Disciplined by the problem of FX to the extent you're not self sufficient. 
-And no ones really self sufficient because of war. So need to integrate the
-system.
-
-Religions have value because they manage the uncertainties of time, even if they
-cant explain why or have bad answers. In this sense they hold a representation
-of the world. States too hold representations, with far more "data", but its
-unclear what level of coherence. 
-
-In order for an organism to hedge the vagaries of time - to be sustainable - it must internally
-maintain a representation, within its structure, of the world that drives it. 
-The problem of economics, of managing the home, is effectively that, 
-to meaningfully represent the world. 
-
-
-
-recipricol agents. This is what allows us to do netting, to perform monetary
-computation without resorting to an MoE (storing value in real world)
-
-
-Conclusion - Settling Up
-
-tension in all 3. need new econ
+conclusion. tension in all 3. need new econ
 - uoa/moe: problem of clearing. money view.
 - moe/sov: payments infra. engineering. tech that delviers the sov.
 - uoa/sov: where trad econ tried to lodge. doesnt undersstand thatss what itss
@@ -530,8 +538,21 @@ tension in all 3. need new econ
   work on uoa/sov new theoory of currency areas. ecological econ.
 
 
+[Informal Systems]: https://informal.systems/
+[Money View]: todo
+[MOOC]: todo
+[mmt]: https://ebuchman.github.io/posts/mmt/
 
-
+[^superimperialism]: See Hudon's Superimperialism, pg 348, and more generally
+  for the relevant history of negotiations over the structure of teh global monetary.
+[^rockfeller]: Notable in this regard is TODOs quote that his endowment to the
+  University of Chicago was the best investment he ever made.
+[^schumacher]: TODO note on schumacher and on gesell.
+[^fed-money]: TODO note on fed giving up defining money and pivoting to
+  expectations. eurodollar university.
+[^land-notes]: TODO note on france and germany
+[^free-banking]: TODO note on soundness of Canadian banking system due to
+  redemption.
 
 
 
