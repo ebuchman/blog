@@ -37,7 +37,7 @@ misconceived as such. If you constrain your view of an agent to the wrong
 timescale, you will fail to understand their game; you will underestimate their
 advantage. Chances are, if you're another blockchain project, Cosmos is not your
 competition. Cosmos is altering the landscape in which you yourself are
-competing. Cosmos competes with the incumbent systems of political economic
+competing. Cosmos competes with incumbent systems of political economic
 expression. But it will not pretend it knows exactly what to do there, not yet
 anyways. These are complex systems built up over thousands of years. What we do
 know is that we're sure as hell nowhere close to done. We're just getting
@@ -45,18 +45,18 @@ started.
 
 So what is this **_Integration_** phase about? While the **_Initiation_** phase had to
 create the interchain world, the **_Integration_** phase was born in it, molded by it.
-**_Initiation_** positioned Cosmos as the interchain ecosystem; it demonstrated the
+**_Initiation_** positioned Cosmos as _the_ interchain ecosystem; it demonstrated the
 validity of the Cosmos thesis of blockchain design. It transformed the field in
 which other blockchains play. But **_Integration_** must take us beyond that; it must
 demonstrate that Cosmos has the fortitude to play in the big leagues, in the
-domain of real-world political economy. If it is to compete with the incumbent
+domain of real-world political economy. If it is to compete with incumbent
 systems of political economic expression and organization, the **_Integration_** phase
 is where it must demonstrate it can be taken seriously to do so.
 
 We have not yet tried to articulate exactly what must be done in the
 **_Integration_** phase. It would have been too difficult to say in advance. But clarity on the
 **_Integration_** phase is coming sharply into focus this month, as many threads,
-years and months in the making, are converging on September 2022.
+years and months in the making, are converging on September, 2022.
 
 The dawn of the **_Integration_** phase can only be understood in the context of what
 came before it, in the particular history of the **_Initiation_** phase. That history
@@ -121,8 +121,8 @@ money. But we still don't have a particularly sophisticated way of thinking or
 talking about it. This is something we're going to have to get serious about
 during **_Integration_**.
 
-For the Cosmos Hub, Interchain Security and Liquid Staking means it no longer
-needs an exponential issuance model to modulate between security and liquidity
+For the Cosmos Hub, the combination of Interchain Security and Liquid Staking reduces the
+need for an exponential issuance model to modulate between security and liquidity
 above the targeted staking ratio. Which means the way the Cosmos Hub approaches
 the issuance of its native token can be fundamentally changed. The forthcoming
 paper proposes one such change. But if by sound money we mean to imply some kind
@@ -150,8 +150,8 @@ complexity birthed by the Initiation phase. The burgeoning network of sovereign
 interoperable blockchains. The diversification of organizations coordinating its
 ongoing development. The role of a Hub in a dense mesh. While the later stages
 of the **_Initiation_** phase were steeped in a kind of proliferation, perhaps a
-diffusion, the task of the **_Integration_** phase is a process of, well, integration
-- integration of organizations, protocols, communities.
+diffusion, the task of the **_Integration_** phase is a process of, well, integration - 
+integration of organizations, protocols, communities.
 
 Key to the maturation taking place during the **_Integration_** phase is
 organizational transformation. The original Cosmos Whitepaper makes reference to
@@ -162,10 +162,10 @@ development team behind Cosmos. But since 2020, it has taken a back seat to
 mainline development, which has spread out across a number of orgs, largely
 under the stewardship of the ICF. The ICF has done a solid job in funding the
 development of the Cosmos stack, and countless organizations from across the
-ecosystem have stepped up to make critical contributions, but the ICFwasn't well
+ecosystem have stepped up to make critical contributions, but the ICF wasn't well
 prepared for the organizational restructuring that was suddenly thrust upon it
 in 2020, and it has found itself in a largely reactive mode since. But in
-September 2022, that tide is shifting, too.
+September, 2022, that tide is shifting, too.
 
 I have been spearheading an effort to upgrade and professionalize the workings
 of the ICF. More fundamentally, this is an exercise in trust building between
@@ -209,16 +209,22 @@ But the interchain is not an end - it's a new substrate for political economic
 expression. If we are to meaningfully upgrade legacy institutions we must
 approach sustainability in a broader sense, beyond the cryptoeconomies of our
 online communities, and into the material processes that sustain our societies.
-This means a more fundamental assessment of the role played by money in
+This requires a more fundamental assessment of the role played by money in
 organizing political economic life. A deeper understanding of the nature of
 money, its varying properties, the tensions between them, and what it all means
 in the interchain.
 
-A new approach to money is something we're pursuing at Informal Systems. We call
-it Collaborative Finance. It provides a new way to think about money as a system
-of promises that stitch together communities. And by understanding better the
-patterns in the promises we make together, perhaps we can figure out what it
+A new approach to money is something we're pursuing at [Informal Systems](https://informal.systems/). 
+We call
+it [Collaborative Finance](https://twitter.com/buchmanster/status/1560363640267620357). 
+It provides a new way to think about money as a system
+of promises that weaves together communities. And by understanding better the
+patterns in the promises we make, perhaps we can figure out what it
 means to achieve sustainable growth. Isn't that the whole point of this
-blockchain revolution?\ This is what **_Integration_** is all about. And only once we
+blockchain revolution anyways?
+
+This is what **_Integration_** is all about. And only once we
 pass through it, can we then move onto our third phase, which we might as well
 call: **_Illumination_**.
+
+✌️
