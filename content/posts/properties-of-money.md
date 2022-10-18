@@ -69,22 +69,14 @@ also denotes the physical settlement of a group of people in a common area,
 agreeing to build their lives together in one location. Institutions of monetary settlement
 are also a reflection of how we agree to build our lives together.
 
-For the sake of our argument, let us proclaim here: 
-money is for making payments, for settling debts! 
-This is not to say that money is debt itself, though it can be. The distinction
-between money and credit is thousands of years old, and through much of that, money meant
-something material, something with no inherent counterparty
-risk - generally, metal. Of course most money today is credit (bank balance sheet entries),
-but it doesn't mean all money is or must be, even if, institutionally, money
-exists to facilitate the issuance and settlement of debts, be they commercial debts,
-fiscal debts, legal debts, religious debts, dowries, etc.
-
-In this framing, we can understand the three properties of money as follows: the
+With this framing in mind, of money as an institution for payments - for
+settling debts - we can think about the three properties of money as follows: the
 Unit of Account allows us to denominate debts; the Medium of Exchange allows us to settle those debts, here
 and now; and the Store of Value allows us to settle those debts, elsewhere or later. 
+
 That is, armed with the
-fiction of an accounting unit, we can denominate debts to one another (i.e.
-extend each other credit). Then, when a debt falls due, and the creditor expects
+fiction of an accounting unit, we can denominate debts to one another
+(i.e. extend each other credit). Then, when a debt falls due, and the creditor expects
 to be repaid something with value equal to the originally denominated debt, the
 debtor can conjure a means of settling the debt here and now. And as a
 debtor, in order to ensure I can settle my debts in the future (in the same or
@@ -94,14 +86,14 @@ whenever that might be.
 
 ## Properties and Tensions
 
-To summarize, the properties of money can be understood as follows:
+To summarize, we can consider the properties of money as follows:
 
 - the Unit of Account is for denominating debts
 - the Medium of Exchange is for clearing debts, here and now
 - the Store of Value is for clearing debts, elsewhere or later
 
-This is all relatively straight forward. But what we'd like to explore in
-this series are the tensions that lie between each pair of properties.[^inspiration]
+This is all relatively straight forward. But what we'd like to explore 
+are the tensions that lie between each pair of properties.[^inspiration]
 It is within these tensions, we suspect, that money finds its character,
 and that we might find a more complete understanding of how the global monetary order is
 failing, and what, if anything, we might be able to do about it.
@@ -148,7 +140,7 @@ valuation.
 [^inspiration]: This characterization was inspired partially by Colin Drumm's
   [tweet](https://twitter.com/drumm_colin/status/1363988893075337218)
   and work, and by the [Collaborative Finance](https://twitter.com/buchmanster/status/1558642981518942209) team at Informal Systems.
-
+[^universe]: Or having only the physical laws of the universe as counterparty!
 
 
 
