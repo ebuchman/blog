@@ -20,7 +20,8 @@ Unit of Account (UoA), Medium of Exchange (MoE)
 and Store of Value (SoV).[^properties-payments] Typically, in the history of economic thought, the Medium of Exchange
 is taken as the most important, as economics is about exchange, and money is its
 means. But the credit and Chartalist schools of the early 20th century have
-experienced a renaissance in the last few decades, challenging the
+experienced a renaissance in the last few decades (most popularly in the form of
+[MMT][MMT]), challenging the
 hegemony of the Medium of Exchange, and pronouncing in retribution the
 supremacy of the Unit of Account. Naturally, there are also those who worship the Store of Value, 
 but they are more likely to be either gold bugs, crypto bros, 
@@ -114,14 +115,14 @@ global monetary order that conflates them within a single all powerful currency
 unit, the dollar. But such a totalizing monetary construction is unique in the
 history of monetary systems, which are characterized by a plurality of monetary
 forms and substances that unbundle the properties of money and bridge across different domains and scales of
-exchange. Even the dollar system has the properties of money effectively unbundled between the USD as the Unit of Account, 
+exchange.[^globalhistory] Even the dollar system has the properties of money effectively unbundled between the USD as the Unit of Account, 
 the eurodollar as the Medium of Exchange, and the US Treasury Security as the Store of Value. But by running
-our economies effectively blind to the underlying reality of these tensions, we have more or less
+our economies effectively blind to the underlying reality of these tensions, we have 
 precipitated a perpetual crisis in the liquidity, legitimacy, and solvency of our monetary order. 
-Surely this is something we will want to understand better.
+Surely this is something we need to understand. This series hopes to help.
 
-Each of the posts that follow will explore each of the properties of money, along with one of
-its tensions. First, we will look at the Unit of Account, the denominator of debts, and its tension with the Medium of Exchange, which yields
+We expect the series will proceed with the following posts.
+First, we will look at the Unit of Account, the denominator of debts, and its tension with the Medium of Exchange, which yields
 the problem of liquidity. From there we will turn to the Medium of Exchange, the clearing wheel 
 of the here and now, and to its tension with the Store of Value, a repressed battle over
 legitimacy. Finally, we will turn to the Store of Value, the guardian of debts to be cleared
@@ -129,8 +130,12 @@ elsewhere or later, and its tension with the Unit of Account, which strikes as a
 existential question of solvency, of how we measure what we're worth. Perhaps
 finally, or even throughout, we will discover something about sovereignty, about how we define who we even are.
 
-Stay tuned.
+This is our ambition anyways. Stay tuned.
 
+[MMT]: https://ebuchman.github.io/posts/mmt/
+[end-of-finance]: https://www.wiley.com/en-ca/The+End+of+Finance-p-9780745651118
+[global-history-money]: https://www.routledge.com/A-Global-History-of-Money/Kuroda/p/book/9780367859237
+[Informal Systems]: https://informal.systems/
 
 [^properties-payments]: Sometimes "means of payment" or "means of settling debt" are considered as a
 fourth property of money, but as we'll see, we'd rather think of this as actually the key
@@ -139,9 +144,9 @@ it's about settling debt, which includes its denomination, transfer, and
 valuation.
 [^inspiration]: This characterization was inspired partially by Colin Drumm's
   [tweet](https://twitter.com/drumm_colin/status/1363988893075337218)
-  and work, and by the [Collaborative Finance](https://twitter.com/buchmanster/status/1558642981518942209) team at Informal Systems.
+  and [work](https://twitter.com/drumm_colin/status/1468779685916012546), and by the [Collaborative Finance](https://twitter.com/buchmanster/status/1558642981518942209) team at [Informal Systems].
 [^universe]: Or having only the physical laws of the universe as counterparty!
-
-
-
+[^globalhistory]: For a phenomenal review of money's historical plurality, see Akinobu Kuroda's [*A Global History of Money*][global-history-money]. For the story of how the properties of money ended up bundled together in
+what would become the Gold Standard and eventually our modern Dollar system, see
+Amato and Fantacci's [*The End of Finance*][end-of-finance]
 
