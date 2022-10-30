@@ -1,7 +1,9 @@
 --- 
 title: "The Properties of Money" 
-date: 2022-10-16
+date: 2022-10-30
 draft: false 
+description: "This is the introductory post in a series on the properties of money and the
+tensions between them."
 ---
 
 *This is the introductory post in a series on the properties of money and the
