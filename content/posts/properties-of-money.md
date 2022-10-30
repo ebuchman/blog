@@ -91,9 +91,9 @@ whenever that might be.
 
 To summarize, we can consider the properties of money as follows:
 
-- the Unit of Account is for denominating debts
-- the Medium of Exchange is for clearing debts, here and now
-- the Store of Value is for clearing debts, elsewhere or later
+- the **Unit of Account** is for **_denominating debts_**
+- the **Medium of Exchange** is for **_clearing debts, here and now_**
+- the **Store of Value** is for **_clearing debts, elsewhere or later_**
 
 This is all relatively straight forward. But what we'd like to explore 
 are the tensions that lie between each pair of properties.[^inspiration]
