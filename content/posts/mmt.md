@@ -8,9 +8,15 @@ cryptocurrencies. But MMT still has some ways to go to become the ecologically a
 desperately need"
 ---
 
-Disclaimer: This critique is based almost entirely on a reading of Stephanie
+*Disclaimer: This critique is based almost entirely on a reading of Stephanie
 Kelton's popularization of MMT, The Deficit Myth. I have yet to really
-dive into the MMT academic literature.
+dive into the MMT academic literature.*
+
+*Update: I've read plenty more MMT and MMT-adjacent literature by now, and
+believe the thrust of my points here still stand :). MMT is refocusing economics on an important set
+of ideas: monetary sovereignty, the resource constraint, and a basic jobs program. There are curious parallels to
+cryptocurrencies. But MMT still has some ways to go to become the ecologically and socially sound theory of money we so
+desperately need.*
 
 ## MMT 
 
