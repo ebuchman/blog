@@ -111,4 +111,4 @@ the general public. This is one of the promises of local money.
 [Liquidity Saving Mechanisms]: https://www.mdpi.com/1911-8074/13/12/295
 [CHIPS]: https://www.theclearinghouse.org/payment-systems/chips
 [LCH]: https://www.lch.com/
-[Someone Just Turned the Lights On]: https://mutualcredit.services/2021/02/18/someone-just-turned-the-lights-on/
+[Someone Just Turned the Lights On]: https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on
