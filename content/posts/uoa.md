@@ -1,54 +1,25 @@
 --- 
-title: "UoA - Denominating Debts"
-date: 2022-07-31
+title: "Properties of Money, Part I - Accounting for Liquidity"
+date: 2022-12-11
 draft: false 
 ---
 
-Notes
-- writing allows UoA to be written, used for deliberate compute
-- pre writing UoAs were more "organic" compute (?). kinship logic vs state logic
-- writing allows new MoEs to emerge - be constructed
-    - previous MoEs were materials. tuned to circuits of exchange.
-
-- origin of money in the accounting for reproductive and destructive capacity: 
-    - dowries.  
-        - circulation of women
-    - sacrifice
-        - circulation of justice
-- logic of kinship
-- when it starts to get written down, get a new sort of state money. writing was
-  first done by states.
-
-- mention dawn of everything, cyclic societies
-
-Outline
-- Origins - Reproducing families and states
-    - circuits.
-- Metals in the money
-- Coinage (?)
-- Balancing the Books
-- Cycles
-
-
-
-----
-
-*This post is part of a [series on the properties of
+*This is part I in a [series on the properties of
 money](/properties-of-money)*
 
-In the introduction we outlined out basic depiction of the properties of money:
+In the introduction we outlined the properties of money:
 
-- the Unit of Account is for denominating debts
-- the Medium of Exchange is for clearing debts, here and now
-- the Store of Value is for clearing debts, elsewhere or later
+- the _Unit of Account_ is for denominating debts
+- the _Medium of Exchange_ is for clearing debts, here and now
+- the _Store of Value_ is for clearing debts, elsewhere or later
 
 And the tensions between them:
 
-- UoA/MoE: **liquidity** - the tension between elasticity and discipline
-- MoE/SoV: **legitimacy** - the tension between "bad" and "good" money
-- SoV/UoA: **solvency** - the tension between deflation and inflation
+- _UoA/MoE_: **liquidity** - the tension between elasticity and discipline
+- _MoE/SoV_: **legitimacy** - the tension between "bad" and "good" money
+- _SoV/UoA_: **solvency** - the tension between deflation and inflation
 
-Here we explore the Unit of Account, and its tension with the Means of Exchange, what we call *liquidity*.
+Here we explore the Unit of Account, and its tension with the Medium of Exchange, what we call *liquidity*.
 
 ## Origins: Reproducing Families and States
 
@@ -65,9 +36,9 @@ older of the two. The political origin is embedded in the logic of states and wr
 of grain inventories and tax collection, payments for food and labour. 
 Throughout the 5000 year history of
 monetary institutions, these two threads have become intimately bound up and
-entangled. But we would do well to keep track of their difference - as we will
-see, they represent the basic distinction between outside and inside money.
-And each flows in its own way, representing different kinds of circuit.
+entangled. But we would do well to keep track of their difference - for as we will
+see, each flows in its own way, representing different kinds of circuits, and a
+basic distinction between outside and inside money.
 
 In our anthropological money, the accounting follows the logic of kinship, of
 the circulation of reproductive power (women) and divine grace (justice). 
@@ -126,7 +97,7 @@ precious things. Thus we confront the duality of inside and outside money.
 Inside money is written money, it's money
 that is someone else's liability, money that is but an IOU. It is our political
 money. Outside money is
-physical money, it's no one's liability, it is pure asset. It is our
+physical money, it's no one's liability (but nature's!), it is pure asset. It is our
 anthropological money. The history of money, since the shekel, is one of a great
 tension between these two types of money, between inside and outside, nominal
 and metal, political and anthropological. 
@@ -135,7 +106,7 @@ With the introduction of coinage, the Medium of Exchange would
 gain a new kind of accessibility and prominence. We will have more to say about
 coins in a later piece. But the technology
 of written accounts - of accounting - would not evolve considerably 
-for centuries until the development of Arabian methematics and related
+for centuries until the development of Arabian mathematics and related
 bookeeping techniques in the late first millenium AD. 
 And as these developments found their way to Italian merchant banking
 communities in the ~13th century AD, they breathed new life into the Unit
@@ -151,29 +122,44 @@ the emergence of bookeeping and the increasing adoption of bank deposits as
 means of exchange. Bank deposits are the most common example of the emergence of
 a widely successful inside money.
 
-Bookeeping enabled clearing and netting activities to flourish.
+Bookeeping and banking enabled clearing and netting activities to flourish.
 Clearing and netting allow debts to be settled by balancing txs within and across balance sheets,
 without resorting to a medium "higher" in the hierarchy. If I owe you, I can pay
 you with outside money like gold - this is the highest level in the hierarchy. 
 But if we both have an account at the same bank, I can pay you by the bank simply updating its balance sheet to owe me less
-and you more - so we can clear debts at a lower level in the hierarchy, on the bank's balance sheet. 
+and you more - so we can clear debts at a lower level in the hierarchy, without resorting to gold, 
+directly on the bank's balance sheet. 
 And if you and I have continuous bilateral obligations, where I owe you and
 later you owe me, we could continuously renew and redeem monetary debts to
-one another without ever having to transfer any money, just by keeping bilateral accounts
+one another without ever having to transfer any kind of money at all, just by keeping bilateral accounts
 between ourselves - the lowest level in a hierarchy of money, our
 own IOUs. 
 
-The point of this illustration is to demonstrate that access to a higher level of the hierarchy is only necessary in so far as 
-there are *imbalances* in the payments graph being cleared in the lower level. 
-This hints at a deep tension between the UoA and the MoE - between
-the elasticity permitted by the Unit of Account and the discipline asserted by the Medium of Exchange. 
-The UoA permits us to create computational spaces where we can account for debts and net out payments.
-But to the extent there is insufficient bandwidth or capacity in that space,
-computation must "spill" out into a medium "higher" in the hierarchy.
+This hierarchy is a hierarchy of computational spaces, where each space
+constitutes its own medium for the clearing of payments. The line begins to blur
+between the Unit of Account and Medium of Exchange. The term Medium of Exchange becomes more relative,
+referring primarily to the medium one level up the hierarchy. 
 
-The UoA allows debts to be denominated, but it does not in itself prescribe
+So you and I can keep track of what we owe eachother, and maybe do some netting, 
+but our real Medium of Exchange is our bank deposits, which we'll use
+if an imbalance between us persists too long. And while banks can do simple
+netting between accounts kept at their own bank, payments between accounts at
+different banks require them to go one level up the hierarchy, to the
+Medium of Exchange of bank reserves. And so on. 
+
+The point of all this is to demonstrate that access to a higher level of the hierarchy is only necessary in so far as 
+there are *imbalances* in the payments graph being cleared in the lower level. 
+We find here the deep tension between the Unit of Account and the Medium of
+Exchange - between the elasticity permitted by the Unit of Account and the discipline asserted by the Medium of Exchange. 
+The Unit of Account permits us to create computational spaces where we can account for debts and net out payments.
+But to the extent there is insufficient bandwidth or capacity in that space,
+insufficient balance, computation must spill out into a medium higher in the hierarchy, in order for debts to settle.
+
+## Settling Up
+
+The Unit of Account allows debts to be denominated, but it does not in itself prescribe
 how they should be settled. Many governments will endow a particular medium of exchange
-with legal tender law (eg. banknotes and coins), while other media of exchange
+with legal tender status (eg. banknotes and coins), while other media of exchange
 continue to be used alongside them (fintech, banks).
 Debts can also be settled in-kind, which is to say by something else valued in the Unit of Account
 equivalently to the original debt. This implies storing value somewhere else
@@ -183,7 +169,7 @@ the ideal way to settle is to bypass the transfer of any medium
 altogether, and instead to have a pattern of reciprocol obligations. I owe you,
 and later, you will owe me. Then we'll be able to net.
 
-This isn't barter, since invoices are being issued and settled in a Unit of
+This isn't barter, since it's not synchronous. Invoices are being issued and settled in a Unit of
 Account. We might call it countertrade on credit, since both sides make reference to a common unit of account 
 and payment may be deferred, but no generally accepted medium of exchange need come into existence at all, because opposing
 payments are simply set-off against eachother. Value is instead
@@ -199,6 +185,7 @@ Again, the Medium of Exchange is needed in so far as there
 are imbalances in the payments graph. But every firm has many customers and many vendors, 
 and collectively they continuously create and renew a vast network of payment obligations (the "trade
 credit" network), which is at the core of the real economy.  
+
 And within this network, we can ask about the patterns of flow, and in particular whether there
 are closed loops ("cycles") that can be settled like this without the need for
 balances in a medium of exchange to materialize or flow. 
@@ -290,4 +277,16 @@ what can't be accounted for and thus cleared in the UoA alone,
 and how it must "spill out" into the domain of the Medium of Exchange. 
 We turn to the Medium of Exchange, and its tension with the Store of Value, next.
 Stay tuned.
+
+
+[Informal Systems]: https://informal.systems/
+[Money View]: todo
+[MOOC]: todo
+[mmt]: https://ebuchman.github.io/posts/mmt/
+
+[^superimperialism]: See Hudon's Superimperialism, pg 348, and more generally
+  for the relevant history of negotiations over the structure of teh global monetary.
+[^rockfeller]: Notable in this regard is TODOs quote that his endowment to the
+  University of Chicago was the best investment he ever made.
+[^schumacher]: TODO note on schumacher and on gesell.
 
