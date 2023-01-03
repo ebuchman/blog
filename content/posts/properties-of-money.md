@@ -1,5 +1,5 @@
 --- 
-title: "The Properties of Money" 
+title: "The Properties of Money - Intro"
 date: 2022-10-30
 draft: false 
 description: "This is the introductory post in a series on the properties of money and the
@@ -117,13 +117,15 @@ global monetary order that conflates them within a single all powerful currency
 unit, the dollar. But such a totalizing monetary construction is unique in the
 history of monetary systems, which are characterized by a plurality of monetary
 forms and substances that unbundle the properties of money and bridge across different domains and scales of
-exchange.[^globalhistory] Even the dollar system has the properties of money effectively unbundled between the USD as the Unit of Account, 
-the eurodollar as the Medium of Exchange, and the US Treasury Security as the Store of Value. But by running
-our economies effectively blind to the underlying reality of these tensions, we have 
-precipitated a perpetual crisis in the liquidity, legitimacy, and solvency of our monetary order. 
+exchange.[^globalhistory] Even the dollar system has the properties of money effectively unbundled,
+where the Unit of Account is the USD, the Medium of Exchange is the eurodollar,
+and the Store of Value consists of US Treasury Securities.
+But by running our economies effectively blind to the underlying reality of
+these tensions, we have precipitated a perpetual crisis in the liquidity,
+legitimacy, and solvency of our monetary order.
 Surely this is something we need to understand. This series hopes to help.
 
-We expect the series will proceed with the following posts.
+Each of the posts that follow will explore one of these three properties of money, along with one of its tensions.
 First, we will look at the Unit of Account, the denominator of debts, and its tension with the Medium of Exchange, which yields
 the problem of liquidity. From there we will turn to the Medium of Exchange, the clearing wheel 
 of the here and now, and to its tension with the Store of Value, a repressed battle over
