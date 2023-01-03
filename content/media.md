@@ -1,5 +1,6 @@
 ---
 title: "Media"
+showpagemeta: false
 ---
 
 I often speak on podcasts and at conferences. 
@@ -17,6 +18,8 @@ existentialism](https://theblockchainsocialist.com/the-heterodox-politics-of-the
 - 2018-03-26: **Software Engineering Daily** - [Consensus Systems with Ethan Buchman](https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman/)
 
 A more complete list can be found below. 
+
+---
 
 ## Podcasts
 

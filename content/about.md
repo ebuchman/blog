@@ -1,5 +1,6 @@
 ---
 title: "About"
+showpagemeta: false
 ---
 
 Hi! I'm Ethan Buchman. I grew up in Toronto, Canada,

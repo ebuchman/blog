@@ -1,5 +1,6 @@
 ---
 title: "Subscribe"
+showpagemeta: false
 ---
 
 Subscribe below and I'll email you every time I put out a new post.
