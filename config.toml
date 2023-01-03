@@ -52,4 +52,5 @@ disqusShortname = "ebuchman-blog"
   github = "ebuchman"
   linkedin = "ethan-buchman-10b34944"
   keybase = "ebuchman"
+  rss = "https://ebuchman.github.io/posts/index.xml"
 
