@@ -9,7 +9,7 @@ Institutions and Political Economy; Proof of Work and International Trust;
 Mining is Not as Bad As You Think; What About Proof of Stake?"
 ---
 
-<img src="/img/btc.png" alt="Bitcoin Logo" width="200"/>
+{{<figure src="/img/btc.png" alt="Bitcoin Logo" width="200">}}
 
 Table of Contents:
 
