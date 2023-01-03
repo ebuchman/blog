@@ -37,6 +37,12 @@ disqusShortname = "ebuchman-blog"
   weight = 200
   url = "/media/"
 
+[[menu.main]]
+  name = "Subscribe"
+  identifier = "subscribe"
+  weight = 1000
+  url = "/subscribe"
+
       
 
 
