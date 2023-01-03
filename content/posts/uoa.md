@@ -1,5 +1,5 @@
 --- 
-title: "Properties of Money, Part I - Accounting for Liquidity"
+title: "The Properties of Money - Accounting for Liquidity"
 date: 2022-12-11
 draft: false 
 ---
@@ -27,40 +27,47 @@ The Unit of Account allows us to denominate debts.
 It is an accounting device for managing the reproduction of human societies.
 But where does it come from and what does it account for? 
 
-Following the line of inquiry of the Mimbres School, consider that there
-are two distinct origins of money, and with it the Unit of Account. We might
+Consider that there are two distinct origins of money, and with it the Unit of Account. We might
 call these the "anthropological" origin and the "political" origin. The
 anthropological origin is embedded in the logic of kinship, of dowries and
-wergeld, payments for brides and for transgressions. We take this to be the
-older of the two. The political origin is embedded in the logic of states and writing, 
-of grain inventories and tax collection, payments for food and labour. 
-Throughout the 5000 year history of
+wergeld, payments for brides and for transgressions. This origin gives us the
+deep association between terms for sin, debt, guilt, and terms for money. We take this to be the
+older of the two. The political origin is embedded in the logic of accounting, states, and writing, 
+of grain inventories and tax collection, credits and payments for food and labour. 
+This origin is more recent, beginning some 5000 years ago. But throughout the 5000 year history of
 monetary institutions, these two threads have become intimately bound up and
-entangled. But we would do well to keep track of their difference - for as we will
+entangled with one another. We would do well to keep track of their difference - for as we will
 see, each flows in its own way, representing different kinds of circuits, and a
-basic distinction between outside and inside money.
+basic distinction between outside and inside money. 
 
-In our anthropological money, the accounting follows the logic of kinship, of
-the circulation of reproductive power (women) and divine grace (justice). 
-Units of Account are taken from nature in the form of stable quantities of valuable material private possessions - 
-heads of cattle (or people), units of shell or gems, weights of metal. But these do not
+In anthropological money, the accounting follows the logic of kinship and
+religion, of the circulation of reproductive power (women) and justice (divine grace).
+Units of Account are taken from nature in the form of stable quantities of valuable material private possessions 
+that represent wealth - heads of cattle (or people), units of shell or gems, bracelets of silver. But these do not
 necessarily become generalized media of exchange, used to lubricate markets - they
-are used to denominate payment in a certain circuit of social obligations.
+are used to denominate payment in a certain circuit of social obligations. 
 
-In its political origin, accounting follows the logic of redistributive states, 
+In political money, accounting follows the logic of redistributive states, 
 of the accumulation and distribution primarily of grain. It is tied up deeply in
-the origin of writing, which emerges primarily as an accounting device. Writing enables
-the creation of new, persistent computational spaces to account for reproduction on a much grander scale.
-It constitutes a new medium for denominating and clearing debts - a new medium of money. 
+the origin of writing, which emerges primarily as an extension of earlier token-based accounting techniques.[^early-writing]
+This accounting is a process of creating new, persistent computational spaces to represent - and thereby manage - 
+reproduction on a much grander scale. It constitutes a new medium for denominating and clearing obligations - 
+ultimately, a new medium of money.
+
 The Unit of Account for the new written medium was most famously standardized in the early temple
-palaces of the Near East as a weight of barley - the *shekel*. 
-In the earliest shekel, the money was entirely made of barley, in units that
-could be written down. In some sense, our present monetary disorder is the 5000 year consequence 
+palaces of the Near East as an equivalence between a weight of silver - the
+shekel - and a count of barley grains.[^uoa-standardization]
+A shekel was worth a month's worth of barley.
+In some sense, our present monetary disorder is the 5000 year consequence 
 of what would happen to the shekel. 
 
 ## Hey, there's metal in this money!
 
-The UoA was effectively a standardized weight (of barley). And since weight is a
+The Unit of Account was effectively a standardized weight (of barley). 
+
+
+
+And since weight is a
 property all materials share, it was not much of a leap for a more convenient and
 durable substance of an equivalent weight to stand in for grain, 
 especially one which was already sentimentally charged, 
@@ -71,12 +78,8 @@ Account.
 
 So we have two distinct origins of money, an anthropological (outside) one and a
 political (inside) one and they are fused in the temple palaces into a kind of
-money that looks like:
-
-- UoA: standard weight of grain
-- MoE: equivalent weight of metal 
-- SoV: silver
-
+money that uses a standard weight of grain as the Unit of Account, an equivalent
+weight of silver as the Medium of Exchange, and silver as the Store of Value,
 and which persists for at least a couple thousand
 years before the introduction of coinage in the ~7th century BC. 
 In other words, money was weighed metal for *two thousand years* before it became countable coins.
@@ -118,7 +121,7 @@ society.
 The distinction between inside and outside money opens up a kind of hierarchy,
 rooted in outside money, and branching into increasingly contained insides.
 We call this the Hierarchy of Money, and it starts to develop in earnest with
-the emergence of bookeeping and the increasing adoption of bank deposits as 
+the emergence of bookeeping and banking, and accelerates with the adoption of bank deposits as 
 means of exchange. Bank deposits are the most common example of the emergence of
 a widely successful inside money.
 
@@ -137,23 +140,28 @@ own IOUs.
 
 This hierarchy is a hierarchy of computational spaces, where each space
 constitutes its own medium for the clearing of payments. The line begins to blur
-between the Unit of Account and Medium of Exchange. The term Medium of Exchange becomes more relative,
-referring primarily to the medium one level up the hierarchy. 
+between the Unit of Account and Medium of Exchange, as the balance sheets on
+which we account become media themselves for the clearing of payments. And so the
+term Medium of Exchange becomes more relative, generally meaning a medium one level up from where you 
+denominate your debts.
 
 So you and I can keep track of what we owe eachother, and maybe do some netting, 
 but our real Medium of Exchange is our bank deposits, which we'll use
 if an imbalance between us persists too long. And while banks can do simple
 netting between accounts kept at their own bank, payments between accounts at
-different banks require them to go one level up the hierarchy, to the
+different banks require them to go another level up the hierarchy, to the
 Medium of Exchange of bank reserves. And so on. 
 
 The point of all this is to demonstrate that access to a higher level of the hierarchy is only necessary in so far as 
 there are *imbalances* in the payments graph being cleared in the lower level. 
 We find here the deep tension between the Unit of Account and the Medium of
 Exchange - between the elasticity permitted by the Unit of Account and the discipline asserted by the Medium of Exchange. 
-The Unit of Account permits us to create computational spaces where we can account for debts and net out payments.
+The Unit of Account permits us to create computational spaces - our network of balance sheets - where 
+we can account for debts and net out payments.
 But to the extent there is insufficient bandwidth or capacity in that space,
-insufficient balance, computation must spill out into a medium higher in the hierarchy, in order for debts to settle.
+insufficient balance across our sheets, computation must spill out into a medium higher in the hierarchy, 
+in order for debts to settle. This is the process at the heart of the financial
+system: settlement.
 
 ## Settling Up
 
@@ -167,7 +175,8 @@ besides the medium of exchange, and using it to settle debt when necessary, if
 possible. We might think of this as basically deferring to barter. But arguably,
 the ideal way to settle is to bypass the transfer of any medium
 altogether, and instead to have a pattern of reciprocol obligations. I owe you,
-and later, you will owe me. Then we'll be able to net.
+and later, you will owe me, and so on. Then we can just keep netting, without
+needing to use money.
 
 This isn't barter, since it's not synchronous. Invoices are being issued and settled in a Unit of
 Account. We might call it countertrade on credit, since both sides make reference to a common unit of account 
@@ -187,7 +196,7 @@ and collectively they continuously create and renew a vast network of payment ob
 credit" network), which is at the core of the real economy.  
 
 And within this network, we can ask about the patterns of flow, and in particular whether there
-are closed loops ("cycles") that can be settled like this without the need for
+are closed loops ("cycles") that can be netted without the need for
 balances in a medium of exchange to materialize or flow. 
 If I owe Abed $10 and Abed owes Troy $6 and Troy
 owes me $4, we can net out what's common ($4) from all of them, leaving everyone
@@ -198,7 +207,7 @@ IMAGE
 
 ## Wherefore Art Thou Liquiity?
 
-More anxiously, then, we might ask how the network of payment obligations
+More anxiously, then, we might ask how the imbalances in the network of payment obligations
 built up in the trade credit networks (and more broadly, the financial networks) might
 relate to the general availability of the Medium of Exchange required to settle those imbalances.
 Say, to the extent that obligations are not part of closed loops that can be
@@ -206,22 +215,35 @@ netted out, where and how are we to get the media to clear them all? Wherefore a
 thou liquidity?
 
 This tension, between the elasticity of the Unit of Account and the discipline of the Medium of Exchange,
-is what the entire edifice of banking and central banking was
-historically erected to navigate - to enable payments to continue flowing, to
-keep things *liquid*. This was done first of all by forming clearing
-consortia that could net out flows, and second by creating vouchers they called
-"reserves" that could function as a Medium of Exchange within the clearing union. Concerns
+is what the entire edifice of banking and central banking has
+historically been charged with navigating - to enable payments to continue flowing, to
+keep things *liquid*. Notably, at the trade fairs of the 16th century, before the rise of central
+banks, a huge volume of European credit was settled by netting out obligation cycles and
+collapsing chains of obligations in a decentralized settlement process called
+the reconstro. The process was so efficient, the merchant-bankers hardly needed
+to use any money at all, and generally only brought enough with them for their personal
+expenses. These fairs were phenomenal in their pursuit of balancing the payments
+graph.
+
+But this balancing act would soon give way to a new institutional form.
+By the end of the 16th century, the institutions of money found themselves on the preicipice of 
+a transformation from engine of trade to engine of war finance. A monetary and
+financial revolution was looming that would institutionalize a new kind of imbalance: 
+the permanent debts of the state. Responsibility for monetizing these debts was
+distributed across a new kind of banking system taking hold of Europe, anchored
+by Central Banks.
+
+As central banks and centralized clearing unions came to take over from the clearing fairs, 
+they would introduce a new kind of money, the bank "reserves",
+that could function as a Medium of Exchange within the clearing union. Concerns
 continue to abound as to the problem of responsibly issuing such reserves,
 most commonly today in the context of an explosion of reserves on the balance sheets
-of the world's central banks. What the central banks don't seem to understand is
-that the process which had previously generated liquidity for the Unit of
-Account of the USD was the Medium of Exchange of the eurodollar system, and that system collapsed in 2007. 
-CBs are trying to take responsibility for the Medium of Exchange onto their own balance sheets, but
-(1) the scale of their response, huge as they've been, pale in comparison to the
-liquidity lost, (2) the CBs are too far removed from the real economy, and
-(3) the collective result of their action is growth in moral hazard and
-accelerated wealth transfer from the poor to the rich. It is a remarkable heist
-playing out in plain sight.
+of the world's central banks. The debate rages over what these things are what they
+matter for - if they're money, they're only money for banks, and most 
+interbank transactions don't use them anyways. The problem of liquidity is
+buried in the shadows of the network of bank balance sheets and the credits they create with
+one another. But inconcistencies and imbalances in these networks periodicially spill over
+into the visible realm of bank reserves in the great liquidity crises of banking history.
 
 Historically, economic thought had largely failed to theorize
 correctly about this tension in the structure of the payments graph - about the
@@ -239,21 +261,33 @@ until it would seize up in the recurrent
 liquidity crises of the last few centuries, only to be remythologized by the
 action of great priests employed by the world's central banks. 
 
-Ability to theorize about these problems wasn't wholly absent, 
-though it may, more often than not, have been overshadowed by the more
-encompassing drama of political power, and thus had more difficulty penetrating the
-halls of America's most esteemed economic institutions.[^rockfeller] Keynes' *bancor* proposal at Bretton
-Woods, which was based on EF Schumachers work on multi-lateral
-clearing,[^schumacher] was a
-recognition of the need to balance the global payments graph between countries.
-This was of course rejected by the US, who was the world's largest creditor at the time.
-But not 25 years later, when the US had already become the world's largest
-debtor, and thus pushed for the creation of new reserve assets at the IMF (the
+Ability to theorize about these problems wasn't wholly absent, however.
+Europe, esepcially, has a long history of it.
+Keynes' *bancor* proposal at Bretton Woods, 
+which was based on EF Schumachers work on multi-lateral
+clearing,[^schumacher] was a recognition of the need to balance the 
+global payments graph between countries.
+Of course Keynes' plan failed in favour of an American gold-exchange standard.
+But USD liquidity wasn't sufficient to reboot European economies amidst the tangled
+web of bilateral trade relations that emerged after the war. It took the
+European Payments Union to do that, an institution designed to balance the
+payments graph amongst its members by transferring those bilateral relations to
+multilateral ones. The EPU was deemed such a success they thought they no longer
+needed it, and shut it down after less than 10 years.
+And later, when the US had become the world's largest debtor,
+and was pushing for the creation of new reserve assets at the IMF (the
 SDRs), the European representatives insisted that there was no need for more
 reserve assets, but rather a need to balance the payments
-graph.[^superimperialism] In both cases, Europe rolled over. 
-Whether from malice or incompetence, the legacy of devastation wrecked by the US
-monetary and financial system is a travesty. 
+graph[^superimperialism]. 
+
+These calls to balance the payments graph harken back to the trading fairs,
+which were able to clear huge volumes of trade without the need for almost any
+external liquidity - the graph was balanced. How it came to be
+unbalanced, and how the financial system transitioned from a principle of
+clearing (that is, liquidity saving) to one of liquidity (that is, liquidity
+provisioning), is a deep historical question. 
+But whether from malice or incompetence, the legacy of devastation wrecked by
+these chronic imbalances inthe  monetary and financial system is a travesty. 
 
 We can confront the incompetence, at least, with a new generation of 
 scholarship that puts the problem of liquidity front and
@@ -274,19 +308,29 @@ sustainable economic growth itself.
 
 At the heart of this thinking is the problem of imbalances in the payment graph - 
 what can't be accounted for and thus cleared in the UoA alone,
-and how it must "spill out" into the domain of the Medium of Exchange. 
+and how they must "spill out" into the domain of the Medium of Exchange. 
 We turn to the Medium of Exchange, and its tension with the Store of Value, next.
 Stay tuned.
 
 
 [Informal Systems]: https://informal.systems/
 [Money View]: todo
-[MOOC]: todo
+[MOOC]: https://www.coursera.org/learn/money-banking
 [mmt]: https://ebuchman.github.io/posts/mmt/
 
 [^superimperialism]: See Hudon's Superimperialism, pg 348, and more generally
-  for the relevant history of negotiations over the structure of teh global monetary.
+  for the relevant history of negotiations over the structure of the global monetary system.
+[^schumacher]: E.F. Schumacher is best known for his book "Small is Beautiful"
+  and for his role as a forerunner of "ecological
+  economics." Keynes took him on as a protoge. His article on 
+  [Multilateral
+  Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/)
+  was the basis for his and Keynes bancor proposal at Bretton Woods.
 [^rockfeller]: Notable in this regard is TODOs quote that his endowment to the
   University of Chicago was the best investment he ever made.
-[^schumacher]: TODO note on schumacher and on gesell.
+[^early-writing]: we did accounting in physical shapes. earliest writing were
+    "recipts" - the tokens impressed into clay.
+[^uoa-standardization]: Sargon standardized. Egypt?
 
+NOTE:
+- shekel is the sign for axe
