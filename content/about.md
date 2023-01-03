@@ -59,12 +59,20 @@ Some other major early influences include:
 For a more recent list of favorite economists (including classics like Robert Owen, Henry George, Silvio Gesell, and Karl Polanyi),
 see my [tweet thread][econ-thread].
 
-These days I'm studying monetary theory, history, and practice, guided by the work
-of folks like [Perry Mehrling], [George Selgin], and [Jeffrey Snider], though I continue to pursue a more 
-"localist" and "ecological" understanding. I've also
-found a rich source of knowledge in [Karl Polanyi's] work (see my post,
-[The Market Pattern]), and have become somewhat enchanted by Modern Monetary Theory
-(though see my [critique]).
+These days I'm studying monetary theory, history, and practice. My starting point was 
+[Perry Mehrling]'s Money View and his excellent [course]. I've
+also found an incredibly rich source of material in the work of [Colin Drumm]
+and his [Mimbres School] - I highly recommend [subscribing]!
+The work of [Karl Polanyi] has also been influential (see my post,
+[The Market Pattern]), and I have become somewhat enchanted by Modern Monetary Theory
+(though see my [critique]). I've also found [George Selgin]'s work quite informative on the history of banking (especially
+the so-called "free banking" periods), and [Jeffrey Snider] is the ultimate
+source on how the modern "eurodollar" system works.
+
+My own take on money is guided by my biophysics background - I continue to pursue a more 
+"localist" and "ecological" understanding which I call "Monetary Localism". This
+effort is materializing in our work on [Collaborative Finance] (CoFi) at Informal
+Systems.
 
 I'm on a mission to synthesize the various [heterodox schools of economics]
 to provide a basis for a more sustainable political economy. 
@@ -142,7 +150,7 @@ Your DNA wouldn't even be able to replicate itself were it not for the
 [Jeffrey Snider]: https://alhambrapartners.com/tag/eurodollar-university/
 [critique]: /posts/mmt/
 [Media]:/media
-[Karl Polanyi's]: https://en.wikipedia.org/wiki/Karl_Polanyi
+[Karl Polanyi]: https://en.wikipedia.org/wiki/Karl_Polanyi
 [The Market Pattern]: /posts/hayek-polanyi
 [heterodox schools of economics]: /posts/factors-of-production
 [master's thesis]: https://atrium.lib.uoguelph.ca/xmlui/handle/10214/9769
@@ -150,3 +158,8 @@ Your DNA wouldn't even be able to replicate itself were it not for the
 [A Brief History of Distributed State]: https://www.youtube.com/watch?v=e9C1Y89Txdw
 [Stakeholders and Statemachines]: https://www.youtube.com/watch?v=Luh7m7YHRts
 [econ-thread]: https://twitter.com/buchmanster/status/1420129270417006595
+[course]: https://www.coursera.org/learn/money-banking
+[Colin Drumm]: https://twitter.com/drumm_colin
+[Mimbres School]: https://www.patreon.com/m/MimbresSchool
+[subscribing]: https://www.patreon.com/join/MimbresSchool?
+[Collaborative Finance]: https://cofi.informal.systems/

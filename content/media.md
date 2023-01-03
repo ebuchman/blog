@@ -2,8 +2,41 @@
 title: "Media"
 ---
 
+I often speak on podcasts and at conferences. 
+Some of my favorites, which tend to focus more on larger vision and
+political economy, include:
+
+- 2022-11: **The Ownership Economy Podcast** - [The Cosmos Network, Collaborative
+Finance (Co-Fi), and the Empowerment of Monetary Localism](https://anchor.fm/theownershipeconomy/episodes/Episode-041---The-Cosmos-Network--Collaborative-Finance-Co-Fi--and-the-Empowerment-of-Monetary-Localism-with-Cosmos-Co-Founder-Ethan-Buchman-e1qvgrh/a-a8svs96)
+- 2022-05: **Bankless** - [Why Bankless Is Wrong](https://www.youtube.com/watch?v=Vbomgw-PGRE)
+- 2021-10: **The Blockchain Socialist** - [The heterodox politics of the internet
+of blockchains and sustainability
+existentialism](https://theblockchainsocialist.com/the-heterodox-politics-of-the-internet-of-blockchains-and-sustainability-existentialism/)
+- 2020-11: **CSCON[0]** - [Free as in Banking](https://www.youtube.com/watch?v=PySo0gUEx8A&t=2040s)
+- 2019-05-06: **Rebuild Conference** - [Stakeholders and Statemachines](https://www.youtube.com/watch?v=Luh7m7YHRts)
+- 2018-03-26: **Software Engineering Daily** - [Consensus Systems with Ethan Buchman](https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman/)
+
+A more complete list can be found below. 
+
 ## Podcasts
 
+2022-11: **The Scoop** - [Inside the Cosmos Ecosystem with Ethan
+Buchman](https://www.youtube.com/watch?v=QMciYZ66MSQ)
+
+2022-11: **The Ownership Economy Podcast** - [The Cosmos Network, Collaborative
+Finance (Co-Fi), and the Empowerment of Monetary Localism](https://anchor.fm/theownershipeconomy/episodes/Episode-041---The-Cosmos-Network--Collaborative-Finance-Co-Fi--and-the-Empowerment-of-Monetary-Localism-with-Cosmos-Co-Founder-Ethan-Buchman-e1qvgrh/a-a8svs96)
+
+2022-11: **LongHash Ventures** - [Atom 2.0 and the Interchain
+Vision](https://www.youtube.com/watch?v=7NObThRw1-0)
+
+2022-05: **Bankless** - [Why Bankless Is Wrong](https://www.youtube.com/watch?v=Vbomgw-PGRE)
+
+2022-04: **The Defiant** - [Cosmos Co-Founder Ethan Buchman on Building an
+Internet of Sovereign
+Blockchains](https://anchor.fm/thedefiant/episodes/Cosmos-Co-Founder-Ethan-Buchman-on-Building-an-Internet-of-Sovereign-Blockchains-e1gnd2e)
+
+2022-02: **Boundaryless Conversations Podcast** - [Why Blockchain should be
+plural: Cosmos and Inter-Blockchain Communication](https://www.boundaryless.io/podcast/ethan-buchman/)
 
 2021-12: **The Metaverse Podcast** - [Connected Blockchains, with Ethan Buchman of
 Cosmos](https://outlierventures.podbean.com/e/connected-blockchains-with-ethan-buchman-of-cosmos/)
