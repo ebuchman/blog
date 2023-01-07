@@ -30,7 +30,7 @@ But where does it come from and what does it account for?
 Consider that there are two distinct origins of money, and with it the Unit of Account. We might
 call these the "anthropological" origin and the "political" origin. The
 anthropological origin is embedded in the logic of kinship, of dowries and
-wergeld, payments for brides and for transgressions. This origin gives us the
+wergeld, payments for brides and for transgressions.[^anthro-origin] This origin gives us the
 deep association between terms for sin, debt, guilt, and terms for money. We take this to be the
 older of the two. The political origin is embedded in the logic of accounting, states, and writing, 
 of grain inventories and tax collection, credits and payments for food and labour. 
@@ -42,10 +42,13 @@ basic distinction between outside and inside money.
 
 In anthropological money, the accounting follows the logic of kinship and
 religion, of the circulation of reproductive power (women) and justice (divine grace).
-Units of Account are taken from nature in the form of stable quantities of valuable material private possessions 
-that represent wealth - heads of cattle (or people), units of shell or gems, bracelets of silver. But these do not
-necessarily become generalized media of exchange, used to lubricate markets - they
-are used to denominate payment in a certain circuit of social obligations. 
+Units of Account are taken from nature in the form of stable quantities of valuable 
+material private possessions  that represent wealth - heads of cattle (or people), 
+units of shell or gems, bracelets of silver. 
+These are prized and accumulated for their practically religious value.
+But they do not necessarily become generalized media of exchange, used to lubricate markets.
+Rather, they are used to denominate payment in a certain circuit of social obligations by
+virtue of their prestige - their ability to store value.
 
 In political money, accounting follows the logic of redistributive states, 
 of the accumulation and distribution primarily of grain. It is tied up deeply in
@@ -53,43 +56,67 @@ the origin of writing, which emerges primarily as an extension of earlier token-
 This accounting is a process of creating new, persistent computational spaces to represent - and thereby manage - 
 reproduction on a much grander scale. It constitutes a new medium for denominating and clearing obligations - 
 ultimately, a new medium of money.
+But with it implies a new kind of obligation, a new way to exert power over an
+individual's future. 
 
 The Unit of Account for the new written medium was most famously standardized in the early temple
-palaces of the Near East as an equivalence between a weight of silver - the
-shekel - and a count of barley grains.[^uoa-standardization]
-A shekel was worth a month's worth of barley.
+palaces of Mesopotamia as an equivalence between a weight of silver 
+and a count of barley grains - the shekel.[^uoa-standardization]
+A shekel was worth a month's pay of barley.
 In some sense, our present monetary disorder is the 5000 year consequence 
-of what would happen to the shekel. 
+of the shekel.
 
 ## Hey, there's metal in this money!
 
-The Unit of Account was effectively a standardized weight (of barley). 
+The Unit of Account likely began as a standardized count of barley - the grain. 
+But at some magical moment, a certain count of grain was equated with a weight
+of silver. How and why this equivalence came about, we can only speculate.
+Gold, silver, and copper were surely already seen as prestige goods, with
+jewellry and other metal artifacts being found in burials throughout the 4th millennium BC. 
+But while copper had significant utility, and had become the basis for a new
+kind of technological revolution (this was the "Calcolithic", the Age of Copper,
+and was about to give rise the Bronze Age, where bronze is an alloy of copper
+and tin), gold and silver were much less useful. Perhaps they were already in
+use as a kind of anthropological money, with jewellry and other artifacts being
+paid as dowries or in tribute to the gods. There is also speculative evidence
+that metal axes, too small or fragile to be actually useful, may have functioned
+as a kind of proto-currency, as such axes are also found throughout. 
 
-
-
-And since weight is a
-property all materials share, it was not much of a leap for a more convenient and
-durable substance of an equivalent weight to stand in for grain, 
-especially one which was already sentimentally charged, 
-perhaps even one which had already been in use as an anthropological money.
-In this way, precious metals came to take the place as the Medium of Exchange and Store of
-Value in an accounting system predicated on weights of grain as the Unit of
-Account. 
+No doubt, the equivalence between a weight of silver and a count of grain was
+facilitated by the metaphorical properties of weight - something all matter
+shares. It is seemingly not much of a stretch for a weight of silver to stand in
+for a similar weight of some count of grain. Being more dense, the silver would
+be easier to manage than the equivalent weight of grain. But this was also a
+time when abstract numbers may not have existed yet - computation was done with
+literals. Meaning perhaps the unit of the shekel, a weight of silver equivalent
+to say some 180 grains of barley, emerged to faciltiate computation with larger
+numbers? We will never really know. But this metaphorical equivalence between
+the weight of metal and the count of grain has come to dominate our thinking on
+money. Millenia old traditions recount that money is a metaphor, a substance
+which can stand in for all other substances. But this is not the whole story, as
+we have seen, for this money arises from a fundamentally *temporal* phenomenon.
+Money is not just metaphor, but metonym.
 
 So we have two distinct origins of money, an anthropological (outside) one and a
-political (inside) one and they are fused in the temple palaces into a kind of
-money that uses a standard weight of grain as the Unit of Account, an equivalent
-weight of silver as the Medium of Exchange, and silver as the Store of Value,
+political (inside) one and they are fused in the temple palaces some 5000 years
+ago into a kind of money that uses a standard weight of silver as the Unit of Account, 
+a count of grain (and to a lesser extent, weight of silver) as a Medium of
+Exchange, and silver as the Store of Value,
 and which persists for at least a couple thousand
 years before the introduction of coinage in the ~7th century BC. 
 In other words, money was weighed metal for *two thousand years* before it became countable coins.
+And finance, even a thousand years before coinage, was surprisingly
+modern.[^modern-assyria]
+
+## Outside In
 
 While anthropological money flows in a web through
 kinship circuits to balance the circulation of reproduction, the defining circuit of political money 
 is the simple *fiat loop* between the state and the individual, between state spending and taxation,
-denominated in the state's Unit of Account. This loop is made possible by writing, but it is effectuated
-by the link between the written nominal unit and the instrinsic weight of material - between the
-UoA and the value stored in its medium. 
+denominated in the state's Unit of Account. 
+This loop is made possible by writing, but it is instantiated with a new kind of
+power by the link between the written nominal unit and the instrinsic weight of material - 
+between the UoA and the value stored in its medium. 
 
 The Unit of Account offers us the ability to denominate unlimited amounts of debt, 
 to define entire ecosystems of unhinged money inside our written accounts. An
@@ -97,19 +124,19 @@ inner world of pure elasticity. But it is balanced, even disciplined by an
 exterior, an outside world of scarce physical weighted value, 
 substantiated outside the confines of the written asylum in the hard reality of
 precious things. Thus we confront the duality of inside and outside money. 
-Inside money is written money, it's money
-that is someone else's liability, money that is but an IOU. It is our political
-money. Outside money is
+Inside money is written money, it's money that is someone else's liability, 
+money that is but an IOU. It is our political money. Outside money is
 physical money, it's no one's liability (but nature's!), it is pure asset. It is our
 anthropological money. The history of money, since the shekel, is one of a great
-tension between these two types of money, between inside and outside, nominal
-and metal, political and anthropological. 
+tension between these two types, between inside and outside, nominal
+and metal, political and anthropological. And in some sense, its the story of an
+invasion, from outside in.
 
 With the introduction of coinage, the Medium of Exchange would
 gain a new kind of accessibility and prominence. We will have more to say about
-coins in a later piece. But the technology
-of written accounts - of accounting - would not evolve considerably 
-for centuries until the development of Arabian mathematics and related
+coins in a later piece. But the technology of written accounts - of accounting - 
+would not evolve considerably 
+for centuries until the development of Indian mathematics and Arabian
 bookeeping techniques in the late first millenium AD. 
 And as these developments found their way to Italian merchant banking
 communities in the ~13th century AD, they breathed new life into the Unit
@@ -129,9 +156,9 @@ Bookeeping and banking enabled clearing and netting activities to flourish.
 Clearing and netting allow debts to be settled by balancing txs within and across balance sheets,
 without resorting to a medium "higher" in the hierarchy. If I owe you, I can pay
 you with outside money like gold - this is the highest level in the hierarchy. 
-But if we both have an account at the same bank, I can pay you by the bank simply updating its balance sheet to owe me less
-and you more - so we can clear debts at a lower level in the hierarchy, without resorting to gold, 
-directly on the bank's balance sheet. 
+But if we both have an account at the same bank, I can pay you by the bank simply 
+updating its balance sheet to owe me less and you more - so we can clear debts at a 
+lower level in the hierarchy, without resorting to gold, directly on the bank's balance sheet. 
 And if you and I have continuous bilateral obligations, where I owe you and
 later you owe me, we could continuously renew and redeem monetary debts to
 one another without ever having to transfer any kind of money at all, just by keeping bilateral accounts
@@ -150,10 +177,10 @@ but our real Medium of Exchange is our bank deposits, which we'll use
 if an imbalance between us persists too long. And while banks can do simple
 netting between accounts kept at their own bank, payments between accounts at
 different banks require them to go another level up the hierarchy, to the
-Medium of Exchange of bank reserves. And so on. 
+Medium of Exchange of bank reserves, on the balance sheet of the central bank. And so on. 
 
-The point of all this is to demonstrate that access to a higher level of the hierarchy is only necessary in so far as 
-there are *imbalances* in the payments graph being cleared in the lower level. 
+The point of all this is to demonstrate that access to a higher level of the hierarchy - to the medium of exchange - 
+is only necessary in so far asthere are *imbalances* in the payments graph being cleared in the lower level. 
 We find here the deep tension between the Unit of Account and the Medium of
 Exchange - between the elasticity permitted by the Unit of Account and the discipline asserted by the Medium of Exchange. 
 The Unit of Account permits us to create computational spaces - our network of balance sheets - where 
@@ -167,16 +194,14 @@ system: settlement.
 
 The Unit of Account allows debts to be denominated, but it does not in itself prescribe
 how they should be settled. Many governments will endow a particular medium of exchange
-with legal tender status (eg. banknotes and coins), while other media of exchange
-continue to be used alongside them (fintech, banks).
+with legal tender status, while other media of exchange continue to be used alongside them.
 Debts can also be settled in-kind, which is to say by something else valued in the Unit of Account
 equivalently to the original debt. This implies storing value somewhere else
 besides the medium of exchange, and using it to settle debt when necessary, if
-possible. We might think of this as basically deferring to barter. But arguably,
-the ideal way to settle is to bypass the transfer of any medium
-altogether, and instead to have a pattern of reciprocol obligations. I owe you,
-and later, you will owe me, and so on. Then we can just keep netting, without
-needing to use money.
+possible. But arguably, the ideal way to settle is to bypass the transfer of any medium
+of exchange altogether, and instead maintain a pattern of reciprocol obligations that can be netted. I owe you,
+and later, you will owe me, and so on. Monetary transactions without the use of
+any money.
 
 This isn't barter, since it's not synchronous. Invoices are being issued and settled in a Unit of
 Account. We might call it countertrade on credit, since both sides make reference to a common unit of account 
@@ -195,7 +220,7 @@ are imbalances in the payments graph. But every firm has many customers and many
 and collectively they continuously create and renew a vast network of payment obligations (the "trade
 credit" network), which is at the core of the real economy.  
 
-And within this network, we can ask about the patterns of flow, and in particular whether there
+Within this network, we can ask about the patterns of flow, and in particular whether there
 are closed loops ("cycles") that can be netted without the need for
 balances in a medium of exchange to materialize or flow. 
 If I owe Abed $10 and Abed owes Troy $6 and Troy
@@ -205,14 +230,23 @@ The Medium of Exchange is needed only in so far as there are imbalances in the p
 
 IMAGE
 
+By mapping the obligation graph and identifying cycles, we can *save* liquidity.
+We need less money for the same volume of transactions, just by taking advantage
+of existing structure in the graph. Simplistically, we could refer to this as an
+effective increase in the [velocity of money](/velocity.md), but as we'll see,
+the presence of these cycles is much more profound, and suggests a way for us to
+quantify our quality theory of money: quality money flows in cycles.
+
 ## Wherefore Art Thou Liquiity?
 
-More anxiously, then, we might ask how the imbalances in the network of payment obligations
-built up in the trade credit networks (and more broadly, the financial networks) might
-relate to the general availability of the Medium of Exchange required to settle those imbalances.
+But not all money flows in cycles, at least not on a short time horizon, which
+means even if we clear everthing in cycles, there are debts left over -
+imbalances in the payments graph.
+More anxiously, then, we might ask how these imbalances, built up in the networks of trade and finance,
+might relate to the general availability of the Medium of Exchange required to settle those imbalances.
 Say, to the extent that obligations are not part of closed loops that can be
-netted out, where and how are we to get the media to clear them all? Wherefore art
-thou liquidity?
+netted out, where and how are we to get the media to clear them all? And why should there be enough of it? 
+Wherefore art thou liquidity?
 
 This tension, between the elasticity of the Unit of Account and the discipline of the Medium of Exchange,
 is what the entire edifice of banking and central banking has
@@ -220,30 +254,33 @@ historically been charged with navigating - to enable payments to continue flowi
 keep things *liquid*. Notably, at the trade fairs of the 16th century, before the rise of central
 banks, a huge volume of European credit was settled by netting out obligation cycles and
 collapsing chains of obligations in a decentralized settlement process called
-the reconstro. The process was so efficient, the merchant-bankers hardly needed
+the *rescontre*.[^rescontre] The process was so efficient, the merchant-bankers hardly needed
 to use any money at all, and generally only brought enough with them for their personal
 expenses. These fairs were phenomenal in their pursuit of balancing the payments
 graph.
 
 But this balancing act would soon give way to a new institutional form.
-By the end of the 16th century, the institutions of money found themselves on the preicipice of 
-a transformation from engine of trade to engine of war finance. A monetary and
+By the end of the 16th century, the institutions of money found themselves on the precipice of 
+a transformation from engine of trade to engine of war finance. Not that money
+hadn't for nearly two millenia been intimitately tied up in war. But a monetary and
 financial revolution was looming that would institutionalize a new kind of imbalance: 
 the permanent debts of the state. Responsibility for monetizing these debts was
 distributed across a new kind of banking system taking hold of Europe, anchored
 by Central Banks.
 
-As central banks and centralized clearing unions came to take over from the clearing fairs, 
+As central banks and centralized clearing unions came to take over from the decentralized clearing fairs, 
 they would introduce a new kind of money, the bank "reserves",
 that could function as a Medium of Exchange within the clearing union. Concerns
 continue to abound as to the problem of responsibly issuing such reserves,
 most commonly today in the context of an explosion of reserves on the balance sheets
-of the world's central banks. The debate rages over what these things are what they
+of the world's central banks. The debate rages over what these things are and what they
 matter for - if they're money, they're only money for banks, and most 
 interbank transactions don't use them anyways. The problem of liquidity is
 buried in the shadows of the network of bank balance sheets and the credits they create with
 one another. But inconcistencies and imbalances in these networks periodicially spill over
 into the visible realm of bank reserves in the great liquidity crises of banking history.
+
+## Booking the Balance
 
 Historically, economic thought had largely failed to theorize
 correctly about this tension in the structure of the payments graph - about the
@@ -262,7 +299,8 @@ liquidity crises of the last few centuries, only to be remythologized by the
 action of great priests employed by the world's central banks. 
 
 Ability to theorize about these problems wasn't wholly absent, however.
-Europe, esepcially, has a long history of it.
+20th century Europe, esepcially, has a long history of tuning to the problem of
+balancing the payments graph.
 Keynes' *bancor* proposal at Bretton Woods, 
 which was based on EF Schumachers work on multi-lateral
 clearing,[^schumacher] was a recognition of the need to balance the 
@@ -273,7 +311,7 @@ web of bilateral trade relations that emerged after the war. It took the
 European Payments Union to do that, an institution designed to balance the
 payments graph amongst its members by transferring those bilateral relations to
 multilateral ones. The EPU was deemed such a success they thought they no longer
-needed it, and shut it down after less than 10 years.
+needed it, and tragically shut it down after less than 10 years.
 And later, when the US had become the world's largest debtor,
 and was pushing for the creation of new reserve assets at the IMF (the
 SDRs), the European representatives insisted that there was no need for more
@@ -287,7 +325,18 @@ unbalanced, and how the financial system transitioned from a principle of
 clearing (that is, liquidity saving) to one of liquidity (that is, liquidity
 provisioning), is a deep historical question. 
 But whether from malice or incompetence, the legacy of devastation wrecked by
-these chronic imbalances inthe  monetary and financial system is a travesty. 
+these chronic imbalances in the  monetary and financial system is a travesty. 
+
+....
+
+- central banking captured by systemic risk
+- no theory of systemic risk or liquidity
+- focusing only on financial institutions undermines real economy
+- new science of economics can be founded on the network theory of payments
+  graph
+- trade can fight back through collaboration, using new tools
+- medium of exchange as vehicle for clearing debts, not accumulating value (!)
+- lead to medium of exchange post
 
 We can confront the incompetence, at least, with a new generation of 
 scholarship that puts the problem of liquidity front and
@@ -331,6 +380,11 @@ Stay tuned.
 [^early-writing]: we did accounting in physical shapes. earliest writing were
     "recipts" - the tokens impressed into clay.
 [^uoa-standardization]: Sargon standardized. Egypt?
+[^anthro-origin]: TODO: Ingham has 2, doesnt mention dowries. Hudson has three,
+    two are what we'd call anthro, also doesnt mention dowries.
+[^modern-assyria]: TODO: modern features in old assyrian trade
+[^rescontre]: TODO: 
 
 NOTE:
 - shekel is the sign for axe
+
