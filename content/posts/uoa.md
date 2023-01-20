@@ -91,9 +91,9 @@ societies.[^axes]
 
 No doubt, the equivalence between a weight of silver and a count of grain was
 facilitated by the metaphorical properties of weight - something all matter
-shares. Indeed, itseems the origins of measurement standards and metrollogy also lie
+shares. Indeed, it seems the origins of measurement standards and metrollogy also lie
 in the late 4th millenium BC, and this is an area where metals,
-even precious metals, by way of their density, actually have a direct utility - as a weight. 
+and especially precious metals, actually have a direct utility - by way of their density, as a weight. 
 Perhaps it was the earliest metal weights, representing masses of real goods (grain, oil, etc.),
 that would motivate the equivalence between weights of metal and the settlement
 of debts denominated in grain. A large count of grain would have, on average, a
@@ -121,11 +121,12 @@ denominate debts that could be settled by a Medium of Exchange -
 primarily, a count of grain, though to a lesser extent, weights of silver. 
 Counts of grain served as the primary medium of exchange for the majority of payments, 
 which were smaller, while weights of silver served for larger, usually mercantile transactions.
+Different media of exchange flowing in different circuits of obligation.
 
 Over time, weights of silver would come to play an increasingly important role
 as a Medium of Exchange, up to and beyond the introduction of coinage in the
 ~7th century BC. Thus for *two thousands years*, up to and even beyond the
-introduction of coinage, money was weighed metal.
+introduction of coinage, money was defined in terms of a weight of metal.
 And finance, even a thousand years before coinage, 
 was surprisingly modern.[^modern-assyria] While coinage is no doubt an important development,
 money is a much older phenomenon.
@@ -152,13 +153,13 @@ money that is but an IOU. It is our political money. Outside money is
 physical money, it's no one's liability (but nature's!), it is pure asset. It is our
 anthropological money. The history of money, since the shekel, is one of a great
 tension between these two types, between inside and outside, nominal
-and metal, political and anthropological. And this tension plays out in the
-medium of exchange.
+and metal, political and anthropological. Between the Unit of Account and Medium of
+Exchange. 
 
 With the introduction of coinage in the 7th century BC, the Medium of Exchange would
 begin an evolutionary trajectory towards ever more accessible and prominent forms.
-We will have more to say about coins and the development of media of exchange in the next
-post. But the technology of written accounts - of accounting - would not evolve considerably 
+We will have more to say about coins and the development of media of exchange
+later on. But the technology of written accounts - of accounting - would not evolve considerably 
 for another thousand years until the development of Hindo-Arabic numerals and Islamic
 bookeeping techniques in the late first millenium AD.[^islamic-bookeeping] As
 these techniques collided with the new paper technology and paper money
@@ -441,57 +442,13 @@ and how they must "spill out" into the domain of the Medium of Exchange.
 We turn to the Medium of Exchange, and its tension with the Store of Value, next.
 Stay tuned.
 
-[^superimperialism]: See Hudon's Superimperialism, pg 348, and more generally
-  for the relevant history of negotiations over the structure of the global monetary system.
-[^schumacher]: E.F. Schumacher is best known for his book "Small is Beautiful"
-  and for his role as a forerunner of "ecological economics." 
-  Keynes took him on as a protoge. His article on 
-  [Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/)
-  was the basis for his and Keynes' bancor proposal at Bretton Woods.
-[^early-writing]: we did accounting in physical shapes. earliest writing were
-    "recipts" - the tokens impressed into clay.
-[^uoa-standardization]: We first find reference to shekels in Sumerian city states of the late 4th/early 3rd millenium.
-By the mid-3rd millenium, Sargon of Akkad ruled over the world's first empire and startardized the measures across different city states, leading to a more precisely standardized shekel.
-[^anthro-origin]: Ingham (2004) similarly distinguishes two origins of money
-    which directly parallel ours, the first based on an institutionalization of public debts to society (the
-    Wergeld type), the second on the "need to calculate equivalencies of goods in the
-    agrarian command economies." Hudson (2004) distinguishes three origins; one
-    is wergeld, two is feasts (TODO), and the third is our political money. We
-    combine Hudson's first two in our "anthropological" money. Notably, these
-    sources do not emphasize the role of dowries and bridewealth, though these
-    are hypothesized by the Mimbres School to play a critical role in early
-    monetary circuits and logic
-
-[^modern-assyria]: See Veenhof (1997). For instance by the early 2nd millenium BC there is full blown profit-seeking trade, denominated in silver, and organized as investment contracts.
-[^rescontre]: See Borner & Hatfield (2017). Merchant bankers met quarterly at the fairs with
-    their books of bills and spent a few days finding chains and loops of bills
-    with others at the fair that could be cleared. 
-[^guilt-debt]: TODO examples
-[^axes]: TODO. examples. and axe symbol for metal becomes symbol for shekel?
-[^islamic-bookeeping]: TODO religious accounting for inheritance
-[^drumm-metonym]: See Chapter 1 in Drumm (2021) for a more complete elucidation
-of the idea of money as metonym rather than metaphor.
-[^energy-cycles]: TODO: rainbow and the worm, stakeholders and statmachine
-[^bagehot-freebanking]: Bagehot is famous for his advice to central banks,
-    that in times of crisis they should "lend freely, at high interest, on good
-    collateral, to solvent firms". While lip service continues to be paid to him, the only part of his advice 
-    actually followed is to "lend freely", but alas, at low interest, on junk
-    collateral, to insolvent firms. Notably, and less well known, Bagehot was
-    actually against the system of central banking, and preferred a system of
-    competitive note issue between private banks, where each bank held and
-    managed its own gold reserves, rather than pooling them all with the Bank of
-    England. See, for instance, the openning to the concluding chapter in Bagehot (1873).
-    Such a system thrived in Scotland and Canada in the 19th century. See TODO
-[^end-of-finance-epu]: See Amato & Fantacci (2011). The book gives an excellent
-    overview of the theory and history of moving from the "clearing" principle
-    to the "liquidity" principle and the trouble therein.
 
 ## Bibliography
 
 - Amato & Fantacci (2011). The End of Finance.
 - Bagehot (1873). Lombard Street.
-- Borner & Hatfield (2017). The Design of Debt Clearing Markets/ Clearinghouse
-Mechanisms in Pre- Industrial Europe.
+- Borner & Hatfield (2017). The Design of Debt Clearing Markets: Clearinghouse
+Mechanisms in Pre-Industrial Europe.
 - Drumm (2021). The Difference That Money Makes.
 - Hudson (1972). Super Imperialism.
 - Hudson (2004). The Archaeology of Money: Debt versus Barter Theories of Money's Origins.
@@ -500,5 +457,65 @@ Mechanisms in Pre- Industrial Europe.
 
 ## Notes
 
+[^superimperialism]: See Hudon's Superimperialism, pg 348, and more generally
+  for the relevant history of negotiations over the structure of the global monetary system.
+[^schumacher]: E.F. Schumacher is best known for his book "Small is Beautiful"
+  and for his role as a forerunner of "ecological economics." 
+  Keynes took him on as a protoge. His article on 
+  [Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/)
+  was the basis for his and Keynes' bancor proposal at Bretton Woods.
+[^early-writing]: TODO: Schmandt-Besserat. We did accounting in physical shapes. Earliest writing were
+    "recipts" - the tokens impressed into clay. Destroyed what was paid back, so
+    we only see unpaid debts.
+[^uoa-standardization]: We first find reference to shekels in Sumerian city states of the late 4th/early 3rd millenium.
+By the mid-3rd millenium, Sargon of Akkad ruled over the world's first empire and standardized the measurement system across city states, 
+leading to a more precisely defined shekel.
+[^anthro-origin]: Ingham (2004) similarly distinguishes two origins of money
+    the first based on an institutionalization of public debts to society (the
+    Wergeld type), the second on the "need to calculate equivalencies of goods in the
+    agrarian command economies." Hudson (2004) distinguishes three origins; one
+    is wergeld, two is feasts (TODO), and the third is our political money. We
+    combine Hudson's first two in our "anthropological" money. Notably, these
+    sources do not emphasize the role of dowries and bridewealth. The critical role of
+    dowries, bridewealth, and women in early monetary circuits and logic is
+    explored more fully by the Mimbres School.
+[^modern-assyria]: See Veenhof (1997). For instance by the early 2nd millenium BC there is full blown 
+profit-seeking arbitrage trade, denominated in silver, and organized as investment contracts. 
+Goods were exported from Mesopotamia to Anatolia where they were exchanged for silver 
+that could be brought back to Mesopotamia. As Mesopotamia had no silver mines and had already monetized
+silver, the metal was much dearer there than it was in Anatolia, which did have
+silver mines and where silver's monetization was less developed. Hence the
+emergence of a silver arbitrage trade.
+[^rescontre]: See Borner & Hatfield (2017) for a historical overview as well as economic analysis of the Pareto 
+efficiency of these mechanisms. Merchant bankers met quarterly at the fairs with
+their books of bills of exchange and spent a few days finding chains and loops of bills
+with others at the fair that could be cleared. This decentalized clearing
+was ultimately disrupted by the rise of central banks and clearing houses which,
+though technically less Pareto efficient, were able to incentivize use through
+other means.
+[^guilt-debt]: TODO examples
+[^axes]: TODO. examples. and axe symbol for metal becomes symbol for shekel?
+[^islamic-bookeeping]: TODO religious accounting for inheritance
+[^drumm-metonym]: See Chapter 1 in Drumm (2021) for a more complete elucidation
+of the idea of money as metonym rather than metaphor.
+[^energy-cycles]: TODO: rainbow and the worm, stakeholders and statmachine
+[^bagehot-freebanking]: Bagehot is famous for his advice to central banks,
+    that in times of crisis they should "lend freely, at high interest, on good
+    collateral, to solvent firms". This is the "Bagehot rule".
+    While lip service continues to be paid to Bagehot and his rule, the only part 
+    actually followed is to "lend freely", but alas, at low interest, on junk
+    collateral, to insolvent firms. Notably, and less well known, Bagehot was
+    actually against the system of central banking, and preferred a system of
+    competitive note issue between private banks, where each bank held and
+    managed its own gold reserves, rather than pooling them all with the Bank of
+    England. See, for instance, the openning to the concluding chapter in Bagehot (1873).
+    This is known as "free banking," and is not to be confused with the much
+    less responsible "wildcat banking" that emerged in 19th century USA. Sound
+    free banking systems thrived during the 19th century in Scotland and Canada.
+    See TODO.
+[^end-of-finance-epu]: See Amato & Fantacci (2011). The book gives an excellent
+    overview of the theory and history of moving from the "clearing" principle
+    to the "liquidity" principle and the trouble therein.
 [^rockfeller]: Notable in this regard is TODOs quote that his endowment to the
   University of Chicago was the best investment he ever made.
+
