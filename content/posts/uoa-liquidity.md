@@ -4,8 +4,8 @@ date: 2022-12-11
 draft: false 
 ---
 
-*This is part I in a [series on the properties of
-money](/properties-of-money)*
+*This post is part of a series on the Properties of Money. See the
+[introduction](/properties-of-money)*
 
 In the introduction we outlined that money is for making payments - for settling
 debts - and that its properties can be defined functionally:
@@ -20,154 +20,8 @@ We also introduced the tensions between them:
 - _MoE/SoV_: **legitimacy** - the tension between "bad" and "good" money
 - _SoV/UoA_: **solvency** - the tension between deflation and inflation
 
-Here we explore the Unit of Account, and its tension with the Medium of Exchange, what we call *liquidity*.
-
-## Origins: Reproducing Families and States
-
-The Unit of Account allows us to denominate debts. 
-It is an accounting device for managing the reproduction of human societies.
-But where does it come from and what does it account for? 
-
-Consider that there are two distinct origins of money, and with them the Unit of Account. We might
-call these the "anthropological" origin and the "political" origin. The
-anthropological origin is embedded in the logic of kinship, of dowries and
-wergeld, payments for brides and for transgressions.[^anthro-origin] This origin gives us the
-deep association between terms for sin, debt, guilt, and terms for money[^guilt-debt]. 
-We take this to be the older of the two, a staple of the paleolithic. 
-The political origin is embedded in the logic of accounting, states, and writing, 
-of grain inventories and tax collection, credits and payments for food and labour. 
-This origin appears more recent, a fabrication of the neolithic and the need to
-account for surplus.
-
-Something strange appears to have taken place some 5000 years ago as these
-two threads became intimately bound up and entangled with one another, setting
-the stage for what we recognize as the 5000 year history of monetary
-institutions. But we would do well to keep track of their difference - for as we will
-see, each flows in its own way, representing different kinds of circuits, and a
-basic distinction between outside and inside money. 
-
-In anthropological money, the accounting follows the logic of kinship and
-religion, of the circulation of reproductive power (women) and justice (divine grace).
-Units of Account are taken from nature in the form of stable quantities of valuable 
-material private possessions  that represent wealth - heads of cattle (or people), 
-units of shell or gems, bracelets of silver. 
-These are prized and accumulated for their practically religious value.
-But they do not necessarily become generalized media of exchange, used to lubricate markets.
-Rather, they are used to denominate payment in a certain circuit of social obligations by
-virtue of their prestige - their ability to store value.
-
-In political money, accounting follows the logic of redistributive states, 
-of the accumulation and distribution primarily of grain. It is tied up deeply in
-the origin of writing, which emerges primarily as an extension of earlier token-based accounting techniques.[^early-writing]
-This accounting is a process of creating new, persistent computational spaces to represent - and thereby manage - 
-reproduction on a much grander scale. It constitutes a new medium for denominating and clearing obligations - 
-ultimately, a new medium of money.
-But with it implies a new kind of obligation, a new way to exert power over an
-individual's future. 
-
-The Unit of Account for the new written medium was most famously standardized in the early temple
-palaces of Mesopotamia as an equivalence between a weight of silver 
-and a count of barley grains - the shekel.[^uoa-standardization]
-A shekel was worth a month's pay of barley.
-In some sense, our present monetary disorder is the 5000 year consequence 
-of the shekel.
-
-## Hey, there's metal in this money!
-
-The Unit of Account likely began as a standardized count of barley - the grain. 
-But at some magical moment, a certain count of grain was equated with a weight
-of silver. How and why this equivalence came about, we can only speculate.
-Gold, silver, and copper were surely already seen as prestige goods, with
-jewellry and other metal artifacts being found in burials throughout the 4th millennium BC. 
-Copper as a metal had significant utility, and had become the basis for a new
-kind of technological revolution - this was the "Calcolithic", the Copper Age,
-which was about to give way in the late 4th millenium BC to the also copper-based Bronze Age.
-But gold and silver were much less useful. Perhaps they were already in
-use as a kind of anthropological money, with jewellry and other artifacts being
-paid as dowries or in tribute to the gods. There is also speculative evidence
-that metal axes, too small or fragile to be actually useful, may have functioned
-as a kind of proto-currency, as they have been found throughout early
-societies.[^axes]
-
-No doubt, the equivalence between a weight of silver and a count of grain was
-facilitated by the metaphorical properties of weight - something all matter
-shares. Indeed, it seems the origins of measurement standards and metrollogy also lie
-in the late 4th millenium BC, and this is an area where metals,
-and especially precious metals, actually have a direct utility - by way of their density, as a weight. 
-Perhaps it was the earliest metal weights, representing masses of real goods (grain, oil, etc.),
-that would motivate the equivalence between weights of metal and the settlement
-of debts denominated in grain. A large count of grain would have, on average, a
-roughly consistent weight, which could be represented by a much smaller object,
-a weight of silver. The word shekel itself even means "to weigh" - but also, "to
-pay."
-
-This was also a time, in the late 4th millenium BC, 
-when abstract numbers may not have existed yet - computation 
-was done with literals. Meaning perhaps the unit of the shekel, a weight of silver equivalent
-to say 180 grains of barley, emerged to faciltiate computation with larger
-numbers. We will never really know. But this metaphorical equivalence between
-the weight of metal and the count of grain has come to dominate our thinking on
-money. Millenia old traditions recount that money is a metaphor, a substance
-which can stand in for all other substances. But money is not just metaphor, 
-a means of assessing quantitative equivalence - money is metonym, a means to
-sequence debt denomination and clearing.[^drumm-metonym] 
-
-So we have two distinct origins of money, an anthropological one and a
-political one and they are fused in the temple palaces some 5000 years
-ago into a kind of money that uses a standard weight of silver as the Unit of Account - the shekel.
-The shekel served as an accounting device, especially for denominating and
-clearing inter-departmental debts within the palaces. But it was also used to
-denominate debts that could be settled by a Medium of Exchange - 
-primarily, a count of grain, though to a lesser extent, weights of silver. 
-Counts of grain served as the primary medium of exchange for the majority of payments, 
-which were smaller, while weights of silver served for larger, usually mercantile transactions.
-Different media of exchange flowing in different circuits of obligation.
-
-Over time, weights of silver would come to play an increasingly important role
-as a Medium of Exchange, up to and beyond the introduction of coinage in the
-~7th century BC. Thus for *two thousands years*, up to and even beyond the
-introduction of coinage, money was defined in terms of a weight of metal.
-And finance, even a thousand years before coinage, 
-was surprisingly modern.[^modern-assyria] While coinage is no doubt an important development,
-money is a much older phenomenon.
-
-## Outside In, Inside Out
-
-While anthropological money flows in a web through
-kinship circuits to balance the circulation of natural, religious, and reproductive powers, 
-the defining circuit of political money 
-is the simple *fiat loop* between the state and the individual, between state spending and taxation,
-denominated in the state's Unit of Account. 
-This loop is made possible by writing, but it is instantiated with a new kind of
-power by the link between the written nominal unit and the instrinsic weight of material - 
-between the UoA and the value stored in its medium. 
-
-The Unit of Account offers us the ability to denominate unlimited amounts of debt, 
-to define entire ecosystems of unhinged money inside our written accounts. An
-inner world of pure elasticity. But it is balanced, even disciplined by an
-exterior, an outside world of scarce physical weighted value, 
-substantiated outside the confines of the written asylum in the hard reality of
-precious things. Thus we confront the duality of inside and outside money. 
-Inside money is written money, it's money that is someone else's liability, 
-money that is but an IOU. It is our political money. Outside money is
-physical money, it's no one's liability (but nature's!), it is pure asset. It is our
-anthropological money. The history of money, since the shekel, is one of a great
-tension between these two types, between inside and outside, nominal
-and metal, political and anthropological. Between the Unit of Account and Medium of
-Exchange. 
-
-With the introduction of coinage in the 7th century BC, the Medium of Exchange would
-begin an evolutionary trajectory towards ever more accessible and prominent forms.
-We will have more to say about coins and the development of media of exchange
-later on. But the technology of written accounts - of accounting - would not evolve considerably 
-for another thousand years until the development of Hindo-Arabic numerals and Islamic
-bookeeping techniques in the late first millenium AD.[^islamic-bookeeping] As
-these techniques collided with the new paper technology and paper money
-radiating out of China, the confluence of advances in accounting and writing technology once
-again breathed fresh life into the Unit of Account, unlocking powerful new mechanisms 
-for debt denomination to restructure society. These mechanisms would be most
-famously weilded by the merchant bankers of Renaissance Italy as they ignited a
-banking revolution.
+In the previous post, we explored the origins of the Unit of Account. Here, we
+explore its tension with the Medium of Exchange: liquidity.
 
 ## Balancing the Books
 
@@ -415,8 +269,8 @@ adhoc basis to reckless financial institutions and other large firms. These
 efforts have completely undermined the real economy, and while central banks
 think they are creating oceans of liquitity to drench the world in, the small
 and medium sized enterprises at the heart of the economy have been virtually cut
-off. Since the collapse of the eurodollar engine in 2008, and especially since
-the Basel III regulations came into place, liquidity has all but vanished.
+off. Since the collapse of the eurodollar engine in 2008, and exacerbated by 
+the Basel III regulations, liquidity has all but vanished.
 
 Fortunately, there is hope, and it does not depend on the coordinated action of
 large players. Rather, modern technology allows us to revisit the magic
@@ -424,7 +278,7 @@ mechanisms of the trade fairs to enable clearing across large numbers of firms
 without any liquidity at all. Networks of trade can fight back against the
 entrenched powers and their hoarding of liquidity through explicit
 collaboration, restoring the medium of exchange as a vehicle for clearing debts,
-not for accumulating value.
+rather than for accumulating value.
 
 We call this new approach [Collaborative Finance (CoFi)](https://cofi.informal.systems).
 The CoFi perspective is focused on understanding the payments graph itself -
@@ -518,4 +372,5 @@ of the idea of money as metonym rather than metaphor.
     to the "liquidity" principle and the trouble therein.
 [^rockfeller]: Notable in this regard is TODOs quote that his endowment to the
   University of Chicago was the best investment he ever made.
+[^captured-risk]: TODO ummodern
 

@@ -1,4 +1,18 @@
 
+## ToC
+
+- Intro
+- Origins of Account
+- Accounting for Liquidity
+- Liquidating Exchange
+- Exchanges of Legitimacy
+- Legitimating Value
+- Valuing Solvency
+- Resolving Sovereign Origins
+
+
+
+
 ## MoE - Settling Debts, Here and Now
 
 The Medium of Exchange allows us to settle our debts, here and now.
