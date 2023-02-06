@@ -1,17 +1,62 @@
 
-## ToC
+--- 
+title: "The Properties of Money - Raw" 
+date: 2022-10-16
+draft: false 
+---
 
-- Intro
-- Origins of Account
-- Accounting for Liquidity
-- Liquidating Exchange
-- Exchanges of Legitimacy
-- Legitimating Value
-- Valuing Solvency
-- Resolving Sovereign Origins
+## Draft ToC 
+
+1. Intro 
+    - Intro
+    - Money as Settlement
+    - Properties and Tensions
+1. Origin Account
+    - Origins: Reproducing Families and States
+    - Hey, there's metal in this money!
+    - Outside in, Inside out
+1. Accounting for Liquidity
+    - Balancing the Books
+    - Settling Up
+    - Wherefore Art Thou Liquidity
+    - Booking the Balance
+    - CoFi
+1. Liquidating Exchange
+    - MoE as proof of Value. 
+    - Imbalance, Outside money, Sacrifice
+    - Coins. War. Markets
+    - Kuroda Axes
+    - PPP
+1. Exchanges of Legitimacy
+    - Social construction, evaluating value
+    - Coinage and Monetary dynamics 
+    - Redemption
+    - Choice in Currency
+    - DeFi
+1. Legitimating Value
+    - Value Theory
+    - Sufficiency
+    - Metals, Bonds, MMT, and Crypto
+1. Valuing Solvency
+    - Problem of Measurement (where does UoA come from, how grounded in value?)
+    - Ideology of Accounting
+    - Biophysical accounting
+    - ReFi
+1. Resolving Sovereign Origins
+    - Political money, Sovereignty, and Violence
+    - Accessibility of Sovereignty
+    - Constitution of Biophysical City-States 
 
 
+## Index
 
+1. [Intro](https://ebuchman.github.io/posts/properties-of-money/) - published
+1. [Origin
+   Account](https://github.com/ebuchman/blog/blob/uoa/content/posts/uoa-origins.md) - ready draft
+1. [Accounting for
+   Liquidity](https://github.com/ebuchman/blog/blob/uoa/content/posts/uoa-liquidity.md) - working draft
+
+The rest is mostly unwritten, with an incomplete sketch below.
 
 ## MoE - Settling Debts, Here and Now
 
