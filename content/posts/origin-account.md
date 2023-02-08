@@ -7,7 +7,7 @@ and the basic idea of inside and outside money."
 ---
 
 *This post is part of a series on the Properties of Money. See the
-[introduction](/properties-of-money)*
+[introduction](https://ebuchman.github.io/posts/properties-of-money/)*
 
 In the introduction we outlined that the key function of money is to make payments - 
 to denominate and discharge debts - and that its three properties can be defined as follows:
