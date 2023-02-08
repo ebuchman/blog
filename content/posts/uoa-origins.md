@@ -39,7 +39,7 @@ human families have reproduced themselves for tens or hundreds of thousands of
 years.
 
 The political origin of money is much more recent; a fabrication of the Neolithic, 
-of the new found need to manage agricultural surplus. 
+of the newfound need to manage agricultural surplus. 
 It is embedded in the logic of formal accounting, states, and writing, 
 of grain inventories and tax collection, of credits and payments for food and labour. 
 
@@ -54,8 +54,8 @@ In anthropological money, the accounting follows the logic of kinship and
 religion, of the circulation of reproductive power (women) and justice (divine grace).
 Units of Account are taken from nature in the form of stable quantities of valuable 
 material private possessions that represent wealth - heads of cattle (or people), 
-units of shell or gems, bracelets of silver. 
-These are prized and accumulated for their practically religious value.
+units of shell or gems, bracelets or ingots of silver. 
+These are prized and accumulated for their essentially religious value.
 But they do not necessarily become generalized media of exchange, used to lubricate markets.
 Rather, they are used to denominate payment in a certain circuit of social obligations by
 virtue of their prestige - their ability to store value.
@@ -67,7 +67,7 @@ earlier token-based accounting techniques that go back to the early
 Neolithic.[^early-writing]
 Ever since we've had agricultural surplus, we've had technology to account for it.
 
-This accounting is a process of creating new, persistent computational spaces outside our brains
+This latter form of accounting is a process of creating new, persistent computational spaces outside our brains
 to represent - and thereby manage - reproduction on a much grander scale. 
 It constitutes a new medium for denominating and discharging obligations - 
 ultimately, a new medium of money.
@@ -112,7 +112,7 @@ by way of their density, as a weight.
 Perhaps it was the earliest metal weights, representing masses of real goods (grain, oil, etc.),
 that would motivate the equivalence between weights of metal and the settlement
 of debts denominated in grain. A large count of grain would have, on average, a
-roughly consistent weight, which could be represented by a much smaller object,
+roughly consistent weight, which could be represented by a much smaller object:
 a weight of silver. The word shekel itself even means "to weigh" - but also, "to
 pay."
 
@@ -143,12 +143,13 @@ Different media of exchange flowing in different circuits of obligation.
 
 Over time, weights of silver would come to play an increasingly important role
 as a Medium of Exchange as the scale of commerce grew. 
-Thus for *two thousands years*, up to and even beyond the
+Thus for *two thousand years*, up to and even beyond the
 introduction of coinage in the ~7th century BC, money was defined in terms of a weight of metal.
 And finance, even a thousand years before coinage, 
 was surprisingly modern.[^modern-assyria] 
-Coinage will no doubt play a critical role in our story, but money as a weight
-of precious metal is a much older phenomenon.
+Coinage will no doubt play a critical role in our story, but money, 
+as a weight of precious metal, 
+is a much older phenomenon.
 
 ## Outside In, Inside Out
 
@@ -157,10 +158,15 @@ kinship circuits to balance the circulation of natural, religious, and reproduct
 the defining circuit of political money 
 is the simple *fiat loop*
 between the state and the individual, between state spending and taxation,
-denominated in the state's Unit of Account.[^fiat-loop]
+denominated in the state's Unit of Account.
 This loop is made possible by writing, but it is instantiated with a new kind of
 power by the link between the written nominal unit and an intrinsic quantity of material - 
 between the Unit of Account and the value stored in its medium. 
+The fiat loop is emphasized heavily by MMT and Chartalist schools
+of money. While this loop between individual and State no doubt plays a critical role, it implies a
+narrow focus on the political form of money, at the expense of the
+anthropological form. 
+
 
 The Unit of Account offers us the ability to denominate unlimited amounts of debt, 
 to define entire ecosystems of unhinged money inside our written accounts. An
@@ -169,12 +175,25 @@ exterior, an outside world of scarce physical value,
 substantiated outside the confines of the written asylum in the hard reality of
 substantive things. Thus we confront the duality of inside and outside money. 
 Inside money is written money, it's money that is someone else's liability, 
-money that is but an IOU. It is our political money. Outside money is
-physical money, it's no one's liability (but nature's!), it is pure asset. It is our
-anthropological money. The history of money, since the shekel, is one of a great
-tension between these two types, between inside and outside, nominal
-and metal, political and anthropological. Between the Unit of Account and Medium of
-Exchange. We call this tension *liquidity*.
+money that is but an IOU. It is political money. Outside money is
+physical money, it's no one's liability (but nature's!), it is pure asset. It is 
+anthropological money. 
+
+The MMT focus on political/inside money is no doubt
+motivated by a world where the dominant outside money is actually just the
+liabilities of a central bank - itself a kind of inside money, pretending to be
+outside, an emperor without clothes. How the accounting done by the anthropological/outside money comes to be 
+embedded in that of political/inside money is a profound problem. 
+The MMT crowd is inclined to delegate the relevant
+accounting largely to processes of government spending, but this is almost certainly
+insufficient. Beyond just thinking about the fiat loop, it is worth looking for loops that might 
+exist throughout the trade economy, accounting for other aspects of reproduction. 
+It turns out these loops exist in [significant
+proportions](https://cofi.informal.systems/FAQ#how-much-trade-credit-is-in-cycles), and can 
+provide the foundation for [new systems of collaborative debt
+reduction](https://cofi.informal.systems/). We can see from such systems the great
+power to be had in rethinking the structure of the Medium of Exchange. We'll get
+to that.
 
 With the introduction of coinage in the 7th century BC, the Medium of Exchange would
 begin an evolutionary trajectory towards ever more accessible and prominent forms,
@@ -189,9 +208,14 @@ radiating out of China, the confluence of advances in accounting and writing tec
 again breathed fresh life into the Unit of Account, unlocking powerful new mechanisms 
 for debt denomination to restructure society. And as the
 [Mongols](https://ebuchman.github.io/posts/2020-04-25-modest-mongolian/) brought a
-thousand years of Eastern cultural evolution back West, these mechanisms would 
+thousand years of Eastern cultural evolution back West, these mechanisms would
 most famously come to be wielded by the merchant bankers of Renaissance Italy as they ignited a
 banking revolution that would turn money inside out.[^why-italy]
+
+The history of money, since the shekel, is one of a great
+tension between two types, between inside and outside, nominal
+and metal, political and anthropological. Between the Unit of Account and Medium of
+Exchange. We call this tension *liquidity*.
 
 We turn to the banking system, and the problem of liquidity, next.
 
@@ -241,13 +265,14 @@ We turn to the banking system, and the problem of liquidity, next.
     According to this theory, each shape represented a different good (e.g.
     grain, oil, etc.) - if I lent you some grain, I'd keep an object in the
     shape that meant "grain" to account for the debt, and I'd destroy the object
-    when you pay the grain back. During the late Calcolthic, the shapes begin to
-    be found in clay "envelopes" which presumably represent a collection of debts 
-    Ultimately the shapes come to be stamped into the surface of the
-    clay, which according to Mattessich (1994) represent an early form of double entry accounting. 
-    This appears to be the origin of Cuneiform writing in Mesopotamia. Not long after, by around
+    when you pay the grain back. During the late Neolithic, the shapes begin to
+    be found in clay "envelopes" which presumably represent a collection of debts.
+    Ultimately the shapes come to be stamped directly into the surface of the
+    clay before being deposited in the envelope, 
+    which according to Mattessich (1994) represents an early form of double entry accounting. 
+    This appears to be the origin of cuneiform writing in Mesopotamia. Not long after, by around
     3300 BC, the objects are discarded with and debts are accounted for by marks
-    etched directly into Cuneiform. Writing had been born. 
+    etched directly into clay tablets. Writing had been born. 
 
 [^uoa-standardization]: We first find reference to shekels in Sumerian city states of the late 4th/early 3rd millennium.
     By the mid-3rd millennium, Sargon of Akkad ruled over the world's first empire and standardized the measurement system across city states, 
@@ -277,9 +302,10 @@ We turn to the banking system, and the problem of liquidity, next.
 [^drumm-metonym]: See Chapter 1 in Drumm (2021) for critique of "money as
     metaphor" (and two of its main proponents, Aristotle and Marx), and for elucidation
     of "money as metonymy." The notion of "money as metaphor" takes for granted
-    the cost to provision the market and the availability of the money itself. Modern markets
-    are defined by bid/ask spreads set by dealers who make markets liquid, and
-    as those spreads widen, the market can effectively disappear. Money as
+    the cost to provision the market and the availability of the money itself. In modern markets,
+    goods do not have a singular price the way "money as metaphor" might suggest.
+    Rather, there are different prices for buying and selling a good, separated by a spread set by the dealers who 
+    make markets liquid. As those spreads widen, the market can effectively disappear. Money as
     metonymy emphasizes the inherent temporal quality of markets and monetary
     dynamics.
 
@@ -291,27 +317,11 @@ We turn to the banking system, and the problem of liquidity, next.
     silver mines but where silver's monetization was less developed. Hence the
     emergence of a silver arbitrage trade.
 
-[^fiat-loop]: The fiat loop is emphasized heavily by MMT and Chartalist schools
-    of money. While this loop between individual and State no doubt plays a critical role, it implies a
-    narrow focus on the political form of money, at the expense of the
-    anthropological form. Or we could say, on inside money vs outside money. This is no doubt
-    motivated by a world where the dominant outside money is actually just the
-    liabilities of a central bank.
-    How the accounting done by the anthropological/outside money comes to be 
-    embedded in that of political/inside money is
-    a profound problem. The MMT crowd is inclined to delegate the relevant
-    accounting largely to processes of government spending, but this is almost certainly
-    insufficient. Beyond just thinking about the fiat loop, it is worth looking for loops that might 
-    exist throughout the trade economy, accounting for other aspects of reproduction. 
-    It turns out these loops exist in [significant
-    proportions](https://cofi.informal.systems/FAQ#how-much-trade-credit-is-in-cycles), and can 
-    provide the foundation for [new systems of collaborative debt
-    reduction](https://cofi.informal.systems/)!
 
 [^islamic-bookeeping]: According to the Quran, Muslims were required to follow
     strict accounting practices in order to satisfy the requirements of *zakat*,
     a form of religious tax. With the rise of an Islamic state in the 7th
-    century AD, this became law, and the State under took comprehensive
+    century AD, this became law, and the State undertook comprehensive
     accounting practices, which were likely copied by Islamic merchants, who in
     turn would influence the Italians. These Muslim accounting practices
     included many of the precursors to the double entry bookkeeping that would later arise in 
