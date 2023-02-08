@@ -2,6 +2,8 @@
 title: "The Properties of Money - Origin Account"
 date: 2023-02-07
 draft: false 
+description: "Part of our series on the Properties of Money. This post explores the Unit of Account, its origins, 
+and the basic idea of inside and outside money."
 ---
 
 *This post is part of a series on the Properties of Money. See the
