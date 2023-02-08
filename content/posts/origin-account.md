@@ -1,6 +1,6 @@
 --- 
 title: "The Properties of Money - Origin Account"
-date: 2022-12-11
+date: 2023-02-07
 draft: false 
 ---
 
