@@ -34,8 +34,8 @@ Consider that there are, broadly speaking, two distinct origins of money, and wi
 We might call these the "anthropological" origin and the "political" origin. 
 
 The anthropological origin of money is embedded in the logic of kinship;
-in the exchange of women and the settling of feuds, 
-in dowries and wergeld, payments for brides and for transgressions.[^anthro-origin] 
+in negotiating reproduction and in settling feuds, 
+in dowries and wergeld, payments in celebration and for transgression.[^anthro-origin] 
 We take this to be the older of the two, a staple of the Paleolithic, of the way
 human families have reproduced themselves for tens or hundreds of thousands of
 years.
@@ -53,7 +53,7 @@ see, each flows in its own way, representing different kinds of circuits, and a
 basic distinction between outside and inside money. 
 
 In anthropological money, the accounting follows the logic of kinship and
-religion, of the circulation of reproductive power (women) and justice (divine grace).
+religion, of reproductive power and justice.
 Units of Account are taken from nature in the form of stable quantities of valuable 
 material private possessions that represent wealth - heads of cattle (or people), 
 units of shell or gems, bracelets or ingots of silver. 
@@ -257,7 +257,7 @@ We turn to the banking system, and the problem of liquidity, next.
     and leads Ingham and others to take this as an argument for money's origin in law. What these theorists miss is that
     what we call the anthropological origin includes not just the institutions of law (e.g.
     wergeld and religious payments) but also the institutions of marriage (e.g. dowries), and the
-    latter is probably actually the older. The critical role of dowries, bride-wealth, and women in early monetary circuits and logic is
+    latter is probably actually the older. The critical role of women and reproductive power in early monetary logic is
     explored more fully by the [Mimbres
     School](https://www.patreon.com/MimbresSchool/posts).
 
