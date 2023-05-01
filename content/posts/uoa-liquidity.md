@@ -11,8 +11,8 @@ In the introduction we outlined that money is for making payments - for settling
 debts - and that its properties can be defined functionally:
 
 - the _Unit of Account_ is for denominating debts
-- the _Medium of Exchange_ is for clearing debts, here and now
-- the _Store of Value_ is for clearing debts, elsewhere or later
+- the _Medium of Exchange_ is for discharging debts, here and now
+- the _Store of Value_ is for discharging debts, elsewhere or later
 
 We also introduced the tensions between them:
 
@@ -20,10 +20,13 @@ We also introduced the tensions between them:
 - _MoE/SoV_: **legitimacy** - the tension between "bad" and "good" money
 - _SoV/UoA_: **solvency** - the tension between deflation and inflation
 
-In the previous post, we explored the origins of the Unit of Account. Here, we
-explore its tension with the Medium of Exchange: liquidity.
+In the [previous post](https://ebuchman.github.io/posts/origin-account/), 
+we explored the origins of the Unit of Account, and introduced the idea of
+inside and outside money. 
+Here, we explore the tension generated beteen inside and outside money, 
+between the Unit of Account and the Medium of Exchange: liquidity.
 
-## Balancing the Books
+## Hierarchy of Money
 
 The distinction between inside and outside money opens up a kind of hierarchy,
 rooted in outside money, and branching into increasingly contained insides.
@@ -32,27 +35,74 @@ the emergence of bookeeping and banking, and accelerates with the adoption of ba
 means of exchange. Bank deposits are the most common example of the emergence of
 a widely successful inside money.
 
-Bookeeping and banking enabled clearing activities to flourish.
-Clearing allows debts to be settled by balancing txs within and across balance sheets,
-without resorting to a medium "higher" in the hierarchy. If I owe you, I can pay
-you with outside money like gold - this is the highest level in the hierarchy. 
-But if we both have an account at the same bank, I can pay you by the bank simply 
-updating its balance sheet to owe me less and you more - so we can clear debts at a 
+More generally, we can think of inside and outside money as relative terms,
+relative to a particular community. Money created on the balance sheets of the community's members is
+inside money, and money created outside the community is outside money.
+The most common community to consider is that of commercial banks, where inside
+money is the deposits they create and outside money is gold, or the reserves of
+central banks. We could also consider the community of central banks, for which the inside money is their own reserves, 
+and outside money would be gold, or perhaps Bitcoin.
+
+Communities are thus organized into a hierarchy according to the relation
+between their inside and outside monies. At the top of the hierarchy are
+the central banks with the high powered money of their nation. Of course these
+monies were once anchored by metals, which could still perhaps said to be the
+highest layer in the hierarchy.
+
+Next in the hierarchy tend to be the  the commercial banks, which are granted license to create an inside money
+which are decreed by the government to be valid outside money for *everyone
+else*. And then there is everyone else, who are hardly trusted to generate their
+own inside monies, except in limitted cases, or in the basic case of IOUs
+between groups of friends.
+
+## Balancing the Books
+
+What's notable about inside money - 
+about accounting solely on the balance sheets of a community - 
+is the possibility it opens for *clearing*. Bookeeping and banking enabled
+clearing activities to flourish. Today, apps like Splitwise let groups of friends clear
+their own inside money. In contrast to *settlement*, which requires
+outside money be transferred to discharge a debt, clearing allows 
+debts to be discharged by balancing transactions within and across balance sheets,
+without resorting to a medium "higher" in the hierarchy. 
+
+Consider a simple example. Leaving out other complexities of the payments
+system, suppose I can pay you in gold, in bank deposits, or in bilateral IOUs.
+Gold is the highest level in the hierarchy, a universal outside money, and I
+can pay you in gold by physically transfering it to you. But if we
+both have an account at the same bank, I can pay you by having the bank simply 
+update its balance sheet to owe me less and you more - so we can clear debts at a 
 lower level in the hierarchy, without resorting to gold, directly on the bank's balance sheet. 
-And if you and I have continuous bilateral obligations, where I owe you and
+For me, this is still settlement, because bank deposits are outside money for
+me. But for the bank, it's *clearing*, since it can effect the transfer directly
+on its balance sheet - an inside money - without resorting to a higher layer. 
+
+But if you and I have continuous bilateral obligations, where I owe you and
 later you owe me, we could continuously renew and redeem monetary debts to
 one another without ever having to transfer any kind of money at all, just by keeping bilateral accounts
 between ourselves - the lowest level in a hierarchy of money, our
-own IOUs. 
+own IOUs. In this case, we're issuing our own inside money, and so we can
+benefit from clearing.
 
 This hierarchy is a hierarchy of computational spaces, where each space
 constitutes its own medium for the denomination and settling of debts. The line begins to blur
 between the Unit of Account and Medium of Exchange, as the balance sheets on
-which we account become media themselves for clearing debts. And so the
-term Medium of Exchange becomes more relative, generally meaning a medium one level up from where you 
-denominate your debts.
+which we account become media themselves for clearing debts. Both inside and
+outside moneys can function as a medium of exchange, but it is more difficult to
+view inside moneys in this light. Hence media of exchange are most commonly
+thought of as an outside money. For most people, this is their commercial bank
+deposits. For the banks, its the central bank reserves. However, especially for
+banks, they have tremendous networks of inside money, which form a very real
+medium of exchange for them, and serve as the substrate of the eurodollar
+system. For our purposes, for a given community, we consider clearing and inside money to be a function of of the Unit
+of Account, and take settlement and outside money to be a function of the Medium
+of Exchange.
 
-So you and I can keep track of what we owe eachother, and maybe do some clearing, 
+TODO: goal to get ppl to use inside money as dominant MoE ...
+- inside money = MoE based on UoA
+- outside money = MoE based on SoV
+
+To summarize. You and I can keep track of what we owe eachother, and maybe do some clearing, 
 but our real Medium of Exchange is our bank deposits, which we'll use to settle
 our debts if an imbalance between us persists too long. But if we bank at
 different banks, those banks will have debts to one another, which they might be
@@ -60,8 +110,8 @@ able to clear bilateraly, but if imbalances persist too long, they will also
 have to rise to a higher level in the hierarchy to settle, for instance with the
 Medium of Exchange of bank reserves on the balance sheet of the central bank. 
 
-The point of all this is to demonstrate that access to a higher level of the hierarchy - 
-to the medium of exchange - is only necessary in so far as there are *imbalances* in 
+The point of all this is to demonstrate that access to a higher level of the hierarchy - access to outside money or the medium of exchange -
+is only necessary in so far as there are *imbalances* in 
 the payments graph being cleared in the lower level. 
 We find here the deep tension between the Unit of Account and the Medium of
 Exchange - between the elasticity permitted by the Unit of Account and the discipline asserted by the Medium of Exchange. 
@@ -174,7 +224,8 @@ matter for. Are they even money? If so, they're only money for banks, and most
 interbank transactions don't use them anyways. The problem of liquidity is
 buried in the shadows of the network of bank balance sheets and the credits they create with
 one another. But inconcistencies and imbalances in these networks periodicially spill over
-into the visible realm of bank reserves in the great liquidity crises of banking history.
+into the visible realm of bank reserves in the great liquidity crises of banking history. 
+And such crises are becoming increasingly common.
 
 ## Booking the Balance
 
@@ -219,8 +270,9 @@ European Payments Union to do that, an institution designed to balance the
 payments graph amongst its members by transferring those bilateral relations to
 multilateral ones that could be cleared.[^end-of-finance-epu]
 The EPU was deemed such a success they thought they no longer
-needed it, and tragically shut it down after less than 10 years.
-Later (TODO when?), when the US had become the world's largest debtor,
+needed it, and tragically shut it down after less than 10 years. It would almost
+immediately be replaced by the nascent eurodollar system.
+Later on in the 60s, when the US had become the world's largest debtor,
 and was pushing for the creation of new reserve assets at the IMF (the
 SDRs), the European representatives insisted that there was no need for more
 reserve assets, but rather a need to balance the payments
@@ -236,7 +288,7 @@ large-scale destructive effects of capitalism on the world.
 
 ## Collaborative Finance
 
-Money, its instabilities, and the anxieties it produces, are age old phenomena.
+Money, its instabilities, and the anxieties it produces, are ancient phenomena.
 As a technology of debt denomination, money posits a discipline of predicting
 the future, predicting the ability for people to pay back debts. 
 But these predictions regularly fail as imbalances build up in the obligation graph from a multitude
@@ -293,8 +345,7 @@ sustainable economic growth itself.
 At the heart of this thinking is the problem of imbalances in the payment graph - 
 what can't be accounted for and thus cleared in the UoA alone,
 and how they must "spill out" into the domain of the Medium of Exchange. 
-We turn to the Medium of Exchange, and its tension with the Store of Value, next.
-Stay tuned.
+We turn to the Medium of Exchange, next.
 
 
 ## Bibliography
