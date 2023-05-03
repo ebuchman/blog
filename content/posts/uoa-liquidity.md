@@ -38,21 +38,23 @@ a widely successful inside money.
 More generally, we can think of inside and outside money as relative terms,
 relative to a particular community. Money created on the balance sheets of the community's members is
 inside money, and money created outside the community is outside money.
-The most common community to consider is that of commercial banks, where inside
-money is the deposits they create and outside money is gold, or the reserves of
-central banks. We could also consider the community of central banks, for which the inside money is their own reserves, 
-and outside money would be gold, or perhaps Bitcoin.
+The most common community to consider is that of commercial banks, where the deposits 
+they create on their own balance sheets is inside money, and the bank
+reserves they use for settling between eachother is outside money. 
+Similarly for central banks - the bank reserves they create are inside money,
+and the foreign reserves they use for settling between eachother are outside
+money. Of course the primary foreign reserve used to be gold, though now it is
+the US dollar. Which means the US central bank doesn't seem to be grounded by any kind of
+an outside money. Which is an interesting kind of a problem.
 
 Communities are thus organized into a hierarchy according to the relation
-between their inside and outside monies. At the top of the hierarchy are
-the central banks with the high powered money of their nation. Of course these
-monies were once anchored by metals, which could still perhaps said to be the
-highest layer in the hierarchy.
-
-Next in the hierarchy tend to be the  the commercial banks, which are granted license to create an inside money
-which are decreed by the government to be valid outside money for *everyone
-else*. And then there is everyone else, who are hardly trusted to generate their
-own inside monies, except in limitted cases, or in the basic case of IOUs
+between their inside and outside monies. At the very top of the hierarchy 
+is the US central bank, followed by the other central banks, which manage the
+high powered money of their nations. Next are the commercial banks, 
+who are granted license by their governments to create an inside money
+that is deemed valid outside money for *everyone else*. 
+And then there is everyone else, who are hardly trusted to generate their
+own inside monies at all, except in limited cases, or in the basic case of IOUs
 between groups of friends.
 
 ## Balancing the Books
@@ -85,7 +87,7 @@ own IOUs. In this case, we're issuing our own inside money, and so we can
 benefit from clearing.
 
 This hierarchy is a hierarchy of computational spaces, where each space
-constitutes its own medium for the denomination and settling of debts. The line begins to blur
+constitutes its own medium for the denomination and discharge of debts. The line begins to blur
 between the Unit of Account and Medium of Exchange, as the balance sheets on
 which we account become media themselves for clearing debts. Both inside and
 outside moneys can function as a medium of exchange, but it is more difficult to
@@ -110,7 +112,8 @@ able to clear bilateraly, but if imbalances persist too long, they will also
 have to rise to a higher level in the hierarchy to settle, for instance with the
 Medium of Exchange of bank reserves on the balance sheet of the central bank. 
 
-The point of all this is to demonstrate that access to a higher level of the hierarchy - access to outside money or the medium of exchange -
+The point of all this is to demonstrate that access to a higher level of the hierarchy - 
+access to outside money or the medium of exchange -
 is only necessary in so far as there are *imbalances* in 
 the payments graph being cleared in the lower level. 
 We find here the deep tension between the Unit of Account and the Medium of
@@ -185,7 +188,7 @@ imbalances in the payments graph.
 More anxiously, then, we might ask how these imbalances, built up in the networks of trade and finance,
 might relate to the general availability of the Medium of Exchange required to settle them.
 Say, to the extent that obligations are not part of closed loops that can be
-netted out, where and how are we to get the media to clear them all? And why should there be enough of it? 
+netted out, where and how are we to get the media to settle them all? And why should there be enough of it? 
 Wherefore art thou liquidity?
 
 This tension, between the elasticity of the Unit of Account and the discipline of the Medium of Exchange,
@@ -198,12 +201,12 @@ collapsing chains of obligations in a decentralized clearing process called
 the *rescontre*.[^rescontre] The process was so efficient, the merchant-bankers hardly needed
 to use any money at all, and generally only brought enough with them for their personal
 expenses. These fairs were phenomenal in their pursuit of balancing the payments
-graph.
+graph.[^boyer]
 
 But this balancing act would soon give way to a new institutional form.
 By the end of the 16th century, the institutions of money found themselves on the precipice of 
 a transformation from engine of trade to engine of war finance. Not that money
-hadn't for two millenia or more been intimitately tied up in war. But a monetary and
+hadn't for millenia been intimitately tied up in war. But a monetary and
 financial revolution was looming that would institutionalize a new kind of imbalance: 
 the permanent debts of the state. Responsibility for monetizing these debts was
 distributed across a new kind of banking system taking hold of Europe, anchored
@@ -212,9 +215,10 @@ by Central Banks.
 As central banks and centralized clearing unions came to take over from the 
 decentralized clearing fairs, they would introduce a new kind of money, the bank "reserves",
 that could function as a Medium of Exchange within the clearing union. 
-Global trade moved from a system of global ghost currency units, used
-primarily for accounting and clearing, to one of global *reserve* currency
-units, used to provide liquidity. Attention turned from balancing the payments graph to issuing enough
+Global trade moved from a system based on an international unit of account, used
+primarily to *save* liquidity, to one based on an international medium of
+exchange, a reserve currency used to *provide* liquidity. 
+Attention turned from balancing the payments graph to issuing enough
 reserves. We transitioned from a quality theory of money to a quantity theory.
 
 Concerns continue to abound as to the problem of responsibly issuing reserves,
@@ -280,7 +284,7 @@ graph.[^superimperialism]
 
 These calls to balance the payments graph harken back to the trade fairs,
 which were able to clear huge volumes of trade without the need for almost any
-external liquidity - the graph was balanced. How it came to be
+liquidity - the graph was balanced. How it came to be
 unbalanced, and how the financial system transitioned from a principle of
 clearing (that is, liquidity saving) to one of liquidity (that is, liquidity
 provisioning), is a deep historical question that may lie at the heart of the
@@ -354,61 +358,43 @@ We turn to the Medium of Exchange, next.
 - Bagehot (1873). Lombard Street.
 - Borner & Hatfield (2017). The Design of Debt Clearing Markets: Clearinghouse
 Mechanisms in Pre-Industrial Europe.
-- Drumm (2021). The Difference That Money Makes.
 - Hudson (1972). Super Imperialism.
-- Hudson (2004). The Archaeology of Money: Debt versus Barter Theories of Money's Origins.
-- Ingham (2004). The Nature of Money.
-- Veenhof (1997). "Modern" Features in Old Assyrian Trade.
+- TODO
 
 ## Notes
 
-[^superimperialism]: See Hudon's Superimperialism, pg 348, and more generally
-  for the relevant history of negotiations over the structure of the global monetary system.
-[^schumacher]: E.F. Schumacher is best known for his book "Small is Beautiful"
-  and for his role as a forerunner of "ecological economics." 
-  Keynes took him on as a protoge. His article on 
-  [Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/)
-  was the basis for his and Keynes' bancor proposal at Bretton Woods.
-[^early-writing]: TODO: Schmandt-Besserat. We did accounting in physical shapes. Earliest writing were
-    "recipts" - the tokens impressed into clay. Destroyed what was paid back, so
-    we only see unpaid debts.
-[^uoa-standardization]: We first find reference to shekels in Sumerian city states of the late 4th/early 3rd millenium.
-By the mid-3rd millenium, Sargon of Akkad ruled over the world's first empire and standardized the measurement system across city states, 
-leading to a more precisely defined shekel.
-[^anthro-origin]: Ingham (2004) similarly distinguishes two origins of money
-    the first based on an institutionalization of public debts to society (the
-    Wergeld type), the second on the "need to calculate equivalencies of goods in the
-    agrarian command economies." Hudson (2004) distinguishes three origins; one
-    is wergeld, two is feasts (TODO), and the third is our political money. We
-    combine Hudson's first two in our "anthropological" money. Notably, these
-    sources do not emphasize the role of dowries and bridewealth. The critical role of
-    dowries, bridewealth, and women in early monetary circuits and logic is
-    explored more fully by the Mimbres School.
-[^modern-assyria]: See Veenhof (1997). For instance by the early 2nd millenium BC there is full blown 
-profit-seeking arbitrage trade, denominated in silver, and organized as investment contracts. 
-Goods were exported from Mesopotamia to Anatolia where they were exchanged for silver 
-that could be brought back to Mesopotamia. As Mesopotamia had no silver mines and had already monetized
-silver, the metal was much dearer there than it was in Anatolia, which did have
-silver mines and where silver's monetization was less developed. Hence the
-emergence of a silver arbitrage trade.
+[^energy-cycles]: Sustainable systems are those that are able to continuously
+    cycle energy. This is the intuition behind "circular economics." But it can
+    be nurtured by design of the monetary system to focus on the flows and the cyclic
+    structure of the network ("quality theory of money") rather than the
+    stocks and the aggregate structure ("quantity theory"). See my post on
+    [the velocity of money](https://ebuchman.github.io/posts/velocity/), and my talk on 
+    [Stakeholders and Statemachines](https://www.youtube.com/watch?v=Luh7m7YHRts), for more.
 [^rescontre]: See Borner & Hatfield (2017) for a historical overview as well as economic analysis of the Pareto 
 efficiency of these mechanisms. Merchant bankers met quarterly at the fairs with
 their books of bills of exchange and spent a few days finding chains and loops of bills
 with others at the fair that could be cleared. This decentalized clearing
-was ultimately disrupted by the rise of central banks and clearing houses which,
+was ultimately replaced by central banks and clearing houses which,
 though technically less Pareto efficient, were able to incentivize use through
-other means.
-[^guilt-debt]: TODO examples
-[^axes]: TODO. examples. and axe symbol for metal becomes symbol for shekel?
-[^islamic-bookeeping]: TODO religious accounting for inheritance
-[^drumm-metonym]: See Chapter 1 in Drumm (2021) for a more complete elucidation
-of the idea of money as metonym rather than metaphor.
-[^energy-cycles]: TODO: rainbow and the worm, stakeholders and statmachine
+other means. 
+[^boyer]: See Boyer-Xambeu et al (TODO) for a detailed expose of how 
+    the graph was balanced, and the incentivizes for balancing it. They argue that
+    merchant bankers organized a hierarchical system of exchange rates anchored
+    in the fairs of a central city, and that by balancing the graph of payments,
+    they were able to systematically harvest as profit the seinorage charged by princes.
+    In other words, balancing the payments graph allowed them to systematically profit by 
+    exploiting the spread created by seignorage on coins. This system was
+    originally anchored by the Florentine bankers in the fairs of Lyons under allegiance with
+    France, an arrangement that was ultimately disrupted by the Genoese
+    bankers in Bisenzone under allegiance with Spain. The Genoese-Spanish
+    alliance introduced a structural imbalance based around financing the
+    Spanish military effort, and ushered in what Arrighi (1994) calls the first
+    "systemic cycle of accumulation."
 [^bagehot-freebanking]: Bagehot is famous for his advice to central banks,
     that in times of crisis they should "lend freely, at high interest, on good
     collateral, to solvent firms". This is the "Bagehot rule".
-    While lip service continues to be paid to Bagehot and his rule, the only part 
-    actually followed is to "lend freely", but alas, at low interest, on junk
+    While lip service continues to be paid to Bagehot and his rule, and
+    especially to "lend freely", to often it is done at low interest, on junk
     collateral, to insolvent firms. Notably, and less well known, Bagehot was
     actually against the system of central banking, and preferred a system of
     competitive note issue between private banks, where each bank held and
@@ -418,10 +404,16 @@ of the idea of money as metonym rather than metaphor.
     less responsible "wildcat banking" that emerged in 19th century USA. Sound
     free banking systems thrived during the 19th century in Scotland and Canada.
     See TODO.
+[^schumacher]: E.F. Schumacher is best known for his book "Small is Beautiful"
+  and for his role as a forerunner of "ecological economics." 
+  Keynes took him on as a protoge. His article on 
+  [Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/)
+  was the basis for his and Keynes' bancor proposal at Bretton Woods.
 [^end-of-finance-epu]: See Amato & Fantacci (2011). The book gives an excellent
     overview of the theory and history of moving from the "clearing" principle
     to the "liquidity" principle and the trouble therein.
+[^superimperialism]: See Hudon's Superimperialism, pg 348, and more generally
+  for the relevant history of negotiations over the structure of the global monetary system.
+[^captured-risk]: TODO ummodern
 [^rockfeller]: Notable in this regard is TODOs quote that his endowment to the
   University of Chicago was the best investment he ever made.
-[^captured-risk]: TODO ummodern
-
