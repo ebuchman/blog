@@ -4,27 +4,16 @@ date: 2022-12-11
 draft: false 
 ---
 
-*This post is part of a series on the Properties of Money. See the
-[introduction](/properties-of-money)*
+This post is part of a series on the Properties of Money. See the
+[introduction](/properties-of-money). 
 
-In the introduction we outlined that money is for making payments - for settling
-debts - and that its properties can be defined functionally:
-
-- the _Unit of Account_ is for denominating debts
-- the _Medium of Exchange_ is for discharging debts, here and now
-- the _Store of Value_ is for discharging debts, elsewhere or later
-
-We also introduced the tensions between them:
-
-- _UoA/MoE_: **liquidity** - the tension between elasticity and discipline
-- _MoE/SoV_: **legitimacy** - the tension between "bad" and "good" money
-- _SoV/UoA_: **solvency** - the tension between deflation and inflation
-
-In the [previous post](https://ebuchman.github.io/posts/origin-account/), 
-we explored the origins of the Unit of Account, and introduced the idea of
-inside and outside money. 
-Here, we explore the tension generated beteen inside and outside money, 
-between the Unit of Account and the Medium of Exchange: liquidity.
+In the [last post](https://ebuchman.github.io/posts/origin-account/)
+we explored the Unit of Account, its origin, and its function in denominating debt.
+We saw how the Unit of Account manifests in anthropological and political forms,
+in outside and inside monies. Here we explore the tension between the Unit of
+Account and Medium of Exchange, between the elasticity of denominating debt
+and the discipline of discharging it here and now. We call this tension
+*liquidity*.
 
 ## Hierarchy of Money
 
@@ -37,15 +26,31 @@ a widely successful inside money.
 
 More generally, we can think of inside and outside money as relative terms,
 relative to a particular community. Money created on the balance sheets of the community's members is
-inside money, and money created outside the community is outside money.
-The most common community to consider is that of commercial banks, where the deposits 
-they create on their own balance sheets is inside money, and the bank
-reserves they use for settling between eachother is outside money. 
-Similarly for central banks - the bank reserves they create are inside money,
-and the foreign reserves they use for settling between eachother are outside
-money. Of course the primary foreign reserve used to be gold, though now it is
-the US dollar. Which means the US central bank doesn't seem to be grounded by any kind of
-an outside money. Which is an interesting kind of a problem.
+inside money, and money created outside the community is outside money. That is,
+the creation of inside money requires a kind of trust in a community, a capacity to extend
+credit, while the use of outside money indicates a kind of limit on the ability
+to generate that level of trust within the community - a need to turn to a
+"higher" source of trust. In turn, one community's outside money is often another's inside money.
+
+For most of us, our primary outside money is our bank deposits, which is just
+inside money for the banks. But the banks have their own outside money - the
+bank reserves on the balance sheet of their central bank. And once upon a time,
+even the central banks had an outside money, anchored in precious metal. Now
+they just have each other, in the form of foreign reserves, or more accurately,
+they have the US dollar. Which means the US central bank doesn't seem to be grounded by any kind of
+an outside money at all. Which is an interesting kind of a problem.
+
+Consider each bank as its own little community, consisting of the bank and its
+depositors, generating its own inside money on the balance sheet of the bank.
+Then there is the community of banks themselves, along with their central
+banks, that take great pains to make these different inside monies appear
+fully fungible and interchangable with eachother - to ensure a deposit with one
+bank can be easily transformed into a deposit with another one. 
+This is in some
+sense the whole point of a banking system, a system appears to be failing
+before our eyes as we witness some of the largest bank failures in history
+cascade through 2023 - seeing clearly the difference between one bank's
+liabilities and another.
 
 Communities are thus organized into a hierarchy according to the relation
 between their inside and outside monies. At the very top of the hierarchy 
@@ -89,20 +94,39 @@ benefit from clearing.
 This hierarchy is a hierarchy of computational spaces, where each space
 constitutes its own medium for the denomination and discharge of debts. The line begins to blur
 between the Unit of Account and Medium of Exchange, as the balance sheets on
-which we account become media themselves for clearing debts. Both inside and
-outside moneys can function as a medium of exchange, but it is more difficult to
-view inside moneys in this light. Hence media of exchange are most commonly
+which we account become media themselves for discharging debts. 
+Both inside and outside moneys can function as media of exchange. 
+But while inside money emerges from the elastic capacity of the Unit of Account
+to denominate debt, outside money manifests in the discipline imposed by Medium
+of Exchange to discharge debt here and now. 
+
+Hence media of exchange are most commonly
 thought of as an outside money. For most people, this is their commercial bank
 deposits. For the banks, its the central bank reserves. However, especially for
 banks, they have tremendous networks of inside money, which form a very real
 medium of exchange for them, and serve as the substrate of the eurodollar
-system. For our purposes, for a given community, we consider clearing and inside money to be a function of of the Unit
+system. These inside monies are built out of the trust generated within the
+banking community in its own network of debt denomination. What would it look
+like to build this kind of trust in other communities?
+
+We could thus say that the medium we use depends on where we can source trust.
+If we can source enough trust from our collective capacity to denominate debts,
+we can generate inside money as a means of exchange. But if we require a higher
+source of trust, from a outside value store, we must resort to an outside money.
+Inside money appears as a medium of exchange based in the unit of account,
+while outside money appears as a medium of exchange based in the store of value.
+
+For our purposes, for a given community, 
+we consider clearing and inside money to be a function of of the Unit
 of Account, and take settlement and outside money to be a function of the Medium
 of Exchange.
 
-TODO: goal to get ppl to use inside money as dominant MoE ...
-- inside money = MoE based on UoA
-- outside money = MoE based on SoV
+In other words, inside money appears as a medium of exchange based on the power of the unit of
+account, and outside money as a medium of exchange based on the power of the
+store of value. Of course we'll have to come back to value storage, which is
+what secures our ability to discharge debt *elsewhere or later*, but for now we
+are concerned with the Medium of Exchange and the need to discharge *here and
+now*.
 
 To summarize. You and I can keep track of what we owe eachother, and maybe do some clearing, 
 but our real Medium of Exchange is our bank deposits, which we'll use to settle
@@ -115,7 +139,8 @@ Medium of Exchange of bank reserves on the balance sheet of the central bank.
 The point of all this is to demonstrate that access to a higher level of the hierarchy - 
 access to outside money or the medium of exchange -
 is only necessary in so far as there are *imbalances* in 
-the payments graph being cleared in the lower level. 
+the payments graph being cleared in the lower level, and insufficient trust to
+roll over the imabalance into the future.
 We find here the deep tension between the Unit of Account and the Medium of
 Exchange - between the elasticity permitted by the Unit of Account and the discipline asserted by the Medium of Exchange. 
 The Unit of Account permits us to create computational spaces - our network of balance sheets - where 
@@ -148,10 +173,10 @@ payments can be simply set-off against eachother,
 no generally accepted medium of exchange need come into existence at all - 
 value is instead stored in the real world, 
 in the continuous productive capacities of the
-recipricol agents. This is what allows us to do clearing, to perform monetary
+reciprocal agents. This is what allows us to do clearing, to perform monetary
 computation without resorting to the liquidity of a medium of exchange.
 
-Of course, most agents don't have fully recipricol relations like this, allowing them
+Of course, most agents don't have fully reciprocal relations like this, allowing them
 to avoid payment in the Medium of Exchange by just clearing in the Unit of Account. I pay my accountant for their services, 
 but they don't pay me for anything (at least not
 yet!), so I can't do any clearing with them - I have to pay them cash. 
@@ -175,8 +200,8 @@ We need less money for the same volume of transactions, just by taking advantage
 of existing structure in the graph. All forms of clearing can be considered
 effectively as increasing the [velocity of money](/velocity.md). 
 But the presence of these cycles, and the opportunity to clear them, presents 
-as a much more profound thing that requires and supports a 
-greater degree of colaboration. It suggests a way for us to
+as a higher order phenomenon that requires and supports a greater degree of
+collaboration. It suggests a way for us to
 quantify the quality of our money: quality money flows in
 cycles.[^energy-cycles]
 
@@ -293,7 +318,7 @@ large-scale destructive effects of capitalism on the world.
 ## Collaborative Finance
 
 Money, its instabilities, and the anxieties it produces, are ancient phenomena.
-As a technology of debt denomination, money posits a discipline of predicting
+As a technology of debt denomination and discharge, money posits a discipline of predicting
 the future, predicting the ability for people to pay back debts. 
 But these predictions regularly fail as imbalances build up in the obligation graph from a multitude
 of sources, including natural shocks, internal mismanagement, and the institutional
@@ -309,7 +334,7 @@ Reducing the amount of metal in the coinage thus became a means of effecting deb
 relief. Of course this capacity could also be greatly abused by the sovereign
 itself, to relieve its own debts.
 
-Capitalism is marked by a new kind of debt relief, an
+Modern Capitalism is marked by a new kind of debt relief, an
 institutionaliation of the debts of the sovereign in a manner
 in which they are never really expected to be paid back - they are perenially
 deferred by becoming money. This perennial rolling over of debt gives cover to a
