@@ -47,7 +47,7 @@ banks, that take great pains to make these different inside monies appear
 fully fungible and interchangable with eachother - to ensure a deposit with one
 bank can be easily transformed into a deposit with another one. 
 This is in some
-sense the whole point of a banking system, a system appears to be failing
+sense the whole point of a banking system, a system that appears to be failing
 before our eyes as we witness some of the largest bank failures in history
 cascade through 2023 - seeing clearly the difference between one bank's
 liabilities and another.
@@ -97,13 +97,13 @@ between the Unit of Account and Medium of Exchange, as the balance sheets on
 which we account become media themselves for discharging debts. 
 Both inside and outside moneys can function as media of exchange. 
 But while inside money emerges from the elastic capacity of the Unit of Account
-to denominate debt, outside money manifests in the discipline imposed by Medium
+to denominate debt, outside money manifests in the discipline imposed by the Medium
 of Exchange to discharge debt here and now. 
 
-Hence media of exchange are most commonly
-thought of as an outside money. For most people, this is their commercial bank
-deposits. For the banks, its the central bank reserves. However, especially for
-banks, they have tremendous networks of inside money, which form a very real
+Hence, media of exchange are most commonly
+thought of as outside money. For most people, this is their commercial bank
+deposits. For the banks, its the central bank reserves. However, 
+the banks also have tremendous networks of inside money, which form a very real
 medium of exchange for them, and serve as the substrate of the eurodollar
 system. These inside monies are built out of the trust generated within the
 banking community in its own network of debt denomination. What would it look
@@ -115,15 +115,7 @@ we can generate inside money as a means of exchange. But if we require a higher
 source of trust, from a outside value store, we must resort to an outside money.
 Inside money appears as a medium of exchange based in the unit of account,
 while outside money appears as a medium of exchange based in the store of value.
-
-For our purposes, for a given community, 
-we consider clearing and inside money to be a function of of the Unit
-of Account, and take settlement and outside money to be a function of the Medium
-of Exchange.
-
-In other words, inside money appears as a medium of exchange based on the power of the unit of
-account, and outside money as a medium of exchange based on the power of the
-store of value. Of course we'll have to come back to value storage, which is
+Of course we'll have to come back to value storage, which is
 what secures our ability to discharge debt *elsewhere or later*, but for now we
 are concerned with the Medium of Exchange and the need to discharge *here and
 now*.
@@ -158,11 +150,11 @@ how they should be settled. Many governments will endow a particular medium of e
 with legal tender status (eg. bank notes), 
 while other media of exchange continue to be used alongside them (eg. fintech).
 Debts can also be settled in-kind, which is to say by something else valued in the Unit of Account
-equivalently to the original debt. This implies storing value somewhere else
-besides the medium of exchange, and using it to settle debt when necessary, if
+equivalently to the original debt - could be some labour time, a flock of chickens, a gold bracelet, and so on. 
+This implies storing value somewhere else besides the medium of exchange, and using it to settle debt when necessary, if
 possible. But arguably, the ideal way to settle is not to settle at all but to clear - 
 to bypass the transfer of any medium of exchange altogether, and instead maintain 
-a pattern of reciprocol obligations that can be netted. I owe you,
+a pattern of reciprocal obligations that can be netted. I owe you,
 and later, you will owe me, and so on. Monetary transactions without the use of
 any money.
 
@@ -233,8 +225,8 @@ By the end of the 16th century, the institutions of money found themselves on th
 a transformation from engine of trade to engine of war finance. Not that money
 hadn't for millenia been intimitately tied up in war. But a monetary and
 financial revolution was looming that would institutionalize a new kind of imbalance: 
-the permanent debts of the state. Responsibility for monetizing these debts was
-distributed across a new kind of banking system taking hold of Europe, anchored
+the permanent debts of the state. Responsibility for monetizing these debts
+would be distributed across a new kind of banking system taking hold of Europe, anchored
 by Central Banks.
 
 As central banks and centralized clearing unions came to take over from the 
@@ -346,17 +338,21 @@ of central banks in the 20th century, though they have largely failed to properl
 understand its nature and how to address it. Instead, they have become captured
 by a paradigm of systemic risk,[^captured-risk] and find themselves compounding
 moral hazard at the heart of the financial system by providing debt relief on an
-adhoc basis to reckless financial institutions and other large firms. These
-efforts have completely undermined the real economy, and while central banks
-think they are creating oceans of liquitity to drench the world in, the small
-and medium sized enterprises at the heart of the economy have been virtually cut
-off. Since the collapse of the eurodollar engine in 2008, and exacerbated by 
+adhoc basis to reckless financial institutions and other large firms. 
+Their interventions are clumsy, at best symptomatic treatments, 
+at worst accelerating inequality and sabotaging the real economy.
+
+While central banks think they are creating oceans of liquitity to drench the world in, 
+the bank reserves they create have so little to do with the process of real
+world production and trade that the small and medium sized enterprises at the heart of the economy 
+have been virtually cut off from credit. Since the collapse of the eurodollar engine in 2008, and exacerbated by 
 the Basel III regulations, liquidity has all but vanished.
 
 Fortunately, there is hope, and it does not depend on the coordinated action of
-large players. Rather, modern technology allows us to revisit the magic
+large players. Rather, modern technology allows us to revisit the 
 mechanisms of the trade fairs to enable clearing across large numbers of firms
-without any liquidity at all. Networks of trade can fight back against the
+without any liquidity at all, or in ways that reduce the amount of liquidity
+required. Networks of trade can fight back against the
 entrenched powers and their hoarding of liquidity through explicit
 collaboration, restoring the medium of exchange as a vehicle for clearing debts,
 rather than for accumulating value.
@@ -384,7 +380,8 @@ We turn to the Medium of Exchange, next.
 - Borner & Hatfield (2017). The Design of Debt Clearing Markets: Clearinghouse
 Mechanisms in Pre-Industrial Europe.
 - Hudson (1972). Super Imperialism.
-- TODO
+- Boyer-Xambeu
+- TODO 
 
 ## Notes
 
