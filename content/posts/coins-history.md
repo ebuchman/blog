@@ -1,6 +1,9 @@
---- title: "Short History of European Coins - 500 to 1500" date: 2023-08-27
-draft: false description: "A short history of metals and coinage in Europe,
-based on Spufford's Money and its use in Medeival Europe." ---
+--- 
+title: "Short History of European Coins - 500 to 1500" 
+date: 2023-08-27
+draft: false
+description: "A short history of metals and coinage in Europe, based on Spufford's Money and its use in Medeival Europe." 
+---
 
 The money and coinage of medieval Europe evolved from the fallout of money in
 Rome. Names and types of money proliferated, but at least in western Europe
@@ -13,9 +16,9 @@ Rome. The libra - actually, the *libra pondo* - was a unit of weight, literally,
 a "pound by weight". The solidus and denarius were gold and silver coins
 respectively. Minting of the silver denarius began circa 200 BC in order to pay
 for the Punic Wars, and continued until about 200 AD. The gold solidus only
-    began to be minted in the early 300 ADs. By then, the denarius had been
-    debased to copper. There is much more background to Roman coins, essentially
-    the story of ancient coinage and money. But that's a story for another time.
+began to be minted in the early 300 ADs. By then, the denarius had been
+debased to copper. There is much more background to Roman coins, essentially
+the story of ancient coinage and money. But that's a story for another time.
 
 The coinage of late Rome had no silver - just gold and copper. Copper is less
 important to the larger story as copper coins did not become the basis of our
@@ -138,7 +141,7 @@ standards of new coins occassionally downwards, to meet the silver content of
 the old ones. Meaning more deniers can be made per pound, and more can be
 distributed to those involved in minting. Some goes to to run the mint itself
 (brassage), some goes to the king (seignorage), and some goes to whoever trades
-their metal for coin (traite). Thus are people incentivized to bring their money
+their metal for coin. Thus are people incentivized to bring their money
 to the mint, for the king enforces that metal is worth more as coin, and a pound
 of silver yields more than a pound of account from the mint.
 
@@ -170,8 +173,7 @@ or the old Rome. As Spufford puts it:[^denier-quote]
 
 
 > When gold coinage had finally disappeared outside Italy, western Europe was
-> left
-with a new system of coinage, based on the silver penny, which was entirely
+left with a new system of coinage, based on the silver penny, which was entirely
 unlike either that which survived in the east, in the Byzantine Empire, or that
 which had existed in the later Roman Empire. It was not that the barbarians had
 brought something new, and differently Germanic, into the Roman world, for they
@@ -289,9 +291,9 @@ also saw extensive use as a means of payment. These ingots were measured in a
 unit of weight called the mark, and were widely used for larger purchases and
 trade across the continent, and with the rest of the world. Different standards
 for silvers fineness and definitions of the mark proliferated. Coinage standards
-    came to be defined in number of coins cut per mark of metal. The mark of
-    Troyes in the County of Champagne saw centuries of use in France and the Low
-    Countries.
+came to be defined in number of coins cut per mark of metal. The mark of
+Troyes in the County of Champagne saw centuries of use in France and the Low
+Countries.
 
 Meanwhile, the Italians. If the new silver strengthened the kings of France, it
 all the more so strengthened the Italian merchants and their city states,
@@ -335,12 +337,10 @@ the unit would be "cried up" as a gros became worth more than 12 deniers.
 
 In certain places, a unit of account would form independently around the grossi,
 using it as the new basis - effectively replacing the penny as the basis for the
-unit of account. This was the case in Low Countries, where the _grosch_ become a
+unit of account. This was the case in Low Countries, where the _groot_ become a
 dominant coin, and units of account came to be reckoned in pounds, shelling, and
-pfennigs of grosch. 240 grosh coins made up the new grosh pound. The grosh had
+pfennigs of groot.[^groot] 240 grosh coins made up the new grosh pound. The grosh had
 become the new denier.
-
-    - TODO fix/check this paragraph
 
 The Venetians, which invented the grossi in the Fourth Crusade, were also that
 Crusades major beneficiary. The 4th crusade culminated in the the Sack of
@@ -348,7 +348,7 @@ Constantinople, which greatly weakened Byzantium and strengthened Venetian
 control over the Mediterranean. The new silver in general helped the Italians
 stabilize control over the Mediterranean network, and served as essential fuel
 for harnessing that network throughout the 13th c. For the Italians were
-    everywhere looking to turn silver to gold. 
+everywhere looking to turn silver to gold. 
 
 By the mid 13th c, the balance of trade for the Italians was such that large
 amounts of gold were flowing into the northern city states, sufficient for them
@@ -374,24 +374,36 @@ the ways they conducted business. The central pivot of the European commercial
 revolution were the Fairs of Champagne, which the Italians had been frequenting
 already in the 12th c, but which rose to new importance as a roundevouz point
 across all European trade. It was here that new credit instruments, like the
-Bills of Exchange, appear to have arisen, facilitating the conduct of commerce
-from afar. Hindu-Arabic numerals and bookkeeping appear to arrive in Italy at
-this time, with Fibonnaci's great book of 1202. 
-    - Deposit banking
+Bills of Exchange, appear to have become more widespread, facilitating the conduct of commerce
+from afar. The role of paper in monetary affairs was greatly facilitated by the
+arrival of Hindu-Arabic numerals and bookkeeping in Italy, from at least the
+time of Fibonnaci's great book of 1202, if not earlier. Bookkeeping would also
+lead to the rise of deposit banking, providing new means to expand the money
+supply on the ledgers of banks. 
 
 The Commercial Revolution saw a separation of roles for merchants, and the
 emergence of a new stationary class - merchants who could conduct their business
 from afar, without travel. Italian businessmen conducted their business from
 home, making ample use of carriers to travel between places with goods and
 letters, and of trusted (often family) factors, agents, and correspondents
-spread across the cities of Europe to execute transactions on their behalf.
+spread across the cities of Europe to execute transactions on their
+behalf.[^stationary-merchants]
 Italian pre-eminence in business and monetary matters led them to run mints and
 mines. The growth of their economies allowed them to do import
 replacement,[^import-replacement] producing locally things they previously
 needed to import. And finally, it opened the gateway for the return to gold in
 Europe.
 
-    - TODO bills and deposits more important than gold coins and grossi (262)
+We have focused here on the role of the coins in the commercial revolution - 
+the gold coins for long distance trade and the silver coins providing a new
+denomination to facilitate wages and rents. But arguably, the bill of exchange
+would have a more significant role than the gold coins for long distance
+trade, and deposit banking would have a more significant role in local
+circulation than the new silver grossi. Thus the commercial revolution marked
+not just the rise of new coinage types, but of a new paper-based system of
+banking that within a few centuries would come to transform the way people conceived of and used money.[^paper]
+But the history of banking is a story unto itself.
+
 
 ## Victory of Gold
 
@@ -438,15 +450,25 @@ account devalued over time. In the late 15th century Louis XI starts minting the
 _ecu au soleil_, a variant of _ecu a la couronne_, both of which are named for
 the appearance of a sun. 
 
-In the 16th century the ecu au soleil would settle for a time at a value of 45
-sous tournois (up 2.25x from when an ecu was worth 1 livre, or 20 sous),
-inspiring the development of a new unit of account, the _ecu de marc_, equal to
-45 sous tournois.[^ecu-de-marc] The ecu de marc would be the basis for a network
-dominated by Italian exchange bankers who dealt in bills of exchange, allowing
-for exchange between units of account across Europe. At so it was that a crisis
-    of this network in the late 16th century would ultimately lead to the end of
-    the medeival monetary system and to the rise of a new monetary constitution
-    - that of modernity.
+By the end of the 15th c, there were types of ecus circulating of which 64 or 66
+were cut from the marc of Troyes. 
+
+In the 16th century the ecu au soleil would settle for a time at a value of 
+
+By the early 16th c, ecus were circulating of which 64, 65, or 66 were cut from a
+marc of Troyes. A unit of account had emerged for use in exchange by bills, the _ecu de marc_, that
+was defined as 1/65 of a marc of fine gold. The ecu au soleil settled for a time at a value of 45
+sous tournois (up 2.25x from when an ecu was worth 1 livre, or 20 sous), 
+inspiring a new equivalence for the ecu de marc in terms of the french unit of
+account. Thus it came to be that 1 ecu de marc would be fixed at 45 sous
+tournois.[^ecu-de-marc] 
+
+The ecu de marc served as the basis for the network of exchange by bills,
+dominated by Italian exchange bankers who facilitated exchange between units of account across Europe.
+And so it was that a crisis of this network in the late 16th century, precipitated by instability in the French unit of account, 
+would ultimately lead to the end of the medeival monetary system and to the rise
+of a new monetary constitution - that of modernity. But that too is a story for
+another time.
 
 [^spufford]: Based largely on Spufford's Money and its Use in Medeival Europe. 
 [^soldi]: Spufford, 7-8
@@ -476,35 +498,27 @@ for exchange between units of account across Europe. At so it was that a crisis
 [^italy-grossi]: Spufford, 228
 [^tuscan-grossi]: Spufford, 228
 [^french-grossi]: Spufford, 229
+[^groot]: Spufford, 412
 [^merovingian-arab]: Spufford, 40
 [^florin]: Spufford, 176-178
+[^stationary-merchants]: Spufford, 251. Boyer-Xambeu et al pg 26 put the transition
+    to sedantary merchants in the 14th c (towards the end of the Commercial
+    Revolution). Arrighi pg 97-99 and 104  associates this change with a turn from investment in
+    trade to finance, as mobile pools of capital search out new opportunities
+    for return.
 [^import-replacement]: Spufford, 149
+[^paper]: Spufford, 262-263
 [^bohemian-gold]: Spufford, 269
 [^venice-gold]: Spufford, 271 
 [^florence-gold]: Spufford, 284.f1
 [^ecu-a-la-chaise]: TODO Philip IV 100yyrs
 [^nobles]: TODO Edward III 100yrs
 [^franc]: Spufford, 287, 413
-[^ecu-de-marc]: fairs
+[^ecu-de-marc]: Boyer-Xambeu et al, 78
 
+__References__:
 
-
-<!--- part of what will be confusing about units of account is the way they
-diverge from weights, and the way there are many of them. perhaps once upon a
-time the monetary "pound" was the same as the weight "pound". but because of
-seignorage, they diverged. so when you take a weight pound of silver to the
-mint, you get back more than a monetary pound of coin. this means a monetary
-pound of coins is worth more in purchasing power than a weight pound of metal,
-at least within the relevant zone of the sovereignty.
-
-as we'll see, a monetary pound is typically defined as 240 pennies, but it could
-be that if you take a weight pound of silver to the mint, 288 penies are created
-from it. 
-
-
-
-there are many of them. each tends to start as being based on a particular coin
--->
-
-
-
+- Spufford - Money and its use in medieval Europe
+- Boyer-Xambeu, Deleplace, Gillard - Private Money and Public Currencies
+- Arrighi - The Long Twentieth Century
+- Braudel - Civilization and Capitalism 
