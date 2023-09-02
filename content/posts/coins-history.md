@@ -65,10 +65,10 @@ without gold for virtually a millennium. The periods are as follows:
   Reforms, the silver denier, a false dawn of coinage. Rise of feudalism from
   lack of gold
 - **960s-1030s** - Silver mines in Goslar in the Harz mountains in Saxony -
-  Urbanization Revolution, mints and markets come back all across northern
-  europe and England
+  Urban Renaissance, mints and markets come back all across northern
+  Europe and England
 - **1160s - 1330s** - Silver mines in Germany and Bohemia (Czech) - "Commercial
-  Revolution" in Italy and Middle East, Fairs of Champagne, International
+  Revolution", Fairs of Champagne, International
   English Silver Sterling and Italian Gold Florins
 - **1320s - 1400s** - Gold mines in Hungary - Hungarian Florins, English Nobles,
   French Ecus, and the return of gold to Europe at large
@@ -125,7 +125,7 @@ of account. But mint policies are rarely stable, and coinage generates its own
 endogenous instability: as coins are worn from use and reduce in metallic value,
 they come to differ from new coins in their content. This difference puts strain
 on the declaration that they are one thing ("a denier"), as the fact they can be
-distinguished changes how they are used (eg. hoarding the coins with more metal,
+distinguished changes how they are used (e.g. hoarding the coins with more metal,
 spending those with less). At the same time, those with worn money haven't done
 anything wrong, and the king has promised them that a single coin can be used to
 settle debts of 1 denier. Why should that promise be broken because there's a
@@ -137,19 +137,19 @@ cost? What's in a promise from the king, and what's it cost him to enforce it?
 This is the problem of sovereignty expressed in coinage.
 
 Indeed, mints have often responded to the wear on money by adjusting the
-standards of new coins occassionally downwards, to meet the silver content of
+standards of new coins occasionally downwards, to meet the silver content of
 the old ones. Meaning more deniers can be made per pound, and more can be
 distributed to those involved in minting. Some goes to to run the mint itself
-(brassage), some goes to the king (seignorage), and some goes to whoever trades
-their metal for coin. Thus are people incentivized to bring their money
+(brassage), some goes to the king (seigniorage), and some goes to whoever trades
+their metal for coin. Thus are people incentivized to bring their metal
 to the mint, for the king enforces that metal is worth more as coin, and a pound
-of silver yields more than a pound of account from the mint.
+weight of silver yields more than a pound of account from the mint.
 
 Back to the Merovingians. Their minting had become quite fragmented, with
 hundreds of local mints and minimal standardization. Many of them were minting
 deniers inscribed with just their location, and no royal authority. Over the
 years, the deniers diverged and debased, especially as funds were raised to pay
-for war with the Ummayads coming up from "Spain." The number of coins struck
+for war with the Umayyads coming up from "Spain." The number of coins struck
     from a pound weight increased from 240 up to 300.[^merovingians] The libra
     of account, which always meant 240 deniers, had decoupled from the libra of
     weight.
@@ -194,7 +194,7 @@ basically came to take it all.
 With the collapse of Carolinginan political authority, the counts took over
 their local mints and minting fragmented again. There is an overall decline in
 the use of money. The Vikings, which are extracting payments from kingdoms
-across Europe, dont care so much for coinage as such, and treat it all by
+across Europe, don't care so much for coinage as such, and treat it all by
 weight. Thus does silver come to accumulate in the north.
 
 ## Saxon Silver
@@ -211,7 +211,7 @@ The silver caused a surge in minting in England, which by the late 10th c had
 become fully monetized.[^england-monetized] The English maintained such tight
 control over their coinage that they began a program of coinage renewal, the
 _renovatio monetae_.[^renovatio] Every some years, the entire coinage was recalled and
-reminted. The king collected a tax from the reminting, and the old coinage was
+re-minted. The king collected a tax from the re-minting, and the old coinage was
 demonetized. This practice would be later mimicked in eastern Europe. 
 
 By the early 11th c in England and Germany, everyone is using
@@ -224,7 +224,7 @@ advisers).[^kingdoms] But by the 1030s, the silver from Goslar is on the
 decline, and by the later half of the century, the general reduction in coinage
 brings about a recession across northern Europe.
 
-At the very end of the 11 th c, Europe experiences a new wave of activity
+At the very end of the 11th c, Europe experiences a new wave of activity
 engendered by the crusades. Raising the funds for the crusades was a heroic
 feat, perhaps aided by the new silver that had accumulated. But Europe's chronic
 trade deficit, and the massive expenses of the crusades, caused this metal to
@@ -278,13 +278,13 @@ the Third Crusade in ~1190. But he would then lead France into several
 successful conflicts with Henry II's other son John, who steadily lost his
 Kingdom's possessions on the continent. John would famously have to sign the
 Magna Carta (1215) to placate the barons back in England. Philip, having come
-into posession of Tours, set about making its long admired currency, the _denier
+into possession of Tours, set about making its long admired currency, the _denier
 tournois_, the currency of all of France. The denier tournois was fixed at a
 rate of 4/5 of the denier parisis, which continued to be minted in Paris for
 centuries, until it was finally phased out. The denier provinois continued to be
 used in Champagne. But by the end of the 13th c, the French kings were
 intervening in Champagne, and the fairs went into decline. Thus did the denier
-tournoise spread across France.
+tournois spread across France.
 
 While silver coinage was having its heyday, ingots of silver, valued by weight,
 also saw extensive use as a means of payment. These ingots were measured in a
@@ -312,7 +312,7 @@ unit of weight) for transport in the Fourth Crusade. But the Venetians needed
 this silver to be distributed to a large number of people, and doing it with
 their small denari would have required minting way too many coins. By now their
 denari contained only 0.1g of silver, compared to the English's 1.3g penny, or
-Charlemagnes 1.7g standard. So they made a new "great" coin, the _grossi_, worth
+Charlemagne's old 1.7g standard. So they made a new "great" coin, the _grossi_, worth
 24 of the old denari, and weighing just under 2.2g.[^grossi] The old denari went
 on being minted, but came to be known as _piccoli_ for "little ones". Thus a new
 tier had been added to the monetary system, a large silver coin minted alongside
@@ -326,10 +326,10 @@ Italian city north of Rome is minting ~2g grossi.[^italy-grossi] Minting of
 grossi spread across Europe, where it was used for wages and rents, while
 deniers went on being used for small purchases and alms. In Tuscany, its grossi
 circulated at 12 denari, or 1 soldi.[^tuscan-grossi] Meaning the Tuscan soldi,
-which had until now been just a unit of account, finally materialized as a large
+which had until now been just a unit of account (worth 12 denari), finally materialized as a large
 silver coin. The same thing happened in France, in 1266, with the new silver
 _gros tournois_, worth 1 _sous tournois_.[^french-grossi] The _sous tournois_,
-which had only ever been a unit of account, materialized as its own coin. But
+which had only ever been a unit of account (worth 12 denier), materialized as its own coin. But
 these grossi would not be worth a soldi or a sous for long, as the sous of
 account was defined as 12 deniers, and the denier continued to lighten or
 debase. Thus the unit of account would devalue, and the value of the grossi in
@@ -337,13 +337,13 @@ the unit would be "cried up" as a gros became worth more than 12 deniers.
 
 In certain places, a unit of account would form independently around the grossi,
 using it as the new basis - effectively replacing the penny as the basis for the
-unit of account. This was the case in Low Countries, where the _groot_ become a
-dominant coin, and units of account came to be reckoned in pounds, shelling, and
-pfennigs of groot.[^groot] 240 grosh coins made up the new grosh pound. The grosh had
-become the new denier.
+unit of account. This was the case in Low Countries, where the large silver _groot_ become a
+dominant coin, and units of account came to be reckoned in pounds, shilling, and
+pfennigs of groot.[^groot] 240 groot coins made up the new groot pound. The
+groot had become the new denier.
 
 The Venetians, which invented the grossi in the Fourth Crusade, were also that
-Crusades major beneficiary. The 4th crusade culminated in the the Sack of
+Crusades major beneficiary. The 4th crusade culminated in the Sack of
 Constantinople, which greatly weakened Byzantium and strengthened Venetian
 control over the Mediterranean. The new silver in general helped the Italians
 stabilize control over the Mediterranean network, and served as essential fuel
@@ -356,14 +356,14 @@ to start minting gold currency in Europe for the first time in some 500 years.
 To be fair, gold coinage had existed in southern Italy, which was part of
 Byzantium, for much of this period. Alas, we will not much cover the Byzantine
 or Arab coinage here during this time, despite the major impact its had on the
-medeival European coinage we have been discussing (for starters, the design of
-the Merovingian deniers was taken from the Ummayad coinage[^merovingian-arab]). 
+medieval European coinage we have been discussing (for starters, the design of
+the Merovingian deniers was taken from the Umayyad coinage[^merovingian-arab]). 
 
 Within a few months in 1252, both Florence and Genoa started minting a gold
-coin.[^florin] They would later come to be joined by Venice with its ducat in
+coin.[^florin] They would later come to be joined by Venice with its gold ducat in
 1284. For Florence, its florin was initially worth 1 Florentine lira. Thus the
-florentine lira had finally materialized as its own coin. For Genoa, its lira
-had not devalued as much as that of florence, and it's new gold genovino coin
+Florentine lira had finally materialized as its own coin. For Genoa, its lira
+had not devalued as much as that of Florence, and it's new gold genovino coin
 was worth 8 Genoese soldi. These coins are remarkable for the role they came to
 play in international trade.
 
@@ -372,12 +372,12 @@ came to be known as the Commercial Revolution, named after the transformation
 that occurred in means of commerce, epitomized by the rise of the Italians and
 the ways they conducted business. The central pivot of the European commercial
 revolution were the Fairs of Champagne, which the Italians had been frequenting
-already in the 12th c, but which rose to new importance as a roundevouz point
+already in the 12th c, but which rose to new importance as a rendezvous point
 across all European trade. It was here that new credit instruments, like the
 Bills of Exchange, appear to have become more widespread, facilitating the conduct of commerce
 from afar. The role of paper in monetary affairs was greatly facilitated by the
 arrival of Hindu-Arabic numerals and bookkeeping in Italy, from at least the
-time of Fibonnaci's great book of 1202, if not earlier. Bookkeeping would also
+time of Fibonacci's great book of 1202, if not earlier. Bookkeeping would also
 lead to the rise of deposit banking, providing new means to expand the money
 supply on the ledgers of banks. 
 
@@ -389,20 +389,20 @@ letters, and of trusted (often family) factors, agents, and correspondents
 spread across the cities of Europe to execute transactions on their
 behalf.[^stationary-merchants]
 Italian pre-eminence in business and monetary matters led them to run mints and
-mines. The growth of their economies allowed them to do import
+mines across Europe. The growth of their economies allowed them to do import
 replacement,[^import-replacement] producing locally things they previously
 needed to import. And finally, it opened the gateway for the return to gold in
 Europe.
 
 We have focused here on the role of the coins in the commercial revolution - 
-the gold coins for long distance trade and the silver coins providing a new
+the gold coins for long distance trade and the large silver coins providing a new
 denomination to facilitate wages and rents. But arguably, the bill of exchange
 would have a more significant role than the gold coins for long distance
 trade, and deposit banking would have a more significant role in local
 circulation than the new silver grossi. Thus the commercial revolution marked
 not just the rise of new coinage types, but of a new paper-based system of
 banking that within a few centuries would come to transform the way people conceived of and used money.[^paper]
-But the history of banking is a story unto itself.
+But the history of banking is a story unto itself, a story for another time.
 
 
 ## Victory of Gold
@@ -423,7 +423,7 @@ their unit of account came to be gold based lire, soldi, and denari
 _affiorino_.[^florence-gold]
 
 This re-emergence of gold puts Europe squarely on a bimetallic monetary system.
-The relative mint prices of gold and silver in diffferent countries lead to
+The relative mint prices of gold and silver in different countries lead to
 bullion flows across borders as merchants seek to take advantage of arbitrage
 opportunities across mints. France tries to start minting their own gold coins -
 the various flavours of _ecu d'or_ - as early as the late 13th c to compete with
@@ -442,35 +442,31 @@ Florentine bankers (who he would famously default on), used to pay for his own
 allies in the Netherlands.[^nobles] Thus did significant amounts of gold start
 to collect in the Low Countries. 
 
-In 1360 John II starts minting his _ecu a cheval_, which also comes to be known
-as the _franc_.[^franc] It's initially valued again at 1 livre tournois, and the
+In 1360 John II of France starts minting his _ecu a cheval_, which also comes to be known
+as the _franc_.[^franc] It's initially valued at 1 livre tournois, and the
 word _franc_ comes to be a synonym for the _livre tournois_, the dominant French
 unit of account. These ecus would again come to be cried up as the unit of
 account devalued over time. In the late 15th century Louis XI starts minting the
 _ecu au soleil_, a variant of _ecu a la couronne_, both of which are named for
 the appearance of a sun. 
 
-By the end of the 15th c, there were types of ecus circulating of which 64 or 66
-were cut from the marc of Troyes. 
-
-In the 16th century the ecu au soleil would settle for a time at a value of 
-
 By the early 16th c, ecus were circulating of which 64, 65, or 66 were cut from a
-marc of Troyes. A unit of account had emerged for use in exchange by bills, the _ecu de marc_, that
-was defined as 1/65 of a marc of fine gold. The ecu au soleil settled for a time at a value of 45
+marc of Troyes. Independent of these coins, but likely inspired by them, a unit of account had emerged for 
+use in exchange by bills, the _ecu de marc_, that
+was defined as 1/65 of a marc of fine gold. As the ecu au soleil settled for a time at a value of 45
 sous tournois (up 2.25x from when an ecu was worth 1 livre, or 20 sous), 
-inspiring a new equivalence for the ecu de marc in terms of the french unit of
+it inspired a new equivalence for the ecu de marc in terms of the french unit of
 account. Thus it came to be that 1 ecu de marc would be fixed at 45 sous
 tournois.[^ecu-de-marc] 
 
 The ecu de marc served as the basis for the network of exchange by bills,
 dominated by Italian exchange bankers who facilitated exchange between units of account across Europe.
 And so it was that a crisis of this network in the late 16th century, precipitated by instability in the French unit of account, 
-would ultimately lead to the end of the medeival monetary system and to the rise
+would ultimately lead to the end of the medieval monetary system and to the rise
 of a new monetary constitution - that of modernity. But that too is a story for
 another time.
 
-[^spufford]: Based largely on Spufford's Money and its Use in Medeival Europe. 
+[^spufford]: Based largely on Spufford's Money and its Use in Medieval Europe. 
 [^soldi]: Spufford, 7-8
 [^england-demonetize]: Spufford, 9
 [^feudalism]: Spufford, 16
@@ -485,7 +481,7 @@ another time.
 [^renovatio]: Spufford, 92-95
 [^everyone-coins]: Spufford, 90 
 [^urban-renaissance]: Spufford, 75. Spufford doesn't use the term "urban
-    renaissance", but Braudel does in Civilation and Capitalism Vol 1 on pg 510, though he
+    renaissance", but Braudel does in Civilization and Capitalism Vol 1 on pg 510, though he
     does not explain their cause or make the connection to the Goslar silver.
 [^rents]: Spufford, 90 and 97
 [^kingdoms]: Spufford, 82-83
