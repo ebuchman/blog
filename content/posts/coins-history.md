@@ -29,17 +29,17 @@ The original terms are the libra, solidus, and denarius, which date back to
 Rome. The libra - actually, the *libra pondo* - was a unit of weight, literally,
 a "pound by weight". The solidus and denarius were gold and silver coins
 respectively. Minting of the silver denarius began circa 200 BC in order to pay
-for the Punic Wars - wars which came to define the Roman Republic itself.
+for the Punic Wars.
 Coinage as a medium has its origin in war some ~400 years earlier, where it was
 first used by Lydians as a convenient means to pay their soldiers (i.e. to
-distribute hunks of metal to a large number of people). This basic
-use case of coinage - of paying for soldiers and war - would resonate through
+distribute hunks of metal to a large number of people). The word soldier in turn
+derives from the word solidus. This basic use case of coinage - of paying for soldiers and war - would resonate through
 the ensuing millenia. 
 
 Rome's silver denarius continued to be minted until about 200 AD. The gold
 solidus, however, only began to be minted in the early 300 ADs. By then, the denarius had been
 debased copper. At a point in late Rome, a gold solidus was worth some 7200 copper coins. A Roman senator could
-make 100k-350k solidus per year, and could buy a slave for ~20 solidi. Copper
+make 100k-350k solidus per year, and could buy a slave for ~20 soldi. Copper
 coins could be used for small day-to-day purchases in the towns.[^soldi]
 
 The coinage of late Rome thus had no silver - just gold and copper. Copper is less
@@ -143,7 +143,7 @@ American dime, but now debased to only 1/3 gold. The new denier was modeled
 after the triens, but made of silver. If gold was twelve times as valuable
 as silver, a triens of 1/3 gold was worth 4 of the new silver deniers. So 12
 deniers were worth a solidus. Since 240 of these deniers could be cut from a silver pound 
-,[^triens] we arrived at the familiar ratio, 1 libra = 20 solidi = 240 deniers
+,[^triens] we arrived at the familiar ratio, 1 libra = 20 soldi = 240 deniers
 had emerged. 
 
 So here we have the relationship that would define moneys of account throughout
@@ -152,7 +152,7 @@ soldo, sou, shilling, each of which was worth 12 deniers, pennies, pfennigs,
 pence. 
 
 When it was first minted, or at least for some time, 240 denier coins were
-minted from each pound of weight. This relationship presumably lasted long
+minted from each pound of silver by weight. This relationship presumably lasted long
 enough that the libra would come to _mean_ 240 deniers - the libra became a unit
 of account! But mint policies are rarely stable, and coinage generates its own
 endogenous instability: as coins are worn from use and reduce in metal content,
@@ -176,8 +176,8 @@ hence more can be distributed to those involved in minting. Some goes to run the
 (brassage), some goes to the king (seigniorage), and some goes to whoever trades
 their metal for coin. People are therefore incentivized to bring their metal
 to the mint, for the king enforces that metal is worth more as coin, and a pound
-of silver by weight yields more than a pound of coins by account from the mint.
-The unit of weight has decoupled from the unit of account.
+of silver by weight yields more than a pound of coins by account.
+The unit of weight had decoupled from the unit of account.
 
 Back to the Merovingians. Their minting had become quite fragmented, with
 hundreds of local mints and minimal standardization. Many of them were minting
@@ -194,14 +194,13 @@ account continued to mean 240 deniers, but its value in metal increased or
 decreased with the mint policy. When Pepin's son Charlemagne took over, he saw
 to it that the coinage was strengthened even further, and standardized under
 royal authority across the empire. Thus he set a new standard for the quality
-of silver coinage in Europe - the _denier carolingienne_, weighing about 1.7g of
-silver.[^charlemagne]
+of silver coinage in Europe - the _denier carolingienne_.[^charlemagne]
 
 This return to silver coinage led to the flourishing of a peasant
 agricultural economy and a return of markets for peasants to meet and exchange
 goods for coin. It also engendered occasional inter-regional markets, like the
 Fairs of St Denis, just North of Paris, which seem to arise in the 7th c, and
-prosper through the 9th. The silver deniers are the money of the markets, the
+prosper through the 9th. The silver deniers were the money of the markets, the
 money of the fairs.[^st denis] But it was a new money, unlike that of Byzantium
 or the old Rome.[^denier-quote]
 
@@ -336,22 +335,26 @@ decades away).
 In Italy, coinage was divided by city state, and each city had a unit of account
 and coinage that evolved in its own way. They all followed the same recipe of
 libra, soldi, and denarius, but only the denarius was an actual coin, while the
-soldi and libra were units of coin, worth 12 and 240 denari, respectively.
+soldi and libra were units of account, worth 12 and 240 denari, respectively.
 By the early 13th c, in addition to the denarius, every important Italian city north of Rome was minting its own silver grossi.[^italy-grossi] 
 In Tuscany, their grossi was valued at 12 of their denari, or 1 soldi.[^tuscan-grossi] 
-In other words, the Tuscan soldi, for the first time in its history, had
-actually become a real coin. 
+In other words, the Tuscan soldi, which until then had only been a unit of
+account, finally materialized as an actual coin - the grossi.
 
 The same thing happened in France, in 1266, with the new silver
-_gros tournois_, worth 1 _sous tournois_.[^french-grossi] The _sous tournois_,
-which until then had just been a unit of account, materialized as a new silver
-coin. But these grossi would not be worth a soldi or a sous for long, as the sous of
+_gros tournois_, worth 1 _sous tournois_.[^french-grossi] The _sous tournois_
+was also just a unit of account, but with the new gros it too became a real coin
+for the first time. But these grossi would not be worth a soldi or a sous for long, as the sous of
 account was defined as 12 deniers, and the denier continued to lighten or
 debase. Thus the unit of account would devalue, and the value of the grossi in
 the unit would be "cried up" as a gros became worth more than 12 deniers. Hence
 we see the tension between the unit of account and the medium of exchange,
 expressed so clearly in a world where multiple kinds of coins (ie. the denari and
-grossi) are mean to express values in the same unit of account.
+grossi) are meant to express values in the same unit of account. As one or the
+other coin changes in metallic content, the relationship between them, defined
+in the unit of account, is put under stress. Its usually the smaller coin (the
+denari) which is debased, leading the larger coin (the grossi, and later, the
+gold coins) to be cried up.
 
 Minting of grossi spread across Europe, where they were used for wages and rents, while
 deniers went on being used for smaller purchases and alms. 
@@ -376,11 +379,11 @@ to start minting gold currency in Europe for the first time in some 500 years.
 To be fair, gold coinage had existed in southern Italy, which was part of
 Byzantium, for much of this period. Alas, we will not cover Byzantine
 or Arab coinage, despite the major impact it had on the
-medieval European coins for starters, the design of
+medieval European coins (for starters, the design of
 the Merovingian deniers was taken from the Umayyads[^merovingian-arab]). 
 
 Within a few months in 1252, both Florence and Genoa started minting gold
-coin of almost identeical weight.[^florin] They would later come to be joined by Venice with its gold ducat in
+coin of almost identeical weight.[^florin] They would later be joined by Venice with its gold ducat in
 1284. For Florence, its florin was initially worth 1 Florentine lira. Thus the
 Florentine lira, which had only ever been a unit of account, finally materialized as its own coin. 
 For Genoa, its lira had not devalued as much as that of Florence, and it's new gold genovino coin
@@ -401,16 +404,15 @@ lead to the rise of deposit banking, providing new means to expand the money
 supply on the ledgers of banks. 
 
 The Commercial Revolution saw a separation of roles for merchants, and the
-emergence of a new stationary class - merchants who could conduct their business
-from afar, without travel. Italian businessmen conducted their business from
+emergence of a new stationary class. Italian businessmen conducted their business from
 home, making ample use of carriers to travel between places with goods and
 letters, and of trusted (often family) factors, agents, and correspondents
-spread across the cities of Europe to execute transactions on their
+spread across the cities of Europe, executing transactions on their
 behalf.[^stationary-merchants]
 Italian pre-eminence in business and monetary matters led them to run mints and
 mines across Europe. The growth of their economies allowed them to do import
 replacement,[^import-replacement] producing locally things they previously
-needed to import. And finally, it opened the gateway for the return to gold in
+needed to import. And finally, they opened the gateway for the return to gold in
 Europe.
 
 We have focused here on the role of the coins in the commercial revolution - 
@@ -427,7 +429,7 @@ But the history of banking is a story unto itself, a story for another time.
 ## Victory of Gold
 
 Just before the mining of silver in Europe 
-began to run down, in 1320, new gold mines opened in Hungary (in
+began to run down, around 1320, new gold mines opened in Hungary (in
 Kremnica, now in Slovakia) and unleashed a torrent of gold. By 1328,
 Hungary was minting the first successful gold coin beyond the Alps, a copy of the
 florin. So much of this gold was traded for Bohemian silver that the Bohemians
@@ -438,9 +440,9 @@ gold coins. By 1355, with silver mining having dried up, silver grossi were no l
 accounts began to be reckoned in lire, soldi and denari _di grossi a oro_ - the
 grosso was no longer a real coin, but had dematerialized into a unit of account
 worth 1/24 of the real gold ducat. A similar thing happened in Florence, as
-their unit of account came to be gold based lire, soldi, and denari
+their unit of account came to be based on the lire, soldi, and denari
 _affiorino_.[^florence-gold] As silver mining gave way to gold mining, so too
-did silver units of account give way to gold.
+did silver units of account give way to units of gold.
 
 This re-emergence of gold put Europe firmly on a bimetallic monetary system.
 The relative mint prices of gold and silver in different countries led to
@@ -457,7 +459,7 @@ respective gold coins, the English noble and the French ecu a la chaise.
 While both coins were originally designed independently of the florin, over time they would
 come to align more directly with it.[^noble-ecu]
 Philip's ecu a la chaise were originally worth 1 livre
-tournois (materializing the french unit of account as a coin for the first time),[^ecu-a-la-chaise] 
+tournois (materializing the french unit of account as a coin),[^ecu-a-la-chaise] 
 and were used to subsidize his allies in the
 Netherlands. These ecu would be cried up over the years as the unit of account
 devalued. Edward also raised significant sums of gold florins from his
@@ -479,8 +481,9 @@ use in exchange by bills, the _ecu de marc_, that
 was defined as 1/65 of a marc of fine gold. As the ecu au soleil settled for a time at a value of 45
 sous tournois (up 2.25x from when an ecu was worth 1 livre, or 20 sous), 
 it inspired a new equivalence for the ecu de marc in terms of the french unit of
-account. Thus it came to be that 1 ecu de marc would be fixed at 45 sous
-tournois.[^ecu-de-marc] 
+account. Thus it came to be that the exchange bankers set the value of 1 ecu de marc to be equal to 45 sous
+tournois.[^ecu-de-marc] This value persisted even as the ecu au soleil was cried
+up over time.
 
 The ecu de marc served as the basis for the network of exchange by bills,
 dominated by Italian exchange bankers who facilitated exchange between units of account across Europe.
@@ -496,7 +499,7 @@ But that too is a story for another time.
 [^melle]: Spufford, 32-33
 [^triens]: Spufford, 34
 [^merovingians]: Spufford, 34.f4
-[^charlemagne]: Spufford, 43
+[^charlemagne]: Weighing about 1.7g of silver. Spufford, 43
 [^st denis]: Spufford, 25
 [^denier-quote]: Spufford, 26
 [^goslar]: Spufford, 74-75
@@ -511,7 +514,7 @@ But that too is a story for another time.
 [^france-no-silver]: Spufford, 85
 [^regional-pfennigs]: Spufford, 104
 [^heyday]: Spufford, 105
-[^sterling]: Spufford, 105
+[^sterling]: Spufford, 105, 196
 [^italian-sterling]: Spufford, 141
 [^grossi]: The Venetian denari by this time contained only 0.1g of silver, compared to the English's 1.3g penny, or
 Charlemagne's old 1.7g standard. The new grossi weighed just under 2.2g. Spufford, 225-226
