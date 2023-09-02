@@ -435,12 +435,16 @@ years were named according to the image on their obverse.
 The 1330s saw the start of the Hundred Years War, of which the new gold played a
 key part. Both Edward III of England and Philip VI of France begin minting their
 respective gold coins, the English noble and the French ecu a la chaise.
+While both coins were originally designed independently of the florin, over time they would
+come to align more directly with it (the noble would contain twice the gold of
+the florin, and hence the half-noble was the florin's equivalent, while the ecu
+a la chaise came to be the same weight as the florin).[^noble-ecu]
 Philip's ecu a la chaise were originally worth 1 livre
 tournois,[^ecu-a-la-chaise] and were used to subsidize his allies in the
 Netherlands (they would be cried up over the years as the unit of account
 devalued). Edward also raised significant sums of gold florins from his
 Florentine bankers (who he would famously default on), used to pay for his own
-allies in the Netherlands.[^nobles] Thus did significant amounts of gold start
+allies in the Netherlands. Thus did significant amounts of gold start
 to collect in the Low Countries. 
 
 In 1360 John II of France starts minting his _ecu a cheval_, which also comes to be known
@@ -508,8 +512,8 @@ another time.
 [^bohemian-gold]: Spufford, 269
 [^venice-gold]: Spufford, 271 
 [^florence-gold]: Spufford, 284.f1
-[^ecu-a-la-chaise]: TODO Philip IV 100yyrs
-[^nobles]: TODO Edward III 100yrs
+[^noble-ecu]: Spufford, 282, 320
+[^ecu-a-la-chaise]: Spufford, 275, 412
 [^franc]: Spufford, 287, 413
 [^ecu-de-marc]: Boyer-Xambeu et al, 78
 
