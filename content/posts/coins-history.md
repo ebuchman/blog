@@ -1,8 +1,8 @@
 --- 
 title: "Short History of European Coins - 500 to 1500" 
-date: 2023-08-27
+date: 2023-09-02
 draft: false
-description: "A short history of metals and coinage in Europe, based on Spufford's Money and its use in Medeival Europe." 
+description: "A short history of metals and coinage in Europe, based on Spufford's Money and its use in Medieval Europe." 
 ---
 
 The money and coinage of medieval Europe evolved from the fallout of money in
@@ -31,7 +31,7 @@ coins could be used for small day-to-day purchases in the towns.[^soldi]
 
 An essential force behind the evolution of coinage within a state is the
 availability of metal, which comes either from having access to a mine, or else
-to a trade surplus with another region. The state could also exact payments in
+from a trade surplus with another region. The state could also exact payments in
 metal from other regions by force or political decree, though this generally
 produces less metal than mines and trade, and is generally more unstable. Europe
 until the modern era has generally been at a trade deficit with the rest of the
@@ -133,7 +133,7 @@ bit less silver?
 
 This is the wedge that opens between a weight and a unit of account - a physical
 measure and a legal name. How much value can a name add to a weight, and at what
-cost? What's in a promise from the king, and what's it cost him to enforce it?
+cost? What's in a promise from the king, and what does it cost him to enforce it?
 This is the problem of sovereignty expressed in coinage.
 
 Indeed, mints have often responded to the wear on money by adjusting the
@@ -150,9 +150,9 @@ hundreds of local mints and minimal standardization. Many of them were minting
 deniers inscribed with just their location, and no royal authority. Over the
 years, the deniers diverged and debased, especially as funds were raised to pay
 for war with the Umayyads coming up from "Spain." The number of coins struck
-    from a pound weight increased from 240 up to 300.[^merovingians] The libra
-    of account, which always meant 240 deniers, had decoupled from the libra of
-    weight.
+from a pound weight increased from 240 up to 300.[^merovingians] The libra
+of account, which always meant 240 deniers, had decoupled from the libra of
+weight.
 
 When the Carolingians took power under Pepin the Short, the coinage was
 strengthened back to 264 deniers cut from a pound weight. The libra as unit of
@@ -212,7 +212,8 @@ become fully monetized.[^england-monetized] The English maintained such tight
 control over their coinage that they began a program of coinage renewal, the
 _renovatio monetae_.[^renovatio] Every some years, the entire coinage was recalled and
 re-minted. The king collected a tax from the re-minting, and the old coinage was
-demonetized. This practice would be later mimicked in eastern Europe. 
+demonetized. This practice had the dual effect of restoring the coinage and
+raising revenues for the king, and would be later mimicked in eastern Europe. 
 
 By the early 11th c in England and Germany, everyone is using
 coins.[^everyone-coins] There is an urban renaissance.[^urban-renaissance] Some
@@ -407,37 +408,37 @@ But the history of banking is a story unto itself, a story for another time.
 
 ## Victory of Gold
 
-Just as the mining of silver in Europe (now primarily at Kutna Hora, Bohemia)
-was about to start running down, in 1320, new gold mines open in Hungary (in
-Kremnica, now in Slovakia) that unleash a torrent of gold into Europe. By 1328,
-Hungary is minting the first successful gold coin beyond the Alps, a copy of the
+As the mining of silver in Europe (now primarily at Kutna Hora, Bohemia)
+began to run down, in 1320, new gold mines opened in Hungary (in
+Kremnica, now in Slovakia) and unleashed a torrent of gold into Europe. By 1328,
+Hungary was minting the first successful gold coin beyond the Alps, a copy of the
 florin. So much of this gold was traded for Bohemian silver that the Bohemians
 soon followed suit with their own gold coin.[^bohemian-gold] In the same year,
-mint reforms in Venice move the city from a silver standard to one based on
-gold.[^venice-gold] Across Italy, new units of account emerge based on the new
-gold coins.  By 1355, silver grossi are no longer being minted in Venice, and
-accounts are now reckoned in lire, soldi and denari _di grossi a oro_ - the
+mint reforms in Venice moved the city from a silver standard to one based on
+gold.[^venice-gold] Across Italy, new units of account emerged based on the new
+gold coins.  By 1355, with silver mining having dried up, silver grossi were no longer being minted in Venice, and
+accounts began to be reckoned in lire, soldi and denari _di grossi a oro_ - the
 grosso was no longer a real coin, but had dematerialized into a unit of account
 worth 1/24 of the real gold ducat. A similar thing happened in Florence, as
 their unit of account came to be gold based lire, soldi, and denari
 _affiorino_.[^florence-gold]
 
-This re-emergence of gold puts Europe squarely on a bimetallic monetary system.
-The relative mint prices of gold and silver in different countries lead to
-bullion flows across borders as merchants seek to take advantage of arbitrage
-opportunities across mints. France tries to start minting their own gold coins -
+This re-emergence of gold put Europe squarely on a bimetallic monetary system.
+The relative mint prices of gold and silver in different countries led to
+bullion flows across borders as merchants sought to take advantage of arbitrage
+opportunities across mints. France tried to start minting their own gold coins -
 the various flavours of _ecu d'or_ - as early as the late 13th c to compete with
-the Italians, but they don't take off until the 14th c. Ecu (in Italian,
-_scudo_) means "shield", and the different ecus "of gold" that emerge over the
-years are named according to the image on their obverse. 
+the Italians, but they didn't take off until the 14th c. Ecu (in Italian,
+_scudo_) means "shield", and the different ecus "of gold" that emerged over the
+years were named according to the image on their obverse. 
 
-The 1330s see the start of the Hundred Years War, of which the new gold played a
+The 1330s saw the start of the Hundred Years War, of which the new gold played a
 key part. Both Edward III of England and Philip VI of France begin minting their
 respective gold coins, the English noble and the French ecu a la chaise.
-Philip's ecu a la chaise are originally worth 1 livre
-tournois,[^ecu-a-la-chaise] and are used to subsidize his allies in the
+Philip's ecu a la chaise were originally worth 1 livre
+tournois,[^ecu-a-la-chaise] and were used to subsidize his allies in the
 Netherlands (they would be cried up over the years as the unit of account
-devalued).  Edward also raised significant sums of gold florins from his
+devalued). Edward also raised significant sums of gold florins from his
 Florentine bankers (who he would famously default on), used to pay for his own
 allies in the Netherlands.[^nobles] Thus did significant amounts of gold start
 to collect in the Low Countries. 
