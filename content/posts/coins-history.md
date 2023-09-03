@@ -38,7 +38,7 @@ the ensuing millenia.
 
 Rome's silver denarius continued to be minted until about 200 AD. The gold
 solidus, however, only began to be minted in the early 300 ADs. By then, the denarius had been
-debased copper. At a point in late Rome, a gold solidus was worth some 7200 copper coins. A Roman senator could
+debased to copper. At a point in late Rome, a gold solidus was worth some 7200 copper coins. A Roman senator could
 make 100k-350k solidus per year, and could buy a slave for ~20 soldi. Copper
 coins could be used for small day-to-day purchases in the towns.[^soldi]
 
@@ -70,7 +70,7 @@ metal from other regions by force or political decree, though this generally
 produces less metal than mines and trade, and is more unstable. Until the modern
 era, Europe has generally been at a trade deficit with the rest of the
 world. There are periods where Europe exports so many slaves that they generate
-a surplus (and name a people, the Slavs), but this is an exception. 
+a surplus (and even rename slavery after the people being enslaved, the Slavs),[^slaves] but this is an exception. 
 
 There are also two metals - gold and silver - and relative value
 between them, which differ between places and times. Europe has long fixated on
@@ -494,6 +494,16 @@ But that too is a story for another time.
 
 [^spufford]: Based largely on Spufford's Money and its Use in Medieval Europe. 
 [^soldi]: Spufford, 7-8
+[^slaves]: Spufford, 49: "In the ninth century the key area for expansion was on
+    the eastern frontier at the expense of the Slavs. So many Slavs were reduced
+    to slavery that the very word 'Slav' became synonymous with 'slave', and
+    _sclavus_ replaced _servus_ as the standard term for a slave ... The overall
+    numbers sold were so great that the 'normal' imbalance of payments between
+    the Latin west and the Arab and Byzantine east was temporarily reversed, and
+    gold and silver flowed for a time into Europe. It was because of the export
+    of human flesh and blood, the most profitable commodity in the world, that
+    western Europe, empty of gold since the end of the seventh century, began to
+    receive it again in limited quantities a hundred years later."
 [^england-demonetize]: Spufford, 9
 [^feudalism]: Spufford, 16
 [^melle]: Spufford, 32-33
