@@ -5,9 +5,9 @@ draft: false
 ---
 
 This post is part of a series on the Properties of Money. See the
-[introduction](/properties-of-money). 
+[introduction][intro] 
 
-In the [last post](https://ebuchman.github.io/posts/origin-account/)
+In the [last post][origin]
 we explored the Unit of Account, its origin, and its function in denominating debt.
 We saw how the Unit of Account manifests in anthropological and political forms,
 in outside and inside monies. Here we explore the tension between the Unit of
@@ -112,15 +112,17 @@ deposits. For the banks, its the central bank reserves. However,
 the banks also have tremendous networks of inside money, which form a very real
 medium of exchange for them, and serve as the substrate of the eurodollar
 system. These inside monies are built out of the trust generated within the
-banking community in its own network of debt denomination. What would it look
-like to build this kind of trust in other communities?
+banking community in its own network of debt denomination. To the extent that
+trust falters, the entire global financial system seems to face crisis. But what would it look
+like to build this kind of trust in other communities? Perhaps we could build a
+more robust and sustainable finance?
 
 We could thus say that the medium we use depends on where we can source both
 transactions and trust. If we can source enough trust and enough of our transactions
 from our collective capacity to denominate debts,
 we can generate inside money as a means of exchange. But if we cannot generate
 enough trust within our community, or if we need to transact outside of it, we
-require a higher source of trust, from an outside value store, - an outside money.
+require a higher source of trust, from an outside value store - an outside money.
 
 We could also say that inside money appears as a medium of exchange based in the Unit of Account function,
 while outside money appears as a medium of exchange based in the Store of Value
@@ -142,7 +144,10 @@ is only necessary in so far as there are *imbalances* in
 the payments graph being cleared in the lower level, and/or insufficient trust to
 roll over the imabalance into the future.
 We find here the deep tension between the Unit of Account and the Medium of
-Exchange - between the elasticity permitted by the Unit of Account and the discipline asserted by the Medium of Exchange. 
+Exchange - between the elasticity permitted by the Unit of Account to denominate debt,
+and the discipline asserted by the Medium of Exchange to discharge that debt
+here and now. 
+
 The Unit of Account permits us to create computational spaces - our network of balance sheets - where 
 we can account for debts and clear them against eachother.
 But to the extent there is insufficient bandwidth or capacity in that space,
@@ -188,17 +193,19 @@ credit" network), which is at the core of the real economy.
 Within this network, we can ask about the patterns of flow, and in particular whether there
 are closed loops ("cycles") that can be cleared without the need for
 balances in a medium of exchange to materialize or flow. 
-If I owe Abed $10 and Abed owes Troy $6 and Troy
+If I owe Abed $10 and Abed owes Troy $7 and Troy
 owes me $4, we can clear what's common ($4) from all of them, leaving everyone
-only owing the difference ($6 for me and $2 for Abed). 
+only owing the difference ($6 for me and $3 for Abed). 
 The Medium of Exchange is needed only in so far as there are imbalances in the payment graph.
 
-IMAGE
+![Set-off Cycle][img-cycle]
+*Clearing a balanced flow of debt. What remains is the imbalance.*
+
 
 By mapping the obligation graph and identifying cycles, we can *save* liquidity.
 We need less money for the same volume of transactions, just by taking advantage
 of existing structure in the graph. All forms of clearing can be considered
-effectively as increasing the [velocity of money](/velocity.md). 
+effectively as increasing the [velocity of money](/posts/velocity). 
 But the presence of these cycles, and the opportunity to clear them, presents 
 as a higher order phenomenon that requires and supports a greater degree of
 collaboration. It suggests a way for us to
@@ -241,16 +248,16 @@ States had always borrowed, for all we know as far back as they existed. But
 they borrowed primarily in times of emergency, to fight war, and otherwise
 strove to repay their debts, and to run surplusses in peace time. In other
 words, they did not run permanent deficits. Occasionally, they would default and cause crisis.
-It wasn't until the 16th c aliance between the Spanish and
-the Genoese, fuelled by a new source of silver in the Americas, that the
+It wasn't until the 16th century alliance between the Spanish crown and
+the Genoese bankers, fuelled by a new source of silver in the Americas, that the
 political and financial machinery was worked out to create permanent deficit
 financing for states. In the case of the Spanish, it was to finance an 80 years
 war against the Dutch. But not long after, in the early 17th c, the permanent
 deficit became a phenomenon of peace time in the hands of the British state
 under the Stuarts. And the crisis wrought by the Spanish-Genoese alliance on the
-older international trade fairs in the late 16th c led to the rise of new clearing infrastructure
+older international trade fairs in the late 16th century led to the rise of new clearing infrastructure
 in the form of central banks, beginning especially with the Bank of Amsterdam at
-the start of the 17th c, and culminating in the bank of England at the end.
+the start of the 17th century, and culminating in the bank of England at the end.
 
 As central banks and centralized clearing unions came to take over from the 
 decentralized clearing fairs, they would introduce a new kind of money, the bank "reserves",
@@ -260,7 +267,8 @@ Global payments and finance moved from a system based on clearing via an interna
 primarily to *save* liquidity, to one based on settlement via an international medium of
 exchange (the new gold reserve currencies), used to *provide* liquidity. 
 Attention turned from balancing the payments graph (saving liquidity) to issuing enough
-reserves (providing it). We transitioned from a quality theory of money (money flowing in cycles) to a quantity theory (money accumualating in volume).
+reserves (providing it). We transitioned from a quality theory of money (money flowing in cycles) 
+to a quantity theory (money accumulating in volume).
 
 Concerns continue to abound as to the problem of responsibly issuing reserves,
 most commonly today in the context of an explosion of reserves on the balance sheets
@@ -304,9 +312,9 @@ The 20th century, in Europe, especially, saw growing recognition of the
 importance of this problem, of balancing the payments graph via clearing rather
 than perennially issuing reserves to support settlement.
 Keynes' *bancor* proposal at Bretton Woods, 
-which was based on EF Schumachers work on multi-lateral
+which was based on E.F. Schumachers work on multi-lateral
 clearing,[^schumacher] was a recognition of the need to balance the 
-global payments graph between countries leveraging a global ghost Unit of Account - the bancor.
+global payments graph between countries by using a global Unit of Account - the bancor.
 Of course Keynes' plan failed in favour of an American gold-exchange standard
 and American management of the issuance of global monetary reserves - the USD. 
 But USD liquidity wasn't sufficient to reboot European economies amidst the tangled
@@ -331,7 +339,7 @@ clearing (that is, liquidity saving) to one of liquidity (that is, liquidity
 provisioning), is a deep historical question that may lie at the heart of the
 large-scale destructive effects of capitalism on the world.
 
-## Collaborative Finance
+## Respect the Graph
 
 Money, its instabilities, and the anxieties it produces, are ancient phenomena.
 As a technology of debt denomination and discharge, money posits a discipline of predicting
@@ -348,7 +356,7 @@ nominal and intrinsic value of the coin - the sovereign could enforce, at least
 locally, and within some constraints, that the coin was worth more than the metal inside it.
 Reducing the amount of metal in the coinage thus became a means of effecting debt
 relief. Of course this capacity could also be greatly abused by the sovereign
-itself, to relieve its own debts\[^debasement].
+itself, to relieve its own debts.[^debasement]
 
 Modern Capitalism is marked by a new kind of debt relief, an
 institutionaliation of the debts of the sovereign in a manner
@@ -381,8 +389,9 @@ entrenched powers and their hoarding of liquidity through explicit
 collaboration, restoring the medium of exchange as a vehicle for clearing debts,
 rather than for accumulating value.
 
-We call this new approach [Collaborative Finance (CoFi)](https://cofi.informal.systems).
-The CoFi perspective is focused on understanding the payments graph itself -
+This is the approach behind [Cycles][cycles], an open clearing protocol, designed to clear
+the most debt for the most people with the least money.
+Cycles is based on understanding the payments graph itself -
 mapping it, finding cycles, clearing them, and encouraging their sustainable growth.
 But it also gives us new insights into the optimal injection of liquidity into
 the graph - namely, liquidity can be injected in ways that optimize for network
@@ -394,30 +403,36 @@ sustainable economic growth itself.
 At the heart of this thinking is the problem of imbalances in the payment graph - 
 what can't be accounted for and thus cleared in the UoA alone,
 and how they must "spill out" into the domain of the Medium of Exchange. 
-We turn to the Medium of Exchange, next.
+We will turn to the Medium of Exchange, next.
 
 
 ## Bibliography
 
+- Arrighi (1994). The Long Twentieth Century
 - Amato & Fantacci (2011). The End of Finance.
 - Bagehot (1873). Lombard Street.
 - Borner & Hatfield (2017). The Design of Debt Clearing Markets: Clearinghouse
 Mechanisms in Pre-Industrial Europe.
 - Hudson (1972). Super Imperialism.
-- Boyer-Xambeu
+- Boyer-Xambeu, Deleplace, Gillard (1994). Private Money and Public Currencies
 - TODO 
 
 ## Notes
 
-[coins]: https://ebuchman.github.io/posts/coins-history/
+[coins]: /posts/coins-history/
+[intro]: /posts/properties-of-money
+[origin]: /posts/origin-account
+[velocity]: /posts/velocity
+[stakeholders-and-statemachines]: https://www.youtube.com/watch?v=Luh7m7YHRts
+[img-cycle]: /img/abed_troy.png
 
 [^energy-cycles]: Sustainable systems are those that are able to continuously
     cycle energy. This is the intuition behind "circular economics." But it can
     be nurtured by design of the monetary system to focus on the flows and the cyclic
     structure of the network ("quality theory of money") rather than the
     stocks and the aggregate structure ("quantity theory"). See my post on
-    [the velocity of money](https://ebuchman.github.io/posts/velocity/), and my talk on 
-    [Stakeholders and Statemachines](https://www.youtube.com/watch?v=Luh7m7YHRts), for more.
+    [the velocity of money][velocity] and my talk on 
+    [Stakeholders and Statemachines][stakeholders-and-statemachines] for more.
 [^rescontre]: See Borner & Hatfield (2017) for a historical overview as well as economic analysis of the Pareto 
 efficiency of these mechanisms. Merchant bankers met quarterly at the fairs with
 their books of bills of exchange and spent a few days finding chains and loops of bills
@@ -425,16 +440,16 @@ with others at the fair that could be cleared. This decentalized clearing
 was ultimately replaced by central banks and clearing houses which,
 though technically less Pareto efficient, were able to incentivize use through
 other means. 
-[^boyer]: See Boyer-Xambeu et al (TODO) for a detailed expose of how 
-    the graph was balanced, and the incentivizes for balancing it. They argue that
+[^boyer]: See Boyer-Xambeu et al (1994) for a detailed exposé of how 
+    the payments graph was balanced, and the incentivizes for balancing it. They argue that
     merchant bankers organized a hierarchical system of exchange rates anchored
     in the fairs of a central city, and that by balancing the graph of payments,
     they were able to systematically harvest as profit the seinorage charged by princes.
     In other words, balancing the payments graph allowed them to systematically profit by 
     exploiting the spread created by seignorage on coins. This system was
-    originally anchored by the Florentine bankers in the fairs of Lyons under allegiance with
-    France, an arrangement that was ultimately disrupted by the Genoese
-    bankers in Bisenzone under allegiance with Spain. The Genoese-Spanish
+    originally anchored by the Florentine bankers in the fairs of Lyons under alliance with
+    the French crown, an arrangement that was ultimately disrupted by the Genoese
+    bankers and their alliance with the Spain crown. The Genoese-Spanish
     alliance introduced a structural imbalance based around financing the
     Spanish military effort, and ushered in what Arrighi (1994) calls the first
     "systemic cycle of accumulation."
@@ -442,7 +457,7 @@ other means.
     that in times of crisis they should "lend freely, at high interest, on good
     collateral, to solvent firms". This is the "Bagehot rule".
     While lip service continues to be paid to Bagehot and his rule, and
-    especially to "lend freely", to often it is done at low interest, on junk
+    especially to "lend freely", too often it is done at low interest, on junk
     collateral, to insolvent firms. Notably, and less well known, Bagehot was
     actually against the system of central banking, and preferred a system of
     competitive note issue between private banks, where each bank held and
@@ -456,7 +471,8 @@ other means.
   and for his role as a forerunner of "ecological economics." 
   Keynes took him on as a protoge. His article on 
   [Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/)
-  was the basis for his and Keynes' bancor proposal at Bretton Woods.
+  was the basis for Keynes' bancor proposal at Bretton Woods, though somewhat
+  controversially, and perhaps due to the politics of the situation, Keynes never gave him credit for it.
 [^end-of-finance-epu]: See Amato & Fantacci (2011). The book gives an excellent
     overview of the theory and history of moving from the "clearing" principle
     to the "liquidity" principle and the trouble therein.
@@ -469,4 +485,3 @@ other means.
   revenue for the sovereign, but rather to stabilize the money markets (bullion
   and coins), which generated their own endogenous instability. See for example
   my [history of medeival Europe coinage][coins]
-
