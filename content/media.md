@@ -7,12 +7,12 @@ I often speak on podcasts and at conferences.
 Some of my favorites, which tend to focus more on larger vision and
 political economy, include:
 
-- 2022-11: **The Ownership Economy Podcast** - [The Cosmos Network, Collaborative
-Finance (Co-Fi), and the Empowerment of Monetary Localism](https://anchor.fm/theownershipeconomy/episodes/Episode-041---The-Cosmos-Network--Collaborative-Finance-Co-Fi--and-the-Empowerment-of-Monetary-Localism-with-Cosmos-Co-Founder-Ethan-Buchman-e1qvgrh/a-a8svs96)
+- 2024-08: **Science of Blockchain Conference** - [Cycles Protocol: a
+  Peer-to-Peer Electronic Clearing
+  System](https://www.youtube.com/watch?v=IXG9tbsRPlQ)
+- 2024-07: **Modular Summit** - [Defund the Dealers: the Past, Present, and
+  Future of Liquidity](https://www.youtube.com/watch?v=9ZToW_b9F-s)
 - 2022-05: **Bankless** - [Why Bankless Is Wrong](https://www.youtube.com/watch?v=Vbomgw-PGRE)
-- 2021-10: **The Blockchain Socialist** - [The heterodox politics of the internet
-of blockchains and sustainability
-existentialism](https://theblockchainsocialist.com/the-heterodox-politics-of-the-internet-of-blockchains-and-sustainability-existentialism/)
 - 2020-11: **CSCON[0]** - [Free as in Banking](https://www.youtube.com/watch?v=PySo0gUEx8A&t=2040s)
 - 2019-05-06: **Rebuild Conference** - [Stakeholders and Statemachines](https://www.youtube.com/watch?v=Luh7m7YHRts)
 - 2018-03-26: **Software Engineering Daily** - [Consensus Systems with Ethan Buchman](https://softwareengineeringdaily.com/2018/03/26/consensus-systems-with-ethan-buchman/)
@@ -22,6 +22,8 @@ A more complete list can be found below.
 ---
 
 ## Podcasts
+
+(not up to date)
 
 2022-11: **The Scoop** - [Inside the Cosmos Ecosystem with Ethan
 Buchman](https://www.youtube.com/watch?v=QMciYZ66MSQ)
