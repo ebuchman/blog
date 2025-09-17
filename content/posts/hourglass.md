@@ -8,7 +8,7 @@ multilateral relations, and the power of clearing"
 ---
 
 
-[Dan Barabender](https://x.com/dbarabander) wrote a [great little article]
+[Dan Barabander](https://x.com/dbarabander) wrote a [great little article]
 on what he calls "Hourglass Markets," markets bottlenecked by bilateral interemediaries that bridge different trust
 layers, and the opportunity for crypto to disrupt them. The article starts with the problem of "stacking and funneling trust" in
 the banking system, or what Perry Mehrling would call the [Hierarchy of
