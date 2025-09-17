@@ -15,7 +15,7 @@ the banking system, or what Perry Mehrling would call the [Hierarchy of
 Money]. 
 
 Dan explains how the hierarchy of money in a single country (eg. we have
-deposits at the banks, who have deposits at the central bank), solves the
+deposits at the banks, who have deposits at the central bank) solves the
 problem of payments in that country ("stacking and funneling trust"). But the lack of an international central
 bank prevents the solution from being extended to the whole world, causing
 international payments to be an archetypal hourglass market requiring
@@ -83,13 +83,13 @@ of States.[^deficit]
 Coming back to modern day and FX, an international clearing house was finally set up in 2002 with
 CLS (Continuous Linked Settlement), which completely dominates. So its less clear to me that FX still has the
 Hourglass structure Dan describes, at least so long as the "hourglass" designation depends on international relations
-being bilateral (it certainly did before CLS, which is what led to creating a
-clearing house). Perhaps there is still something to say about the Hourglass nature of markets even if
+being bilateral (FX was a mess of bilateral settlement before CLS, which was the whole point of the clearing house). 
+Perhaps there is still something to say about the Hourglass nature of markets even if
 they're served by multilateral clearing houses, given the highly exclusive nature of those
 institutions. CLS only has 70 members. CHIPS 42. It's not a dark web of
 bilateral relations per se, but the multilateral net is cast pretty tight. Of
 course members in both have complex webs of correspondent relations to extend
-indirect access to thousands of others (the nostro/vostro accounts they use for
+indirect access to thousands of others (fun aside, the nostro/vostro accounts they use for
 this date back to the revolution in 14th c banking).
 
 The question I'm asking is how does this all change if we introduce a 
