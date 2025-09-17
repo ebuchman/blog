@@ -1,4 +1,3 @@
-
 ---
 title: "Clearing the Hourglass"
 subtitle: "Reflection on Dan Barabander's Hourglass Markets"
