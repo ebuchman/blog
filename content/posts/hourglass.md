@@ -1,11 +1,10 @@
 ---
 title: "Clearing the Hourglass"
-subtitle: "Reflection on Dan Barabander's Hourglass Markets"
+subtitle: ""
 date: 2025-09-17
 draft: false
-description: "An approach to synthesizing the heterdox schools of economics via
-a more comprehensive sociological theory of the factors of production, including
-energy and money."
+description: "Reflection on Dan Barabander's Hourglass Markets, bilateral vs
+multilateral relations, and the power of clearing"
 ---
 
 
