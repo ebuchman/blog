@@ -78,7 +78,7 @@ this time the Medici were out of banking and into being popes and queens), but
 was destroyed by the Spanish, with their Genoese bankers, in the late 1500s
 using silver from the new world to mount an attack on the international clearing
 system by creating a new source of systematic imbalance: the permanent deficits
-of States.[^deficits]
+of States.[^deficit]
 
 Coming back to modern day and FX, an international clearing house was finally set up in 2002 with
 CLS (Continuous Linked Settlement), which completely dominates. So its less clear to me that FX still has the
