@@ -20,26 +20,27 @@ deposits at the banks, who have deposits at the central bank), solves the
 problem of payments in that country ("stacking and funneling trust"). But the lack of an international central
 bank prevents the solution from being extended to the whole world, causing
 international payments to be an archetypal hourglass market requiring
-intermediaries to bridge the trust layers of different political jurisdictions.
+bilateral intermediaries to bridge the trust layers of different political jurisdictions.
 
 The cool thing about the hierarchy of money is you technically only have to go
 up a level to the extent there is imbalance at a lower level. In other words, if
 you can do clearing at one level, you can limit your need to use currency from a
-higher level. The largest banks for instance have CHIPS (Clearing House
+higher level. Clearing is a multilateral function that can overcome the
+gross inefficiencies of bilateral relations. The largest banks for instance have CHIPS (Clearing House
 Interbank Payments System) which lets them clear their interbank debt before
 having to resort to moving bank reserves at the Fed. And its not just US banks,
 but US branches of foreign banks. So CHIPS is functionally a major international
 clearing house for interbank payments. But it's still a tight closed club. And
-in 2001 they tightened it up heavily, changing the settlements from once
-end-of-day to real-time netting with collateralized net positions. The
-collateral requirements seems to have caused like 100 banks to drop out.
+in 2001 they tightened it up heavily, changing the settlement system from
+running once end-of-day to running real-time netting with collateralized net positions. The
+new collateral requirements seem to have caused like 100 banks to drop out.
 
 A big part of the problem of cross-border payments is that the post-WWII Bretton
 Woods settlement was incoherent. Where was everyone supposed to get the USD for
 settlement? And how inefficient and constraining it would be without
 international clearing. Of course there was an alternative proposal at Bretton
 Woods from the British, led by Keynes, for a multilateral clearing union (the
-Bancor), which would be the correct way to organize the international financial
+[Bancor]), which would be the correct way to organize the international financial
 order across political regimes. This was actually [originally EF Schumacher's
 idea] who was Keynes' protege, but would later diverge from Keynsians heavily in
 economics. Alas, we did not get our precious Bancor, and got a USD cursed by
@@ -48,7 +49,7 @@ economics. Alas, we did not get our precious Bancor, and got a USD cursed by
 In the aftermath of the war, without a clearing union, European countries formed
 a "spaghetti bowl" of hundreds of bilateral credit agreements. The worst sort of
 Hourglass Market. In 1950 they cut through the whole thing in one swoop by
-setting up a clearing house, the European Payments Union, which solved the
+setting up a clearing house, the [European Payments Union] (EPU), which solved the
 problem outright and catalyzed the post-war boom.[^end-of-finance] Apparently
 successful in its mission, in 1958 the EPU was tragically closed down. What a
 tragic end to an incredible international clearing institution. 1958 is also
@@ -56,18 +57,18 @@ coincidentally the traditional birth year of the Eurodollar system.
 
 In the absence of international multilateral clearing like the EPU, cross-border
 trade was again an Hourglass Market. What emerged to address it was the
-eurodollar system, a dark web of countless bilateral USD credit relations
+Eurodollar system, a dark web of countless bilateral USD credit relations
 between international banks. But this was also heavily supported by the launch
-of CHIPS in 1970. In the 1980s 75% of the 140 CHIPS members were non-US banks.
+of CHIPS in 1970. In the 1980s, 75% of the 140 CHIPS members were non-US banks.
 And this system seemingly worked for a while until its violent collapse in 2008.
 It never recovered. 
 
 Going further back in history, in the 1400 and 1500s, before the rise of central
 banks, the trust layers of different political sovereignties were bridged by a
 cabal of hundreds of international italian bankers who met every few months at
-payment fairs (in Geneva, and later Lyons) to multilaterally clear virtually all european trade credit.[^bdg]
-In fact it was the existence of distinct political sovereignties that created an FX
-market, even in this period, and enabled the international bankers to
+payment fairs (in Geneva, and later in Lyons) to multilaterally clear virtually all european trade credit.[^bdg]
+In fact it was the existence of distinct political sovereignties that created an international FX
+market in the first place, even in this period, and enabled the international bankers to
 systematically profit from dealing in bills of exchange. Arguably, one of the
 major macro forces that killed the Medici for instance was the systematic
 imbalance in the payments graph between Flanders and Italy in the late 1400s
@@ -90,7 +91,7 @@ institutions. CLS only has 70 members. CHIPS 42. It's not a dark web of
 bilateral relations per se, but the multilateral net is cast pretty tight. Of
 course members in both have complex webs of correspondent relations to extend
 indirect access to thousands of others (the nostro/vostro accounts they use for
-this date back to the revolution in 14th c banking :) ).
+this date back to the revolution in 14th c banking).
 
 The question I'm asking is how does this all change if we introduce a 
 multilateral clearing system accessible to all? Not an exclusive club for the
@@ -100,6 +101,8 @@ powerful financial capability in history, could be accessed by anyone?
 
 This is the [Cycles] opportunity. Lets smash the hourglass.
 
+[European Payments Union]: https://en.wikipedia.org/wiki/European_Payments_Union
+[Bancor]: https://en.wikipedia.org/wiki/Bancor
 [Cycles]: https://cycles.money/
 [Mimbres School]: https://mimbres.org/
 [Triffin's dilemma]: https://en.wikipedia.org/wiki/Triffin_dilemma
