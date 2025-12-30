@@ -2,8 +2,8 @@
 title: "Polarities of Exchange: Introduction"
 date: 2025-12-30
 draft: false 
-description: "Introduction to a series on the history of capitalism seen through the lens of
-of its primary instrument, the bill of exchange."
+description: "A series on the history of capitalism told through the lens of
+its primary instrument, the bill of exchange."
 ---
 
 The history of capitalism, in so far as it’s something that emerged out of
@@ -69,9 +69,10 @@ But perhaps the greatest source of confusion lies in which "direction" it went,
 namely, whether it was really a *bill* (issued by a creditor, "you owe me,
 here's the bill") or a *note* (issued by a debtor, "i owe you"). The distinction is important
 because it reflects a difference in where the credit actually originates and how
-the credit extension is managed in the banking system. And as we'll see, unlike
+the credit extension is managed in the banking system. As we'll see, unlike
 bills, notes can circulate more easily, and unlike notes, bills can "hide" the potentially blasphemous credit nature of the instrument
-behind the reality of legal exchange.
+behind the reality of legal exchange (lending with interest was mostly illegal for much
+of this period).
 
 The problem is that bills of exchange through history sometimes appear to go one way, and sometimes the other. 
 My thesis is that the archetypal *polarity* of what people call a “bill of exchange” actually
@@ -98,7 +99,7 @@ more properly a bill, at least in its archetypal form - it’s an order to pay b
 a creditor, typically to a correspondent abroad that owes him money. As we’ll
 see it’s more flexible than this, but this archetypal form gives the network a
 distinct purpose from that of the first period. The bill is still non-transferable, but 
-its no longer notarized. One could say these instruments enabled complex and
+it's no longer notarized. One could say these instruments enabled complex and
 mature management of liquidity across the network of bankers, but the
 instruments were not liquid ("negotiable") in themselves. The
 primary purpose of the instrument appears to be to enable a new kind of international
@@ -165,10 +166,9 @@ metal is expensive, moving paper is cheap. The bankers of the 16th c and earlier
 to facilitate huge volumes of trade with little to
 no money at all, without any central repositories of collateral or reserve. It
 was when they got too tied up in the problems of financing government that their
-system was usurped by government run central banks in the 17th c. Their first great
-innovation was to issue a new kind of credit backed by a centralized reserve of precious metal.
-Their second great innovation was to eliminate the need for the metal all
-together.
+system was usurped by government run central banks in the 17th c. The first great
+innovation of these new banks was to issue a new kind of credit backed by a centralized reserve of precious metal.
+Their second great innovation was to eliminate the need for the metal all together.
 
 This problem of where money comes from is central to the structure of society.
 It's part of the constitution. Money is how we account for the world and
@@ -180,14 +180,20 @@ In all likelihood, crypto matters too. Exactly how is anyone's guess. Perhaps
 the past is a useful guide.
 
 This then is the history of that 800 year dance between the financing
-of trade and the financing of sovereigns (church and state), told through the
+of trade and the financing of sovereigns, told through the
 eyes of the instrument that lubricated it all, the bill of exchange.
+
+*Stay tuned for Part 1: The Early Period, 1100-1300 - we'll hit the Crusades,
+an explosion of silver mining, the Champagne Fairs, Papal banking, and more.*
 
 [^1]: Larry Neal, *The rise of financial capitalism*. His description of bills of
   exchange on page 6 gets one of the basic terms wrong, and his setup is
   anachronistic. I believe I [figured
   out](https://x.com/drumm_colin/status/1985047614547435778) where he got the error from (a typo in
   the 18th c merchant manual he cites). But the rest of his book (cited over 1300 times) otherwise ignores the bills.
+  Colin Drumm [sought to clean up](https://trialofthepyx.substack.com/p/bills-of-exchange-medieval-and-modern) 
+  some of the confusion around bills a few years ago. That effort continues in
+  my own work.
 
 [^2]: Ellen Meiksins Wood, *The Origin of Capitalism: A Longer View*. Wood
   mentions the bills briefly in passing, seeming to imply they are primarily a
