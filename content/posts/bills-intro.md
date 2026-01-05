@@ -1,8 +1,8 @@
 --- 
-title: "Polarities of Exchange: Introduction"
+title: "Polarities of Exchange"
 date: 2025-12-30
 draft: false 
-description: "A series on the history of capitalism told through the lens of
+description: "An overview of the history of banking told through the lens of
 its primary instrument, the bill of exchange."
 ---
 
@@ -27,7 +27,9 @@ and perhaps even at times within, confusion tends to abound.
 Why should we care about the bills? The bills make up the fabric of the
 international banking system, from its emergence in the 12th c to its maturity
 in the 20th, before they are finally supplanted (really, gobbled) by central bank mediated markets 
-in government debt. One might observe that the 20th century is the culmination of a near millennium long
+in government debt. The bills, and especially the crisis of the 1570s, 
+forms the backdrop for the rise of central banking and the modern monetary constitution. 
+One might observe that the 20th century is the culmination of a near millennium long
 battle between bills of exchange and government debt instruments - between
 financing commerce and financing government. Public finance won. But what have we lost?
 Studying the bills offers a way to answer the question. 
@@ -50,12 +52,12 @@ leaving their coins with the bankers for safe keeping, and hence the role of
 deposit developed, and with it the capacity for bankers to effect payments "on
 their books". But the origin of the phenomenon is exchange.
 
-However, there are really two different types of exchange - local and international. 
+There are really two different types of exchange - local and international. 
 Local exchange is done at the benches with small time local firms that deal in coins, deposits, and local
-payments. They deal in different monies, Here and Now. But international
-exchange is a whole other story. This was the world of the premier Italian
+payments. They deal in different monies, **here and now**. But international
+exchange is a another story - it's the world of the premier Italian
 merchant bankers who facilitated long distance exchange, trading money here and
-now for money Elsewhere and Later. This type of banking was much bigger and more complicated business than the local
+now for money **elsewhere and later**. This type of banking was much bigger and more complicated business than the local
 money changers, requiring international corporate infrastructure and double-entry bookkeeping. 
 This was the type of banking that didn't emerge in the ancient world, but came
 specifically out of medieval Italy. These international firms came to dominate the world of
@@ -64,18 +66,27 @@ money and finance. And their instrument? The bill of exchange.
 In later posts we'll get into the details of what the bill of exchange actually
 was, though this changed significantly over time.
 Because of its international nature, it was both an instrument of 
-exchange of currencies (in space) and the granting of credit (in time). 
-But perhaps the greatest source of confusion lies in which "direction" it went,
-namely, whether it was really a *bill* (issued by a creditor, "you owe me,
-here's the bill") or a *note* (issued by a debtor, "i owe you"). The distinction is important
+exchange (across space), and a granting of credit (across time). 
+In its simplest and earliest form it was a way for a merchant to borrow from a banker in one place (say
+Genoa, denominated in Genoese money) and to repay in another place (say Champagne, denominated in the money of Champagne). 
+But it also came to be used by exporters to collect on payments owed to them
+from importers abroad. In the first case the merchant was borrowing to expand his balance
+sheet and pursue new business. But in the second case he's not really borrowing, 
+he's just trying to get paid for old business by selling the money already owed to him abroad.  
+
+This difference is the source of a great deal of confusion in the literature
+regarding which "direction" the bill went, namely, whether it was really a *bill* 
+(issued by an existing creditor, like an exporter, saying "you owe me,
+here's the bill") or a *note* (issued by a debtor, "i owe you"). In both cases the merchant drawing the bill gives it 
+to a banker in exchange for local money. But the distinction is important
 because it reflects a difference in where the credit actually originates and how
 the credit extension is managed in the banking system. As we'll see, unlike
-bills, notes can circulate more easily, and unlike notes, bills can "hide" the potentially blasphemous credit nature of the instrument
-behind the reality of legal exchange (lending with interest was mostly illegal for much
-of this period).
+bills, notes can circulate more easily, and unlike notes, bills can "hide" the potentially 
+blasphemous credit nature of the instrument (lending with interest was mostly illegal for much
+of this period, but exchange was not).
 
-The problem is that bills of exchange through history sometimes appear to go one way, and sometimes the other. 
-My thesis is that the archetypal *polarity* of what people call a “bill of exchange” actually
+The problem is that what we call bills of exchange through history sometimes appear to go one way, and sometimes the other. 
+My thesis is that the archetypal *polarity* actually
 did reverse, and it did so twice, over the long near millennium of its life,
 from note to bill and back again.[^polarity] These polarity reversals occurred, roughly speaking, around 1300 and 1600, and
 they carve the history into three broad epochs, between which the function of
@@ -85,62 +96,58 @@ which transformed the political and economic environment.
 
 Studying the bills thus allows us to understand the broader structure of the
 history of finance and capitalism, and how it evolved over these three major
-phases. In the first phase, the early period, ~1100-1300, what’s referred to as a “bill of exchange” is actually a note, a
-promise to pay by a debtor. And it is primarily an instrument designed for use
-with a trade fair, most notably the Fairs of Champagne, where the payment is
-actually due. These notes were formally notarized and non-transferable. 
-It appears that the primary purpose of this instrument was
+phases. In the first phase, the early period, ~1100-1300, what’s referred to as a “bill of exchange” was actually a note, a
+promise to pay by a debtor. And it was primarily an instrument designed for use
+with a trade fair, most notably the Fairs of Champagne, where the payment was
+actually due. These notes were formally notarized and non-transferable.
+I suggest that the primary purpose of this instrument was
 for Italians to *fetch silver home from Champagne*. This period was indeed
 marked by a flood of new silver from mines across Europe. The period culminates
 in the crisis of the 1290s.
 
-In the second phase, the classical period, ~1300-1600, the bill of exchange is
-more properly a bill, at least in its archetypal form - it’s an order to pay by
-a creditor, typically to a correspondent abroad that owes him money. As we’ll
-see it’s more flexible than this, but this archetypal form gives the network a
-distinct purpose from that of the first period. The bill is still non-transferable, but 
+In the second phase, the classical period, ~1300-1600, the bill of exchange was
+more properly a bill, at least in its archetypal form - it’s an order to pay,
+issued by a creditor, to a correspondent abroad that owes him money. As we’ll
+see it’s more flexible than this, but this archetypal form gave the network a
+distinct purpose from that of the first period. The bill was still non-transferable, but 
 it's no longer notarized. One could say these instruments enabled complex and
-mature management of liquidity across the network of bankers, but the
-instruments were not liquid ("negotiable") in themselves. The
-primary purpose of the instrument appears to be to enable a new kind of international
-corporation to perpetually “*run balances on exchange*”, even in the absence of
+mature management of liquidity across the network of bankers, but they were not liquid ("negotiable") in themselves. 
+Their primary purpose appears to have been to enable a new kind of international
+corporation to systematically profit by perpetually “*running balances on exchange*”, even in the absence of
 a great fair or the movement of silver. Indeed, the period is marked by a major
-shortage of silver. Central fairs did return in the 15th c, climaxing in 16th c Lyons, but the
+shortage of silver (until it pours in from the New World). 
+Central fairs did return in the 15th c, climaxing in 16th c Lyons, but the
 rise of continuous exchange centers like London, Bruges, Paris, Avignon, etc.
 outside the cycle of the fairs gave the exchange network a very different
-flavour. When silver flow returns to Europe from the New World, the system is
-disrupted severely by the crisis of the 1570s.
+flavour. The Spanish silver influx ultimately seems to have destroyed the system
+in the crisis of the 1570s. Out of its ashes rose the Central Banks and a new
+kind of money market.
 
-Finally, in the third phase, the later period of ~1600-1900, the bill again
-comes to resemble a note, a pledge by a debtor to pay. This transformation
-develops as bills become *negotiable*, in that they can be accepted by multiple
-parties, who agree to be liable for them. Chains of acceptances give the bills
+In the third phase, the later period of ~1600-1900, the bill again
+came to resemble a note, a pledge by a debtor to pay. This transformation
+developed as bills became *negotiable*, in that they could be accepted by multiple
+parties, who agreed to be liable for them. Chains of acceptances gave the bills
 the ability to circulate as, basically, notes, promises to pay by their issuer
-(in this case, anyone who has accepted it!). Thus the instruments become liquid in their own right. 
-Notably, in this period they also lose the quality of exchange, being denominated in a single currency. That they
-are still called bills of exchange, even as they come to resemble notes and to
+(in this case, anyone who had accepted it!). 
+Thus they became liquid in their own right, giving rise to discounting markets,
+where merchants could buy bills at a discount before they're due, earning the
+discount as yield. Notably, in this period, 
+the bills also lost the quality of exchange, being denominated in a single currency. That they
+were still called bills of exchange, even as they came to resemble notes and to
 lose any element of exchange, is indeed a major source of confusion about their
-history. This is also the period during which their use is liberated from the
+history and operation. This is also the period during which their use was liberated from the
 monopolization by Italian merchant bankers during a long transition through
 Antwerp and Amsterdam, pulling silver in from the new world and ultimately
-landing in London. In London, their primary purpose becomes to finance the slave
-trade and the investment capital represented therein. The system comes to a
-globally devastating end in the First World War, out of which the bills never
+landing in London. In London, their primary purpose became to finance the slave
+trade and the investment capital represented therein. It was in this context
+that Central Banks grew up, in the discount market for bills of exchange.
+The system came to a globally devastating end in the First World War, out of which the bills never
 recovered. The bills retreated into the world of trade financing and invoice
 factoring, and government debt swallowed the banking system. 
 
-In the posts that follow, we'll review each of these phases, covering the
-relevant geopolitical history and developments in the international banking
-system. We will see clearly the role that the bill played in financing the great
-surge of Commerce and Capital from the 12th through the 20th century. 
-And we will gain an appreciation for finer points about this curious instrument
-and the networks it supported that are not well understood. In particular, we'll
-see how the crisis of the 1570s is the critical context for understanding the
-rise of central banking and the modern monetary constitution. 
-
 One important historical undercurrent through all this is the Church doctrine on usury,
-which, in its most basic form, made it illegal to issue interest-bearing notes. The usury doctrine is
-best understood as a kind of financial regulation that varied by time and place, 
+which, in its most basic form, made it illegal to issue interest-bearing notes (and thus also made discounting illegal). 
+The usury doctrine is best understood as a kind of financial regulation that varied by time and place, 
 and had a real effect on institutional structures, despite everyone seeking to overcome it (think tax
 regulation and tax planning today). Notably, Church doctrine on usury strengthens ~1300, 
 and weakens ~1600, in broad alignment with our periods. Many scholars have emphasized the
@@ -150,13 +157,19 @@ suppose that what we are seeing is the emergence of a formal credit instrument
 first as a note, then its temporary disguise as a bill for 300 years under
 pressure from the Church, and finally its re-emergence as a note once the
 Church’s prohibitions are relieved. And indeed, this is a part of the story, but
-it's also too simplistic. The epochs themselves appear marked by
+it's also too simplistic. The Church was already strengthening usury
+prohibitions in the 1100s, and the earliest instruments already seem to be
+trying to conceal interest. It's certainly true that the Protestant Reformation and
+the great weaking of usury laws ~1600 enabled the bills to become notes again.
+But the epochs themselves also seem to be marked by
 distinct material conditions that were independent of Church usury doctrine - in
 particular, the availability of silver - and the form of the bill served
 primarily a function in relation to those material conditions. That said, as we
 will see, the Church’s role as a *participant* in the system, a remitter of
 funds from foreign realms to the papal treasury, and a receiver of actual
-precious metal, will play a critical role in the system's evolution.
+precious metal, plays a critical role in the system's evolution. Indeed, 
+it might even appear that the entire purpose of the international exchange system 
+in the classical period was to finance the Church.
 
 Before wrapping up this intro, a word about money. For much of this history,
 money was precious metal, either in bullion or physical coins. And the entire
@@ -179,12 +192,9 @@ The structure of the monetary system is changing. In all likelihood, the metals 
 In all likelihood, crypto matters too. Exactly how is anyone's guess. Perhaps
 the past is a useful guide.
 
-This then is the history of that 800 year dance between the financing
+Thus we wish to explore this history, of that 800 year dance between the financing
 of trade and the financing of sovereigns, told through the
 eyes of the instrument that lubricated it all, the bill of exchange.
-
-*Stay tuned for Part 1: The Early Period, 1100-1300 - we'll hit the Crusades,
-an explosion of silver mining, the Champagne Fairs, Papal banking, and more.*
 
 [^1]: Larry Neal, *The rise of financial capitalism*. His description of bills of
   exchange on page 6 gets one of the basic terms wrong, and his setup is
