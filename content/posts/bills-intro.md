@@ -210,16 +210,15 @@ eyes of the instrument that lubricated it all, the bill of exchange.
   British innovation (they're not). She otherwise dismisses the role of finance
   in the development of capitalism. For her, capitalism arose entirely from
   particular conditions in the British countryside that forced tenant farmers to
-  innovate to pay rent. The book is cited over 2500 times. Important omissions
-  from her story are glaring.
+  innovate to pay rent. The book is cited over 2500 times. 
 
 [^3]: Payton Usher's Magnum Opus, *The Early History of Deposit Banking in the Mediteranean* (1943) laid the foundation
 for a proper study of the history of banking. His student Raymond de Roover had
     a prolific few decades uncovering mysteries of the bills of exchange, early
     double entry bookkeeping, the markets of Bruges, and the secret books of the Medici.
     Robert Lopez popularized the notion of the Commercial Revolution of the 13th
-    century. John Munro took up the study of the bills and early financial
-    instruments. Last but not least, a remarkable book, 
+    century. Spufford inventoried the money's and their exchange rates. John Munro advanced the whole field further.
+    Last but not least, a remarkable book, 
     *Private Money and Public Currencies: The Sixteenth Century Challenge*, unravelled the full mystery of the bills of exchange 
     and the international network of exchange they enabled at its climax in the
     16th c, but the book is unnecessarily difficult. I hope to offer a clear summarization in a later
